@@ -35,6 +35,8 @@ Section 4 is devoted entirely to the \beta schedule, where low \beta indicates w
 
 The other extreme, \beta = 0, is the same as Q^\rho-Learning, which I think is the same as SARSA. In the experiment, they use a linear scheduling.
 
+UPDATE: I think Q^\rho and SARSA are different but the confusion is that they can be transformed into each other. Q^\rho is concerned about the policy during the *update* step in Q(s,a) and does normal epsilon-greedy exploration, SARSA is concerned about the policy during exploration but performs an update step which is deterministic. But for Q^\rho we can turn it into SARSA by turning the \rho into 1 for whatever action we'd take (e.g. from eps-greedy) and 0 otherwise. Yeah, it's confusing, please keep it at 0/1.
+
 Here's a "devil's advocate" thought: why can't we run a simple hybrid of SARSA and Q-Learning? If we have a prior already here, let's just set some 0 < \epsilon < 1, where each iteration, with probability \epsilon, we run SARSA w/the prior, else we run Q-Learning. Do this while annealing \epsilon to 0. Isn't that it? Why do we need information theory? Section 4.1 argues for the existence of a \beta which results in unbiased estimates (non-constructive proof). Would that help? And this still doesn't assuage my concern over needing a good prior \rho. 
 
 They also claim:
@@ -67,7 +69,7 @@ Their results are packed into the GIANT Figure 2 (tough to see for colorblinds l
 
 It turns out that G-learning is indeed better in the noisier cases. The results are claimed to be statistically significant. However, I would be interested in seeing how they tuned the competing algorithms.
 
-Huh, in the cliff-walking example they explicitly mention SARSA ... so what's the difference between SARSA and Q^\rho-learning?? BTW for the cliff walking demo, I tested it out myself, Q-learning indeed learns the risky path and SARSA learns the safe path. This is because with an exploration policy of 90% greedy, 10% other, *if* that is what the agent is following, it will risk falling in the cliff often with the risky path due to the 10%. So the best case with 10% random actions is to take the safe route. Note that the actions are deterministic so the optimal policy if we were following a *purely greedy* policy (no random actions) would be the risky path. I re-ran SARSA with no exploration in the agent's policy and got the "risky" path.
+For the cliff walking demo, I tested it out myself, Q-learning indeed learns the risky path and SARSA learns the safe path. This is because with an exploration policy of 90% greedy, 10% other, *if* that is what the agent is following, it will risk falling in the cliff often with the risky path due to the 10%. So the best case with 10% random actions is to take the safe route. Note that the actions are deterministic so the optimal policy if we were following a *purely greedy* policy (no random actions) would be the risky path. I re-ran SARSA with no exploration in the agent's policy and got the "risky" path.
 
 Their cliff-walking domain is supposed to illustrate another strength of G-learning but I'm unsure what they mean. My guess is they argue G-learning, during *exploration*, will prefer to be away from the cliff most of the time, to make exploration less costly. It's true that in some cases, such as the Atari 2600 games there's virtually no cost to having bad exploration, so this is not a concern, but in more "realistic" situations, I can see why it is important to consider this.
 
@@ -80,4 +82,4 @@ This might be more straightforward for me to immediately get to work on, since i
 
 I'm concerned about the need for a prior policy, and also if adding a penalized term is enough to make this algorithm better than Q-learning. To add more to the confusion, G-Learning is supposed to take a "Frequentist" view, and not be like "Bayesian Q-learning."
 
-I'm also wondering about the hybrid of SARSA and Q-learning that I thought about earlier.
+I'm also wondering about the hybrid of SARSA/Q^\rho and Q-learning that I thought about earlier.
