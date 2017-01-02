@@ -62,6 +62,7 @@ The most related work is a NIPS 2016 paper by Bellemare et al., which I should p
 
 Nice simple idea, interesting results, figures unreadable. It will be interesting to see if it gets accepted into ICLR 2017.
 
+I guess another takeaway is to ask myself if I can use hash tables in some way for my work. They're pretty common.
 
 
 [1]:https://danieltakeshi.github.io/2016/11/25/frame-skipping-and-preprocessing-for-deep-q-networks-on-atari-2600-games/
