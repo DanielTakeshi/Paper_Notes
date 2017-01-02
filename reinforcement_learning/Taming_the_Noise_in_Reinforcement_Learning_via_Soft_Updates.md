@@ -43,7 +43,7 @@ They also claim:
 
 > [...] but to our knowledge G-learning is the first TD-learning algorithm to explicitly use soft-greedy policies in its updates.
 
-Section 3.1 discusses the "soft-greedy" part, but what makes it "soft"? Soft usually indicates that we have probabilitistic updates instead of deterministic updates. TODO
+Section 3.1 discusses the "soft-greedy" part, but what makes it "soft"? Soft usually indicates that we have probabilitistic updates instead of deterministic updates. My guess is the use of \rho(a | s) here. Remember Equation 4 from the paper? That is a *generalization* of normal Q-learning, and that has soft updates in the form of \rho since it weighs Q-values based on the action likelihood (instead of taking the max). This seems to be *separate* from the free energy formulation. Is that right?
 
 TODO Understand Section 5's related work description of the "closely-related" algorithm?
 
