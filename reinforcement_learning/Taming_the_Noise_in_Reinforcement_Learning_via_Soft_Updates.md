@@ -67,9 +67,9 @@ Their results are packed into the GIANT Figure 2 (tough to see for colorblinds l
 
 It turns out that G-learning is indeed better in the noisier cases. The results are claimed to be statistically significant. However, I would be interested in seeing how they tuned the competing algorithms.
 
-Huh, in the cliff-walking example they explicitly mention SARSA ... so what's the difference between SARSA and Q^\rho-learning??
+Huh, in the cliff-walking example they explicitly mention SARSA ... so what's the difference between SARSA and Q^\rho-learning?? BTW for the cliff walking demo, I tested it out myself, Q-learning indeed learns the risky path and SARSA learns the safe path. This is because with an exploration policy of 90% greedy, 10% other, *if* that is what the agent is following, it will risk falling in the cliff often with the risky path due to the 10%. So the best case with 10% random actions is to take the safe route. Note that the actions are deterministic so the optimal policy if we were following a *purely greedy* policy (no random actions) would be the risky path. I re-ran SARSA with no exploration in the agent's policy and got the "risky" path.
 
-Their cliff-walking domain is supposed to illustrate another strength of G-learning but I'm unsure what they mean. My guess is they argue G-learning, during *exploration*, will prefer to be away from the cliff most of the time, to make exploration less costly. But in some cases we don't care about that, e.g. Atari games.
+Their cliff-walking domain is supposed to illustrate another strength of G-learning but I'm unsure what they mean. My guess is they argue G-learning, during *exploration*, will prefer to be away from the cliff most of the time, to make exploration less costly. It's true that in some cases, such as the Atari 2600 games there's virtually no cost to having bad exploration, so this is not a concern, but in more "realistic" situations, I can see why it is important to consider this.
 
 
 ## My Thoughts and Takeaways
