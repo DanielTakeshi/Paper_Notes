@@ -20,7 +20,7 @@ IN PROGRESS
 
 ### 2016
 
-- [Value Iteration Networks, NIPS 2016](https://arxiv.org/abs/1602.02867) (1)
+- [Value Iteration Networks, NIPS 2016](https://arxiv.org/abs/1602.02867) (4) [[Summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md)]
 - [Deep Exploration via Bootstrapped DQN, NIPS 2016](https://arxiv.org/abs/1602.04621) (1)
 - [VIME: Variational Information Maximizing Exploration, NIPS 2016](https://arxiv.org/abs/1605.09674) (1)
 - [Cooperative Inverse Reinforcement Learning, NIPS 2016](https://arxiv.org/abs/1606.03137) (1)
