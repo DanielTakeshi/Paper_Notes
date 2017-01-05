@@ -13,34 +13,33 @@ IN PROGRESS
 
 ### 2017
 
-- [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md) (arXiv) (3)
-- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md) (arXiv) (4)
-- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md) (arXiv) (3)
+- [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), arXiv (3)
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
+- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning (under review) (5)
 - Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning (under review) (5)
 
 ### 2016
 
-- [Value Iteration Networks, NIPS 2016](https://arxiv.org/abs/1602.02867) (4) [[Summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md)]
-- [Deep Exploration via Bootstrapped DQN, NIPS 2016](https://arxiv.org/abs/1602.04621) (1)
-- [VIME: Variational Information Maximizing Exploration, NIPS 2016](https://arxiv.org/abs/1605.09674) (1)
-- [Cooperative Inverse Reinforcement Learning, NIPS 2016](https://arxiv.org/abs/1606.03137) (1)
-- [Principled Option Learning in Markov Decision Processes, EWRL, 2016](https://arxiv.org/abs/1609.05524) (4) [[Summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md)]
-- [Taming the Noise in Reinforcement Learning via Soft Updates, UAI 2016](https://arxiv.org/abs/1512.08562) (4) [[Summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md)]
-- [Benchmarking Deep Reinforcement Learning for Continuous Control, ICML 2016](https://arxiv.org/abs/1604.06778) (3)
-- [Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016](https://arxiv.org/abs/1511.06581) (1)
-- [Asynchronous Methods for Deep Reinforcement Learning, ICML 2016](https://arxiv.org/abs/1602.01783) (3)
-- [Prioritized Experience Replay, ICLR 2016](https://arxiv.org/abs/1511.05952) (1)
-- [High-Dimensional Continuous Control Using Generalized Advantage Estimation, ICLR 2016](https://arxiv.org/abs/1506.02438) (1)
-- [Continuous Control with Deep Reinforcement Learning, ICLR 2016](https://arxiv.org/abs/1509.02971) (1)
-- [HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards, arXiv 2016](https://arxiv.org/abs/1604.06508) (4)
-- [End-to-End Training of Deep Visuomotor Policies, JMLR 2016](https://arxiv.org/abs/1504.00702) (1)
-- [Deep Reinforcement Learning with Double Q-learning, AAAI 2016](https://arxiv.org/abs/1509.06461) (2)
-- [Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html) (1)
+- [Value Iteration Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md), NIPS 2016 (4)
+- Deep Exploration via Bootstrapped DQN, NIPS 2016 (1)
+- VIME: Variational Information Maximizing Exploration, NIPS 2016 (1)
+- Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
+- [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
+- [Taming the Noise in Reinforcement Learning via Soft Updates]((https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md)), UAI 2016 (4)
+- Benchmarking Deep Reinforcement Learning for Continuous Control, ICML 2016 (3)
+- Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
+- Asynchronous Methods for Deep Reinforcement Learning, ICML 2016 (3)
+- Prioritized Experience Replay, ICLR 2016 (1)
+- High-Dimensional Continuous Control Using Generalized Advantage Estimation, ICLR 2016 (1)
+- Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
+- End-to-End Training of Deep Visuomotor Policies, JMLR 2016 (1)
+- Deep Reinforcement Learning with Double Q-learning, AAAI 2016 (2)
+- Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
 
 ### 2015 and Earlier
 
-- [Trust Region Policy Optimization, ICML 2015](https://arxiv.org/abs/1502.05477) (2)
-- [Human-Level Control Through Deep Reinforcement Learning, Nature 2015](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html) (5)
-- [Playing Atari with Deep Reinforcement Learning, NIPS Workshop 2013](https://arxiv.org/abs/1312.5602) (5)
-- [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning, Foundations and Trends in Machine Learning 2013](http://www.research.rutgers.edu/~thomaswa/pub/Geramifard13Tutorial.pdf) (4)
+- Trust Region Policy Optimization, ICML 2015 (2)
+- Human-Level Control Through Deep Reinforcement Learning, Nature 2015 (5)
+- Playing Atari with Deep Reinforcement Learning, NIPS Workshop 2013 (5)
+- A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning, Foundations and Trends in Machine Learning 2013 (4)
