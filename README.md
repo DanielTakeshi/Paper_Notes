@@ -1,4 +1,4 @@
-This will contain my notes for research papers. The papers are arranged by category, and then further numbered on a (1) to (5) scale where a (1) means I essentially have not read it yet, while a (5) means I feel confident that I understand almost everything about the paper. Within a single year, these papers should be organized according to publication date, which gives an idea of how these contributions were organized. 
+This will contain my notes for research papers. The papers are arranged by category, and then further numbered on a (1) to (5) scale where a (1) means I essentially have not read it yet, while a (5) means I feel confident that I understand almost everything about the paper. Within a single year, these papers should be organized according to publication date, which gives an idea of how these contributions were organized. The links here will link to my paper summaries (if I have them).
 
 
 # Markov Chain Monte Carlo
@@ -13,8 +13,9 @@ IN PROGRESS
 
 ### 2017
 
-- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning (under review)](https://arxiv.org/abs/1611.04717) (4) [[Summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md)]
-- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning (under review)](https://arxiv.org/abs/1611.02779) (4) [[Summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md)]
+- [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md) (arXiv) (3)
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md) (arXiv) (4)
+- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md) (arXiv) (3)
 - Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning (under review) (5)
 - Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning (under review) (5)
 
