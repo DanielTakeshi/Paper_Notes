@@ -26,7 +26,7 @@ IN PROGRESS
 - VIME: Variational Information Maximizing Exploration, NIPS 2016 (1)
 - Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
-- [Taming the Noise in Reinforcement Learning via Soft Updates]((https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md)), UAI 2016 (4)
+- [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
 - Benchmarking Deep Reinforcement Learning for Continuous Control, ICML 2016 (3)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
 - Asynchronous Methods for Deep Reinforcement Learning, ICML 2016 (3)
