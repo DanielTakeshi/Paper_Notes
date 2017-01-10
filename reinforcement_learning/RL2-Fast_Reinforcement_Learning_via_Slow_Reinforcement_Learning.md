@@ -1,6 +1,12 @@
 # RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning
 
-General idea: they encode an RL algorithm inside the weights of a Recurrent Neural Network (RNN). This is designed to be the "fast" part, since there's prior knowledge, and the "slow" part is when they have to train the weights. The problem they tackle is the need to use a large number of samples and trials for general RL algorithms, particularly with DQNs, and PGs; they wish to use priors. The name RL^2 comes from "using reinforcement learning ... to leran a reinforcement learning algorithm"!
+General idea: they encode an RL algorithm inside the weights of a Recurrent
+Neural Network (RNN). This is designed to be the "fast" part, since there's
+prior knowledge, and the "slow" part is when they have to train the weights. The
+problem they tackle is the need to use a large number of samples and trials for
+general RL algorithms, particularly with DQNs, and PGs; they wish to use priors.
+The name RL^2 comes from "using reinforcement learning ... to learn a
+reinforcement learning algorithm"!
 
 
 ## Introductory Stuff

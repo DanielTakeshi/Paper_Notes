@@ -1,6 +1,17 @@
 This will contain my notes for research papers. The papers are arranged by category, and then further numbered on a (1) to (5) scale where a (1) means I essentially have not read it yet, while a (5) means I feel confident that I understand almost everything about the paper. Within a single year, these papers should be organized according to publication date, which gives an idea of how these contributions were organized. The links here will link to my paper summaries (if I have them).
 
 
+# Deep Learning
+(Not counting Deep *Reinforcement* Learning; see the "Reinforcement Learning"
+category)
+
+### 2014
+
+- [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
+
+
+
+
 # Markov Chain Monte Carlo
 
 ### 2016
@@ -18,6 +29,7 @@ This will contain my notes for research papers. The papers are arranged by categ
 
 
 # Reinforcement Learning
+(*Mostly* of the "deep" variety)
 
 ### 2017
 
