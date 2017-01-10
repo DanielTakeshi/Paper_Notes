@@ -1,9 +1,13 @@
-This will contain my notes for research papers. The papers are arranged by category, and then further numbered on a (1) to (5) scale where a (1) means I essentially have not read it yet, while a (5) means I feel confident that I understand almost everything about the paper. Within a single year, these papers should be organized according to publication date, which gives an idea of how these contributions were organized. The links here will link to my paper summaries (if I have them).
+This will contain my notes for research papers. The papers are arranged by category, and then further numbered on a (1) to (5) scale where a (1) means I essentially have not read it yet, while a (5) means I feel confident that I understand almost everything about the paper. Within a single year, these papers should be organized according to publication date, which gives an idea of how these contributions were organized. The links here will link to my paper summaries (if I have them), otherwise the summaries are likely somewhere on a long TODO list.
 
 
 # Deep Learning
 (Not counting Deep *Reinforcement* Learning; see the "Reinforcement Learning"
 category)
+
+### 2016
+
+- NIPS 2016 Tutorial: Generative Adversarial Networks, arXiv (1)
 
 ### 2014
 
@@ -20,7 +24,10 @@ category)
 
 ### 2014
 
+- Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (3)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
+- Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach, ICML 2014 (4)
+- Stochastic Gradient Hamiltonian Monte Carlo, ICML 2014 (2)
 
 ### 2011
 
