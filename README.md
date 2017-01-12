@@ -18,6 +18,10 @@ category)
 
 # Markov Chain Monte Carlo
 
+### 2017
+
+- A Conceptual Introduction to Hamiltonian Monte Carlo, arXiv (1)
+
 ### 2016
 
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2016 (I think?) (3)
