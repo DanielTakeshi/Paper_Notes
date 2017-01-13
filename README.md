@@ -29,6 +29,7 @@ category)
 ### 2014
 
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
+- Recurrent Models of Visual Attention, NIPS 2014 (1)
 
 
 
@@ -61,11 +62,11 @@ category)
 
 ### 2017
 
-- Modular Multitask Reinforcement Learning with Policy Sketches, arXiv (1)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic%20Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), arXiv (3)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), arXiv (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
+- Modular Multitask Reinforcement Learning with Policy Sketches, arXiv (1)
 - Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning (under review) (5)
 - Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning (under review) (5)
 
@@ -78,10 +79,10 @@ category)
 - Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
+- [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (3)
 - Benchmarking Deep Reinforcement Learning for Continuous Control, ICML 2016 (3)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
-- [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (3)
-- Prioritized Experience Replay, ICLR 2016 (1)
+- [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, ICLR 2016 (1)
 - Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
 - End-to-End Training of Deep Visuomotor Policies, JMLR 2016 (1)
@@ -92,6 +93,7 @@ category)
 
 - Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
 - Trust Region Policy Optimization, ICML 2015 (2)
+- Massively Parallel Methods for Deep Reinforcement Learning, ICML Workshop 2015 (1)
 - Human-Level Control Through Deep Reinforcement Learning, Nature 2015 (5)
 - Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
 - Playing Atari with Deep Reinforcement Learning, NIPS Workshop 2013 (5)
