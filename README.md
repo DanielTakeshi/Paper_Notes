@@ -1,4 +1,14 @@
-This will contain my notes for research papers. The papers are arranged by category, and then further numbered on a (1) to (5) scale where a (1) means I essentially have not read it yet, while a (5) means I feel confident that I understand almost everything about the paper. Within a single year, these papers should be organized according to publication date, which gives an idea of how these contributions were organized. The links here will link to my paper summaries (if I have them), otherwise the summaries are likely somewhere on a long TODO list.
+This will contain my notes for research papers that I've read. The papers are
+arranged by category, and then further numbered on a (1) to (5) scale where a
+(1) means I have only barely skimmed it, while a (5) means I feel confident that
+I understand almost everything about the paper. Within a single year, these
+papers should be organized according to publication date, which gives an idea of
+how these contributions were organized.
+
+The links here go to my paper summaries (if I have them), otherwise I probably
+have put that task somewhere in my long TODO list for papers to read/write
+about. I won't be listing all relevant papers, just the ones that I'm mostly
+likely to try and summarize here.
 
 
 # Deep Learning
@@ -8,6 +18,13 @@ category)
 ### 2016
 
 - NIPS 2016 Tutorial: Generative Adversarial Networks, arXiv (1)
+- Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks, NIPS 2016 (1)
+
+### 2015
+
+- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, ICML 2015 (4)
+- DRAW: A Recurrent Neural Network For Image Generation, ICML 2015 (2)
+- The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
 
 ### 2014
 
@@ -40,10 +57,11 @@ category)
 
 
 # Reinforcement Learning
-(*Mostly* of the "deep" variety)
+(Mostly of the *deep* variety)
 
 ### 2017
 
+- Modular Multitask Reinforcement Learning with Policy Sketches, arXiv (1)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic%20Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), arXiv (3)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), arXiv (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
@@ -57,6 +75,7 @@ category)
 - Deep Exploration via Bootstrapped DQN, NIPS 2016 (1)
 - VIME: Variational Information Maximizing Exploration, NIPS 2016 (1)
 - Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
+- Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
 - Benchmarking Deep Reinforcement Learning for Continuous Control, ICML 2016 (3)
@@ -71,7 +90,11 @@ category)
 
 ### 2015 and Earlier
 
+- Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
 - Trust Region Policy Optimization, ICML 2015 (2)
 - Human-Level Control Through Deep Reinforcement Learning, Nature 2015 (5)
+- Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
 - Playing Atari with Deep Reinforcement Learning, NIPS Workshop 2013 (5)
 - A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning, Foundations and Trends in Machine Learning 2013 (4)
+- A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
+- Maximum Entropy Inverse Reinforcement Learning, AAAI 2008 (2)
