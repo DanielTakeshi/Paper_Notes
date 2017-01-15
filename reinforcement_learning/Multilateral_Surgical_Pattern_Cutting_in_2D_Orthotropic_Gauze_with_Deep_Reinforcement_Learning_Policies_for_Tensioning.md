@@ -28,6 +28,9 @@ Then here's what's interesting: we have a set segmented curves and sampled candi
 Three major ones:
 
 - Simulation, 17 open/closed curves, compare with three others: (1) no tension, (2) fixed, and (3) analytic.
+  - No tension: just a single arm cutting, no tension unless we count the four ends which hold the gauze (no they don't count ;) ...) so this is *no policy* at all, right? I assume what happens is the robot "sees" the exact curve and the cutting trajectory follows it.
+  - Fixed: Oh, a fixed tensioning point, I see. We keep it fixed at one point and cut.
+  - Analytic: we can compute forces/magnitude and determine where to put tension. This seems like it should be the best but actually DeepRL is better ...
 - Simulation again, this time only for their algorithm but gauge noise robustness.
 - Then 4 curves on a *real* **da Vinci Research Kit (DVRK)**. It's supposed to be relatively complicated to use. :(
 
