@@ -79,7 +79,7 @@ category)
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
-- Maximum Entropy Inverse Reinforcement Learning, AAAI 2008 (2)
+- [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
 
 
 
@@ -109,7 +109,6 @@ category)
 
 These don't quite fit in some of the other sections.
 
-### 2016
-
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards, ICRA 2016 (5)
+- [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Transactions on Parallel and Distributed Systems 2014 (4)
