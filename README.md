@@ -18,7 +18,6 @@ category)
 ### 2016
 
 - NIPS 2016 Tutorial: Generative Adversarial Networks, arXiv (1)
-- Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks, NIPS 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 
 ### 2015
