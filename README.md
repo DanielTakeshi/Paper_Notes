@@ -30,7 +30,7 @@ category)
 ### 2014
 
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
-- Recurrent Models of Visual Attention, NIPS 2014 (1)
+- [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (3)
 
 
 
