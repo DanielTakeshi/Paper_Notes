@@ -78,6 +78,14 @@ backpropagation) for the others.
 What's not used is TRPO, because it wasn't invented yet.  ;) Though I'm sure if
 this were a 2016 paper, they'd be using TRPO.
 
+**UPDATE**: After a second read, I take back some of the above. They use
+*backpropagation* to train the differentiable parts, and *policy gradients* for
+the non-differentiable parts. So when I said "parameters" and said "policy
+gradients", I don't think that's policy gradients --- I think that's just the
+*gradient itself* which we use in backpropagation. Policy gradients are an *RL*
+algorithm, let's keep the terminology consistent. (Yes, see the text above
+"Variance Reduction" in the paper.)
+
 
 ## Their Experiments
 
@@ -87,15 +95,40 @@ Two major experiments:
   digits. For the latter, they had to translate the MNIST digits to create the
   data. Their retina was set at 8x8, which is only large enough to see part of
   the 28x28 digit. Finally, they also test using cluttered, non-centered
-  datasets.
+  datasets. The key is that they frame this as a *sequential decision problem*.
+
+  OK, I think I'm getting it. In the static image classification task, the
+  internal environment (of the RNN) corresponds to the content of the image, and
+  the action is the predicted class ... *but this may only be executed after a
+  fixed number of steps*. Ahhh ... that would explain it. Only in the *last*
+  time step is a decision made. The action network thus has a linear softmax as
+  its final layer.
+
+  So in MNIST, they looked at an image up to 7 times (7 "glimpse"s, they report)
+  with the 8x8 patches possibly looking at different locations in the same
+  image? Cool! That seems a bit computationally heavy though --- I mean, seven
+  times looking at an image?!? --- which is the *opposite* of what their method
+  is supposed to do, but I guess it scales better and this example is just for
+  didactic purposes.
+
+  The non-centered one has an interesting conclusion:
+
+  > This experiment also shows that the attention model is able to successfully
+  > search for an object in a big image when the object is not centered.
+
+  Another one with *cluttered* data:
+
+  > Systems that operate on the entire image at full resolution are particularly
+  > susceptible to clutter and must learn to be invariant to it. One possible
+  > advantage of an attention mechanism is that it may make it easier to learn
+  > in the presence of clutter by focusing on the relevant part of the image and
+  > ignoring the irrelevant part.
+
+  Wow, this is starting to make sense to me. =) It's still amazing that this
+  works.
 
 - **A Game of "Catch"**: this is a dynamic environment, showcasing the attention
   model's impressive versatility.
-
-TODO I need to go through the descriptions again to understand the exact
-progression. However, I think for MNIST, they keep looking at (i.e. "attending
-to") different locations of the image until it feels confident that it knows the
-number. Is that right?
 
 In addition to describing their experiments, Section 4 also shows the design
 choices for the RNN as a whole, which may help answer some of the questions I
@@ -125,3 +158,8 @@ in those cases? I'm not sure but I *think* they still output actions each
 iteration ... so at time t, the action a_t is like the current prediction.  It
 may or may not get changed, but should *improve*, to whatever is outputted at
 a_T.
+
+After a second read, I'm starting to get really impressed. The cluttered MNIST
+experiment is creative! If I knew more about attention models, I'd provide
+comments/feedback, but judging by the amount of citations, there have been lots
+of improvements since this paper was published, so let me read more.
