@@ -122,9 +122,42 @@ A rather obvious conclusion: apprenticeship learning fails when the true expert
 cost function is not in the set \mathcal{C} of cost functions being considered.
 They then connect with their previous work from ICML 2016 to scale
 apprenticeship learning (a.k.a. imitation learning) with larger cost function
-spaces.
+spaces. Can this work be boiled down to: extension of ICML 2016 paper with
+generalized cost functions?
 
-**Section 5** 
+Unfortunately, I don't understand Equation 12 that well and it seems like I'd
+have to read their previous paper. Fortunately, it relates to policy gradients
+and TRPO so I have some intuition.
+
+**Section 5** describes their G.A.I.L. algorithm at last. They derive a new
+convex regularizer that lets them extend to generalized cost function. I plotted
+the function g(x) and it looks interesting, it seems like it decreases as
+it approaches something like -1.5 (whatever its minimizer is) and then it shoots
+up to infinity with x=0 and beyond that they explicitly set it to be +infty.
+Another insight is that they include the expert's performance *inside* the
+regularizer's metric. I'll have to think more carefully about what this means.
+
+Equation 14 reminds me of the formulas for GANs. And naturally they used "D" to
+help intuition. =) I will have to read these papers side-by-side and compare.
+They argue it is also related to the Jensen-Shannon divergence (similar to KL
+divergence). Ultimately, they derive Equation 15 which describes how to derive
+*a policy* ... whose *occupancy measure* has minimal "divergence" from the
+expert's occupancy measure.
+
+Insight: the generator G is trying to generate a distribution, which here is
+\rho_\pi, and is attempting to make it as hard as possible for a discriminator D
+to distinguish between \rho_\pi and \rho_{\pi_E}, the expert!
+
+Is this line of thinking right?
+
+- Equation 14 shows that \psi_{GA}^* is picking the best classifier that can
+  distinguish among the current policy and expert policy? I.e. the *best
+  discriminator*?
+- Thus Equation 15 is showing that the generator needs to *minimize* Equation
+  15.
+
+See **Algorithm 1** for details, where they explicitly find saddle points
+(why?). This is an *iterative* procedure, just like training GANs.
 
 
 ## Experiments
@@ -134,10 +167,18 @@ classics or more advanced MuJoCo ones (yeah, everyone uses that). No Atari 2600
 games, though. The advanced ones, according to the paper, were "only recent
 solved by model free RL" such as TRPO, so we finally have a competitor.
 
+I see, the experts are derived from TRPO. So there's nothing human about this.
+
+They show that their GAIN algorithm is able to get about 70% of the expert (i.e.
+TRPO) performance. That may not sound great, but it's better than the three
+baseline: behavioral cloning and two apprenticeship learning variants.
+
 
 ## My Thoughts and Takeaways
 
-I'm very confused about how this was derived. =(
+I'm still confused about lots of this paper, but I'm getting there in terms of
+understanding. I am trying to gauge the impact of this paper. Maybe I can read
+existing code or other blog posts about this.
 
 There are about 4-5 IRL papers that I want to read now. =) Whether I like it or
 not, I will have to read those to probably understand this paper.

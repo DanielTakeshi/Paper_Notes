@@ -49,7 +49,7 @@ category)
 ### 2016
 
 - [Value Iteration Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md), NIPS 2016 (4)
-- [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (2)
+- [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (3)
 - Deep Exploration via Bootstrapped DQN, NIPS 2016 (1)
 - VIME: Variational Information Maximizing Exploration, NIPS 2016 (1)
 - Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
