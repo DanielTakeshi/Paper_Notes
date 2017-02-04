@@ -1,11 +1,9 @@
 # Generative Adversarial Imitation Learning
 
-Note: this is very much in draft stage as I'm a bit confused about the paper.
-
 Main idea: The setting is Imitation Learning and the agent's goal is, given a
 bunch of expert trajectories, to imitate the expert. No other information is
 provided, not even the rewards from that trajectory. They want this to scale. To
-do so, they propose a *model-free IL* algorithm, and show that it exhibits with
+do so, they propose a *model-free IL* algorithm, and show that it exhibits
 improvements over the current state of the art. It can be thought of as a
 combination of IL and Generative Adversarial Networks. I'm glad I read
 about GANS before! Also, unlike most other IL algorithms which are related to
@@ -171,16 +169,21 @@ I see, the experts are derived from TRPO. So there's nothing human about this.
 
 They show that their GAIN algorithm is able to get about 70% of the expert (i.e.
 TRPO) performance. That may not sound great, but it's better than the three
-baseline: behavioral cloning and two apprenticeship learning variants.
+baseline: behavioral cloning and two apprenticeship learning variants. Remember,
+IL papers are about trying to closely match (or in rare cases, exceed) the
+expert, so we shouldn't expect new records being broken in terms of pure reward
+(or cost).
 
 
 ## My Thoughts and Takeaways
 
 I'm still confused about lots of this paper, but I'm getting there in terms of
 understanding. I am trying to gauge the impact of this paper. Maybe I can read
-existing code or other blog posts about this.
+existing code or other blog posts about this. I should definitely look [at this
+code][2] right away!
 
 There are about 4-5 IRL papers that I want to read now. =) Whether I like it or
 not, I will have to read those to probably understand this paper.
 
 [1]:http://math.stackexchange.com/questions/223235/please-explain-the-intuition-behind-the-dual-problem-in-optimization
+[2]:https://github.com/openai/imitation

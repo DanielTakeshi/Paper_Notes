@@ -15,6 +15,10 @@ likely to try and summarize here.
 (Not counting Deep *Reinforcement* Learning; see the "Reinforcement Learning"
 category)
 
+### 2017
+
+- Understanding Deep Learning Requires Rethinking Generalization, ICLR 2017 (1)
+
 ### 2016
 
 - NIPS 2016 Tutorial: Generative Adversarial Networks, arXiv (1)
@@ -59,8 +63,8 @@ category)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (3)
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Benchmarking_Deep_Reinforcement_Learning_for_Continuous_Control.md), ICML 2016 (4)
 - [Model-Free Imitation Learning with Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Free_Imitation_Learning_with_Policy_Optimization.md), ICML 2016 (2)
+- Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
-- Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, ICLR 2016 (1)
 - Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
