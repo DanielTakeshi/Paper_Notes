@@ -102,7 +102,7 @@ category)
 
 - Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (3)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
-- [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md.md), ICML 2014 (3)
+- [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
 - Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach, ICML 2014 (4)
 
 ### 2011
