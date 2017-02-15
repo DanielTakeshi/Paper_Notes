@@ -105,9 +105,10 @@ category)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
 - Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach, ICML 2014 (4)
 
-### 2011
+### 2011 and Earlier
 
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
+- MCMC Using Hamiltonian Dynamics, Handbook of Markov Chain Monte Carlo 2010 (2)
 
 
 # Miscellaneous
