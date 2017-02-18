@@ -69,21 +69,16 @@ we figured out how that works.
 **UPDATE** never mind we have code. The purpose is to estimate the errors of the
 algorithm. They want to estimate (and bound!) the *acceptance probability error*
 because that will be linearly correlated with the total variation distance (see
-Theorem 1).  Here are the highlights:
-
-- ...
-- ...
-- ... 
-
-...
+Theorem 1).
 
 
-## Theory
+## Some Theory
 
 **Section 5.1** contains the main non-supplementary theory. This is supposed to
 lead us to **Section 5.2** which, when *provided* with some error bound, tells
-us how to be within that bound while using *as little data as possible*. Some
-important points:
+us how to be within that bound while using *as little data as possible*. This is
+hard because using less data means the algorithm is more susceptible to errors.
+Some important points:
 
 - The epsilon is the error of a SINGLE test (error happens if the test picks
   something different than the full version). That is not the error of the FULL
@@ -92,7 +87,7 @@ important points:
   it's a sequence, is it normalized by the sequence length? I don't know. =(
   EDIT: See Equation 19, as well as 20. Indeed, \mathcal{E} is a sum over
   minibatches, and each component of the sum is a probability of making a
-  mistake.
+  mistake. This makes sense! =)
 - Hmm ... here's *another* metric for error, total variation distance. This one
   explicitly measures the differences in posteriors, so that seems much better.
 - With two assumptions, they show that the test statistic t follows a Gaussian
@@ -103,7 +98,9 @@ important points:
 - They use a quantity \Delta = P_{a,e}-P_a. Don't they need absolute values?
   EDIT: never mind, they use |\Delta| later. Whew. We're not guaranteed that
   P_{a,e} >= P_a since our test may tell us to reject if we unluckily get lots
-  of samples which tell us that our samples are bad.
+  of samples which tell us that our samples are bad. But this value for "error"
+  makes sense, it's the difference between actual acceptance vs acceptance
+  probability of their algorithm.
 
 OH, *this* is what they were using dynamic programming for --- to compute the
 estimated errors. They use this for **Figure 1**, which shows that for smaller
@@ -124,6 +121,13 @@ Let's recap:
 - Theorem 1 = error of stationary distribution
 
 Unfortunately, I don't have intuition on the Total Variation Distance metric. =(
+
+Again, how to choose m and epsilon?
+
+- They say they choose m approx 500, which works well in practice and they use
+  that for four experiments. So I don't think it is problematic for us to fix a
+  value like m = 100. It might make the optimization problem for epsilon easier.
+- But otherwise, we have to implement our own grid search algorithm??
 
 
 ## Experiments
