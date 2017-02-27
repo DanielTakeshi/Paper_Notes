@@ -74,7 +74,9 @@ class of policies parameterized by valid \theta, so the optimization is
 equivalently done over \theta. They take the gradient with respect to theta and
 arrive at the expected answer in Equation 7. They argue for a two-step process:
 
-1. Find the optimal cost function. (But wait, isn't that complicated IRL?!?)
+1. Find the optimal cost function. (But wait, isn't that complicated IRL?!?
+EDIT: hmm ... they have a way of finding it quickly, it's just a normalized
+version of some vector, and it's enough to find the parameterized version w.)
 2. Improve policy given this cost function. (I assume by using gradient-based
 methods.)
 

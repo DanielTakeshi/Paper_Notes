@@ -128,12 +128,13 @@ have to read their previous paper. Fortunately, it relates to policy gradients
 and TRPO so I have some intuition.
 
 **Section 5** describes their G.A.I.L. algorithm at last. They derive a new
-convex regularizer that lets them extend to generalized cost function. I plotted
-the function g(x) and it looks interesting, it seems like it decreases as
-it approaches something like -1.5 (whatever its minimizer is) and then it shoots
-up to infinity with x=0 and beyond that they explicitly set it to be +infty.
-Another insight is that they include the expert's performance *inside* the
-regularizer's metric. I'll have to think more carefully about what this means.
+convex regularizer that lets them extend to generalized cost functions. I
+plotted the function g(x) and it looks interesting, it seems like it decreases
+as it approaches something like -1.5 (whatever its minimizer is) and then it
+shoots up to infinity with x=0 and beyond that they explicitly set it to be
++infty.  Another insight is that they include the expert's performance *inside*
+the regularizer's metric. I'll have to think more carefully about what this
+means.
 
 Equation 14 reminds me of the formulas for GANs. And naturally they used "D" to
 help intuition. =) I will have to read these papers side-by-side and compare.
@@ -157,6 +158,10 @@ Is this line of thinking right?
 See **Algorithm 1** for details, where they explicitly find saddle points
 (why?). This is an *iterative* procedure, just like training GANs.
 
+PS: the generator tries to generate draws from a true distribution, where the
+"draws" are policies that closely match the expert! In practice, the paper says
+the generator draws *occupancy measures*, but that's the same thing as policies.
+
 
 ## Experiments
 
@@ -167,7 +172,7 @@ solved by model free RL" such as TRPO, so we finally have a competitor.
 
 I see, the experts are derived from TRPO. So there's nothing human about this.
 
-They show that their GAIN algorithm is able to get about 70% of the expert (i.e.
+They show that their GAIL algorithm is able to get about 70% of the expert (i.e.
 TRPO) performance. That may not sound great, but it's better than the three
 baseline: behavioral cloning and two apprenticeship learning variants. Remember,
 IL papers are about trying to closely match (or in rare cases, exceed) the
