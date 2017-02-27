@@ -170,14 +170,40 @@ classics or more advanced MuJoCo ones (yeah, everyone uses that). No Atari 2600
 games, though. The advanced ones, according to the paper, were "only recent
 solved by model free RL" such as TRPO, so we finally have a competitor.
 
-I see, the experts are derived from TRPO. So there's nothing human about this.
+I see, **the experts are derived from TRPO**. Humans did not generate them.
 
 They show that their GAIL algorithm is able to get about 70% of the expert (i.e.
 TRPO) performance. That may not sound great, but it's better than the three
-baseline: behavioral cloning and two apprenticeship learning variants. Remember,
+baselines: behavioral cloning and two apprenticeship learning variants. Remember,
 IL papers are about trying to closely match (or in rare cases, exceed) the
 expert, so we shouldn't expect new records being broken in terms of pure reward
-(or cost).
+(or cost). The last two baselines were in their ICML paper. **UPDATE**: it's
+even better than 70% usually. The 70% figure is across *all dataset sizes*, some
+of which are really small and therefore difficult to learn from.
+
+By the way, they also test on something else: *dataset sizes*. This is good, we
+can see which algorithms are sample-efficient by getting high performance (close
+to TRPO) with few trajectories in the overall dataset. In fact, for the classic
+control tasks, the smallest dataset has **one** trajectory?!? In other words, we
+run TRPO on the algorithm. Then we execute it for one trajectory. And ... that's
+our dataset that we feed into the GAIL algorithm, so during each iteration, when
+it "samples" trajectories from the dataset, the minibatch size is one and is
+always the same. Is this line of thinking correct? Maybe they had to reduce the
+number of trajectories to ensure that behavioral cloning and the other baselines
+were not good enough? It's fine to do this, because we want to know which
+algorithms are sample-efficient so that means restricting the set of expert
+policies from which the algorithms can sample.
+
+PS: the last paragraph assumes the numbers here represent trajectories in the
+entire dataset, not how many are sampled _per_iteration_, which is something
+different. I'm not sure what values they used.
+
+They say their algorithm is sample efficient, which I agree, though it's
+interesting because they use a TRPO step and TRPO is supposed to be sample
+*inefficient*. There seem to be two different "sample efficiency" metrics here,
+one for the number of trajectories, and another for environment interaction. For
+TRPO, how does the step work? Does it have to roll out its policy for many
+trajectories?
 
 
 ## My Thoughts and Takeaways
@@ -186,6 +212,10 @@ I'm still confused about lots of this paper, but I'm getting there in terms of
 understanding. I am trying to gauge the impact of this paper. Maybe I can read
 existing code or other blog posts about this. I should definitely look [at this
 code][2] right away!
+
+For future work, it looks like we should *not* try and be more sample efficient
+(i.e. with fewer trajectories in the database of expert trajectories) because it
+would be hard to beat GAIL.
 
 There are about 4-5 IRL papers that I want to read now. =) Whether I like it or
 not, I will have to read those to probably understand this paper.

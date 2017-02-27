@@ -22,7 +22,7 @@ category)
 
 ### 2016
 
-- NIPS 2016 Tutorial: Generative Adversarial Networks, arXiv (1)
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (2)
 - Deep Learning without Poor Local Minima, NIPS 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 
