@@ -2,6 +2,8 @@
 
 This is an expository-style paper which I hope will be useful to me.
 
+## Background and Motivation
+
 I'm not sure why Figure 1 from the original GANs paper ([see notes here][1])
 isn't here, because that figure was really helpful for me.
 
@@ -21,7 +23,8 @@ Figure 9:
 
 I really want to learn how all of these work, particularly variational
 autoencoders (VAEs). There are also some methods which I have not heard of
-before, such as fully visible belief networks (FVBNs).
+before, such as fully visible belief networks (FVBNs). Some of these are
+probably in their Deep Learning book.
 
 VAEs (and variational methods, more generally, and note here that this is
 slightly different from how I view the word "variational") define a lower bound
@@ -30,7 +33,89 @@ actual log likelihood will be higher than that, hence better.
 
 Subjective opinion: GANs produce better-looking images than VAEs. But Goodfellow
 emphasizes that this is empirical because there is no good way of comparing
-image quality. Can someone come up with a way?
+image quality. Can someone come up with a way? 
 
+Note: I remember, [the OpenAI gym blog post][2] said almost the same thing. Wow,
+that was almost a year ago ...
+
+The treatment of MCMC methods is cursory so I better take a look at the Deep
+Learning book. I wonder if there is a research opportunity to help MCMC scale
+better to higher dimensions? Both in regards to the number of samples and in
+regard to the parameter size of the model.
+
+GANs helped to overcome many of the disadvantages of other methods, but they
+have their own downside:
+
+> At the same time, GANs have taken on a new disadvantage: training them
+> requires finding the Nash equilibrium of a game, which is a more difficult
+> problem than optimizing an objective function.
+
+Interesting ...
+
+## How do GANs Work?
+
+Here's my gripe with Figure 13. It's a simple graphical model showing a GAN. But
+the graphical model provides absolutely no help to understanding GANs
+whatsoever! I understand graphical models; I want to know why *GANs* work. How
+is it that the gradients will flow and update to the correct spots, for
+instance? (PS: I like other figures, such as Figure 12.)
+
+But anyway, yes it's a two-player game, generators and discriminators, etc.
+Generators and discriminators need to be implemented with differentiable
+functions, which is where the deep learning part comes in. So when coding a GAN,
+I guess, we will need to form two neural networks.
+
+Key note:
+
+> If both models have sufficient capacity, then the Nash equilibrium of this game
+> corresponds to the G(z) being drawn from the same distribution as the training
+> data, and D(x) = 1/2 for all x.
+
+Now *that's* interesting. I've wondered why discriminators might not just
+dominate and get everything right?
+
+The written description of the math and parameters is really clear (page
+18-ish).  Thanks! Thinking of it in terms of a game rather than an optimization
+problem may help.
+
+Another connection with VAEs:
+
+> The relationship with variational autoencoders is more complicated; the GAN
+> framework can train some models that the VAE framework cannot and vice versa,
+> but the two frameworks also have a large intersection.
+
+Yeah ... I'm not sure why. =(
+
+Regarding training:
+
+> Many authors recommend running more steps of one player than the other, but as
+> of late 2016, the author's [Ian Goodfellow] opinion is that the protocol that
+> works the best in practice is simultaneous gradient descent, with one step for
+> each player.
+
+Um ... then I'll side with him, I guess. =)
+
+Discriminators use the standard cross entropy loss function. Ah, *that's* why
+the formulation made sense to me ... I didn't make the connection with cross
+entropy at first. Think: the cost *could* be, say, mean square error, but cross
+entropy is ... better. A few refreshers on Wikipedia and it's clear. =)
+
+
+## Exercises
+
+Don't cheat!
+
+### 7.1: Discriminator's Strategy
+
+TODO
+
+### 7.2:
+
+TODO
+
+### 7.3:
+
+TODO
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md
+[2]:https://openai.com/blog/generative-models/
