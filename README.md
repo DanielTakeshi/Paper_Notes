@@ -22,7 +22,7 @@ category)
 
 ### 2016
 
-- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (2)
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
 - Deep Learning without Poor Local Minima, NIPS 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 
@@ -30,6 +30,7 @@ category)
 
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, ICML 2015 (4)
 - DRAW: A Recurrent Neural Network For Image Generation, ICML 2015 (2)
+- Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
 - The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
 
 ### 2014

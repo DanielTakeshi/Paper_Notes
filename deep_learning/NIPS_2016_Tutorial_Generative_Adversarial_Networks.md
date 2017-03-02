@@ -98,7 +98,46 @@ Um ... then I'll side with him, I guess. =)
 Discriminators use the standard cross entropy loss function. Ah, *that's* why
 the formulation made sense to me ... I didn't make the connection with cross
 entropy at first. Think: the cost *could* be, say, mean square error, but cross
-entropy is ... better. A few refreshers on Wikipedia and it's clear. =)
+entropy is ... better. A few refreshers on Wikipedia and it's clear. =) I will put
+this as one of my extended insights in a forthcoming blog post.
+
+Section 3.2.4: not sure I understand this yet. I will re-read it.
+
+Section 3.2.5: heh, now *this* is helpful. I never tried understanding why the
+KL-divergence was not symmetric. Figure 14 is really helpful! Sadly, it no
+longer seems to be the major hypothesis as to why GANs are able to select modes
+(rather than taking maximum likelihoods and averaging over modes, producing
+blurry images). Key here is that we're making an assumption on the model family
+for p_model.
+
+I may want to read the DCGAN paper. It was featured in the [OpenAI blog post][2].
+
+TODO
+
+
+## Tips and Tricks
+
+I hope I can use some of these.
+
+- **Using labels**: I'm assuming the previous discussion on GANs did not say
+  anything about labels because we assume they don't exist? I assume these are
+  labels *other* than the "real" vs "generator-generated" images?
+
+- **Virtual Batch Normalization**: batch normalization is *part of the model*.
+  I.e. think of it as a layer (because it is!). It has a slight downside so use
+  the *virtual* variant where we have a reference batch.
+
+TODO
+
+
+## Research Frontiers
+
+Well, I *hope* I can do something that has impact.  The key frontiers have to do
+with convergence (or lack of it!), along with how to *evaluate* the output
+(we're just looking at image now and subjectively rating them), discrete
+outputs, semi-supervised learning, and connections with reinforcement learning.
+
+TODO
 
 
 ## Exercises
