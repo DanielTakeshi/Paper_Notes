@@ -125,19 +125,50 @@ I hope I can use some of these.
 
 - **Virtual Batch Normalization**: batch normalization is *part of the model*.
   I.e. think of it as a layer (because it is!). It has a slight downside so use
-  the *virtual* variant where we have a reference batch.
+  the *virtual* variant where we have a reference batch. Ian argues that with
+  normal batch normalization, the small minibatches will cause too much
+  fluctuation with the mean and standard deviation statistics each iteration.
+  This "fluctuation" will impact the generator's image more than the input code
+  z.
 
-TODO
+- I was originally wondering about the "balance" between G and D so it is good
+  that Ian brings this up here.
+
+There are lots of other tricks online.
 
 
 ## Research Frontiers
 
 Well, I *hope* I can do something that has impact.  The key frontiers have to do
 with convergence (or lack of it!), along with how to *evaluate* the output
-(we're just looking at image now and subjectively rating them), discrete
+(nowadays, we're just looking at images and subjectively rating them), discrete
 outputs, semi-supervised learning, and connections with reinforcement learning.
 
-TODO
+I can kind of see why mode collapse --- and convergence more generally --- is a
+problem. How do we tell if we're converging in a two-player game? In a
+"one-player game" or "normal optimization" we use stochastic gradient descent to
+make incremental progress towards a local minimum which is often good enough.
+But this may be harder with two players because one player's progress downward
+(in loss function space) may make the other player's progress upward.
+
+The TL;DR problem of mode collapse is that the generator should be able to, in
+principle, generate images that fall in one of N modes, but in practice, it only
+generates images falling in one of n << N modes.
+
+One possible solution: **minibatch features**, allowing discriminators to look
+at a sample image and then compare the features in latent space with features
+that are known to be from real vs generated samples. That seems logical.
+
+(Wait, now Ian Goodfellow says minibatch features have "reduced the mode
+collapse problem enough that other problems [...] become the most obvious
+defects." So ... I guess maybe mode collapse is not the biggest and/or pressing
+issue?)
+
+Another possible mode-collapse solution: **unrolled GANs**. More paper reading
+for me!  =)
+
+This was something I wondered about earlier: given x, can we find z, the code
+that generated it?
 
 
 ## Exercises
