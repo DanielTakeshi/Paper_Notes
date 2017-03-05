@@ -112,8 +112,6 @@ for p_model.
 
 I may want to read the DCGAN paper. It was featured in the [OpenAI blog post][2].
 
-TODO
-
 
 ## Tips and Tricks
 
@@ -177,15 +175,20 @@ Don't cheat!
 
 ### 7.1: Discriminator's Strategy
 
-TODO
+OK, *this* is what I was looking for, that helpful figure! I see, this was from
+Section 4 of the GANs paper, and I was confused, we have to actually and where 
+
 
 ### 7.2:
 
-TODO
+The first part is clear. The second was tricker, I wasn't aware that sinusoids
+formed the basis of these types of solutions.
+
 
 ### 7.3:
 
-TODO
+I'm not sure how they're deriving Equation 33?
+
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md
 [2]:https://openai.com/blog/generative-models/

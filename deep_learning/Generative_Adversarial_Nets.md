@@ -44,7 +44,8 @@ range of possible fake data.
 Training objective: minimize log(1-D(G(z))). I see, D(...) will be in (0,1)
 since it's a probability (of being "correct" for the discriminator), hence 1-D
 represents the opposite, but it's still in (0,1) hence it's appropriate to take
-a log for numerical reasons and/or mathematical convenience.
+a log for numerical reasons and/or mathematical convenience. [Update: I get it
+now, it's basically cross entropy and so forth.]
 
 
 ## The Discriminator (Police Officers)
