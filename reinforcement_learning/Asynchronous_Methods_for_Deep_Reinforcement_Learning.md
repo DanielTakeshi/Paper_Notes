@@ -85,11 +85,34 @@ then systematically benchmark their best algorithm, A3C, against prior work. And
 this is key: **they have different versions of A3C, which I assume refers to
 different neural networks which approximate the pi(...) function, i.e. the
 policy**. They do indeed use an LSTM for one of their versions, and it's the
-best performing one!
+best performing one! I know there has been a little work exploring LSTMs vs
+normal stacked Q-learning; there was that workshop paper I read... To be clear,
+it's the same architecture from the NATURE 2015 Atari paper, except with one
+LSTM tacked on after the last hidden layer? (And this is right before the
+softmax output?) I want to be sure, because for some reason this isn't mentioned
+in the Appendix!
+
+More experiments: a special driving simulator, Mujoco, and (drum roll please)
+Labyrinth! I see, the driving simulator was to test with richer/better images,
+Mujoco for continuous control, and Labyrinth for a new, complicated task!
+
+I get it, they also have scalability and robustness experiments. I should think
+about doing this in some papers, if my ideas are good enough. I like this:
+
+> There is usually a range of learning rates for each method and game
+> combination that leads to good scores, indicating that all methods are quite
+> robust to the choice of learning rate and random initialization. The fact that
+> there are virtually no points with scores of 0 in regions with good learning
+> rates indicates that the methods are stable and do not collapse or diverge
+> once they are learning.
 
 Appendix: I appreciate their exploration of momentum SGD and RMSProp. They had
 to do some more exploration of the latter due to the parallel setting. I get it,
-I'll just trust their result and won't investigate further.
+I'll just trust their result and won't investigate further. I also appreciate
+the last table, which explicitly enumerates the results.
+
+Question: what are they using for human-normalized scores? That's different from
+the *human starts* metric, right?
 
 
 ## My Thoughts and Takeaways
