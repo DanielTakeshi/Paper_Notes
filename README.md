@@ -78,11 +78,13 @@ category)
 
 ### 2015 and Earlier
 
+Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md
+
 - Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs.md), AAAI-SDMIA 2015 (5)
 - Trust Region Policy Optimization, ICML 2015 (2)
 - [Probabilistic Inference for Determining Options in Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Probabilistic_Inference_for_Determining_Options_in_Reinforcement_Learning.md), ICML Workshop 2015 (3)
-- Massively Parallel Methods for Deep Reinforcement Learning, ICML Workshop 2015 (1)
+- [Massively Parallel Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md), ICML Workshop 2015 (2)
 - [Human-Level Control Through Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), Nature 2015 (5)
 - Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)

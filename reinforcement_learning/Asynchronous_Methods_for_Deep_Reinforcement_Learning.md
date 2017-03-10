@@ -15,7 +15,7 @@ replay, and thus we can use on-policy methods.
 
 Most of this is familiar to me. I have a question, though. When doing n-step
 Q-learning, how are we supposed to know the rewards at subsequent time steps?
-Because they say r_t + gamma*r_{t+1} + ..., and that implies we know the rewards
+Because they say r_t + gamma \* r_{t+1} + ..., and that implies we know the rewards
 after the current (s,a) pair. But if this is online updating, how is this true?
 Are updates simply delayed until we get to n steps *after* the current (s,a)
 pair?
@@ -47,11 +47,11 @@ They modify four standard RL algorithms:
   I'm not following why they need "thread-specific parameters" here, though.
   This isn't in the one-step Q-learning pseudocode.
 
-- **Actor-critic**. Unfortunately I probably have the least knowledge on how
-  this works, and this is their best algorithm! It seems like a policy gradient
-  based method since the gradient is updating the parameters of the policy
-  directly, and they're using advantage functions. I still don't know what
-  **actor-critic** means. It looks like they're also putting in some n-step
+- **Actor-critic (i.e. A3C)**. Unfortunately I probably have the least knowledge
+  on how this works, and this is their best algorithm! It seems like a policy
+  gradient based method since the gradient is updating the parameters of the
+  policy directly, and they're using advantage functions. I still don't know
+  what **actor-critic** means. It looks like they're also putting in some n-step
   learning in the pseudocode. Why?? It looks just like vanilla policy gradients?
   And I still don't know what they mean by thread-specific parameters.
 
@@ -74,9 +74,22 @@ They apply two major changes to all of them.
 
 ## Experiments
 
-I appreciate their exploration of momentum SGD and RMSProp. They had to do some
-more exploration of the latter due to the parallel setting. I get it, I'll just
-trust their result and won't investigate further.
+Their setup has 16 cores for A3C (actually, for all four methods!). Does that
+mean 16 threads?
+
+I like Figure 1 very much. It packs a lot of information in it, but the
+advantages of A3C are clearly visible.
+
+More on Atari 2600 games: after their "exploratory" period in Figure 1, they
+then systematically benchmark their best algorithm, A3C, against prior work. And
+this is key: **they have different versions of A3C, which I assume refers to
+different neural networks which approximate the pi(...) function, i.e. the
+policy**. They do indeed use an LSTM for one of their versions, and it's the
+best performing one!
+
+Appendix: I appreciate their exploration of momentum SGD and RMSProp. They had
+to do some more exploration of the latter due to the parallel setting. I get it,
+I'll just trust their result and won't investigate further.
 
 
 ## My Thoughts and Takeaways
