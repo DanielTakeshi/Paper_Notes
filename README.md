@@ -109,7 +109,7 @@ Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md
 - Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (3)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
-- Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach, ICML 2014 (4)
+- [Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Towards_Scaling_up_Markov_Chain_Monte_Carlo:_An_Adaptive_Subsampling_Approach.md), ICML 2014 (4)
 
 ### 2011 and Earlier
 
