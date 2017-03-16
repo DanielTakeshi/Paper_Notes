@@ -23,19 +23,19 @@ and highly likely (well, we always want this).
 
 Method alternates between two steps:
 
-- Update momentum variables (these are supposed to be "simple")
+- Update momentum variables in a "simple" way.
 - Update position variables with a Metropolis-Hastings test.
 
 **Very helpful intuition**, in terms of a puck sliding along a surface. We have:
 
-- 2-D vector representing position.
-- 2-D vector representing momentum.
+- 2-D vector representing position q.
+- 2-D vector representing momentum p.
 - Thus, the "states" here are 4-D vectors.
 - Potential energy function (a.k.a. stored energy), proportional to height of
-  puck.
+  puck, a function of q.
 - Kinetic energy function (a.k.a. energy in a "body" due to motion), equal to
-  |p|^2/2*(mass_of_puck). Inversely related with potential energy as puck moves
-  along surfaces.
+  |p|^2/(2*(mass_of_puck)), i.e. a function of p. Inversely related with
+  potential energy as puck moves along surfaces.
 
 In probabilistic language:
 
@@ -54,7 +54,21 @@ What does this mean? TODO
 
 ## Math Notes
 
-TODO
+The "system" is defined by a Hamiltonian function, H(q,p), where q and p are
+both d-dimensional vectors representing position and momentum, respectively (why
+the same length?).
+
+How is he deriving Equations 5.1 an 5.2 when we haven't even defined the
+function? Or are these derivatives a *requirement* for a valid Hamiltonian
+function? What's the context? TODO find out!
+
+Now it gets clearer. We define the function as:
+
+H(q,p) := U(q) + K(p)
+
+and usually, U(q) = -log(p(\theta | ...)) and K(p) = (1/2) p^T M^{-1} p, where M
+is a symmetric, positive definite "mass" matrix, often a multiple of the
+identity.
 
 
 ## Takeaways
