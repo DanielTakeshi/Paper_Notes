@@ -49,7 +49,7 @@ category)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic%20Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
-- [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation-Learning.md), ICLR 2017 (3)
+- [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
 

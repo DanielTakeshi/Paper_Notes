@@ -53,9 +53,33 @@ Their algorithm requires a cost function formulation. They base it on GAIL by
 adding more terms to the agent's objective (which for GAIL is to maximize the
 discriminator's cross entropy, i.e. make the discriminator perform poorly in
 classification, since classifiers are supposed to *minimize* cross entropy).
+They say that GAIL will not do well in the third-person setting since the
+discriminator can tell the difference between the two settings, but they should
+have run an experiment to prove that.
 
-This paper is a fast read other than the math formulation for their setting. I
-think I like it! I wonder if there are other possible new problem settings?
-Also, what other insights can we derive from human behavior?
+OK, so how do they resolve this? This is a bit confusing for me. They argue that
+they can split up a deep network into two parts: a **feature extractor** and a
+**classifier**. This seems wrong to me, because all weights do contribute to the
+final classification and to feature extraction. As a *general rule* I can agree
+that features are extracted in the first few layers, but I don't see why they
+can declare a hard split. The notation in this paper is also confusing.
+**EDIT**: after thinking about it, why not use two separate networks, and have
+the output from the feature extractor be input to the second one?
+
+It looks like they're arguing this by adding in a mutual information criteria.
+Unfortunately, it mostly reflects me to other literature. I think the "domain
+confusion" intuition is that the discriminator will be confused about which
+policy the inputs (i.e. states) came from.
+
+They also provide two time steps, which makes sense. What's more confusing is
+that function G which flips the sign. Really? They have to do this to destroy
+the signal from backpropagation.
+
+Yeah, I'll need to look at this in more detail.
+
+This paper is a fast read other than the math formulation for their setting,
+which unfortunately mostly refers us to other work. I wonder if there are other
+possible new problem settings?  Also, what other insights can we derive from
+human behavior?
 
 [1]:https://openreview.net/forum?id=B16dGcqlx&noteId=B16dGcqlx
