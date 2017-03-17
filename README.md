@@ -73,7 +73,7 @@ category)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, ICLR 2016 (1)
 - Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
-- End-to-End Training of Deep Visuomotor Policies, JMLR 2016 (1)
+- [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (3)
 - Deep Reinforcement Learning with Double Q-learning, AAAI 2016 (2)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
 
