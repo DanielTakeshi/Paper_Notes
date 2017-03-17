@@ -48,22 +48,38 @@ See Figures 2 and 3 for additional information. Figure 2 is especially helpful.
 ### The CNN
 
 The CNN has seven layers, which is low nowadays but I guess not at the time the
-paper was written.
+paper was written. I'm not sure why they need three (!!) fully connected layers
+at the end, each of which is actually pretty small.
 
-It also uses something new: a **spatial feature point transformation**.
+It also uses something new: a **spatial feature point transformation**. One
+reason is that researchers often design CNNs to throw away spatial information
+to increase generality and robustness. 
+
+TODO I'm not sure I understand why this is helpful. Might need to look at
+Section 5 again.
+
+They use a pre-training procedure, which makes sense.
 
 
 ### Other Details
 
-They use Bregman ADMM (alternating directions method of multipliers).
+I know the usage of \pi_\theta to generate the ultimate policy. But what are the
+p functions, as shown in Table 1? Maybe think of all "p" functions as system
+dynamics? I need to understand their interaction.
+
+Also, I'd like to understand where the "linear-Gaussian" stuff comes from. What
+is it for?
+
+They use Bregman ADMM (alternating directions method of multipliers). However, I
+haven't been able to go through the math.
 
 
 ## Evaluation and Experiments
 
 This is where the paper shines, in my opinion, since they show robots performing
-tasks and it's easy for humans to see the results. There are four sets of
-experiments: hangar, cube, hammer, and bottle. All of these are done with the
-PR2 robot.
+tasks and it's easy for humans to see the results. There are four sets of real
+robot (PR2) experiments: hangar, cube, hammer, and bottle. They also test with
+Mujoco simulations.
 
 A few points:
 
@@ -73,3 +89,5 @@ A few points:
   vector. If this were Atari games, for instance, that "30-40" figure would be
   "3-15" since it represents game actions. However, each of the 30-40 dimensions
   is continuous, I think.
+
+- The policy learned is Gaussian, which ... (TODO clarify here).
