@@ -67,9 +67,9 @@ category)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Benchmarking_Deep_Reinforcement_Learning_for_Continuous_Control.md), ICML 2016 (4)
 - [Model-Free Imitation Learning with Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Free_Imitation_Learning_with_Policy_Optimization.md), ICML 2016 (4)
+- [Graying the Black Box: Understanding DQNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Graying_the_Black_Box_Understanding_DQNs.md), ICML 2016 (2)
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
-- Graying the Black Box: Understanding DQNs, ICML 2016 (1)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, ICLR 2016 (1)
 - Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
@@ -122,6 +122,8 @@ Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md
 
 These don't quite fit in some of the other sections.
 
+- Minimum-Information LQG Control Part II: Retentive Controllers, CDC 2016 (1)
+- Minimum-Information LQG Control Part I: Memoryless Controllers, CDC 2016 (1)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards, ICRA 2016 (5)
 - [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Transactions on Parallel and Distributed Systems 2014 (4)
