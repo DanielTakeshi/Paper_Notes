@@ -1,4 +1,4 @@
-Inspired by [Adrian Coyler][1] and [Denny Britz][2].
+Inspired by [Adrian Colyer][1] and [Denny Britz][2].
 
 This contains my notes for research papers that I've read. The papers are
 arranged according to four broad categories and then further numbered on a (1)
