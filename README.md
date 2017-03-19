@@ -14,8 +14,6 @@ likely to try and summarize here.
 
 
 # Deep Learning
-(Not counting Deep *Reinforcement* Learning; see the "Reinforcement Learning"
-category)
 
 ### 2017
 
@@ -43,7 +41,7 @@ category)
 
 
 # Reinforcement Learning
-(Mostly of the *deep* variety)
+(Also includes imitation learning)
 
 ### 2017
 
@@ -80,8 +78,6 @@ category)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
 
 ### 2015 and Earlier
-
-Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md
 
 - Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs.md), AAAI-SDMIA 2015 (5)
