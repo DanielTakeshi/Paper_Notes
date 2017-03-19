@@ -1,4 +1,6 @@
-This will contain my notes for research papers that I've read. The papers are
+Inspired by [Adrian Colyer][1] and [Denny Britz][2].
+
+This contains my notes for research papers that I've read. The papers are
 arranged according to four broad categories and then further numbered on a (1)
 to (5) scale where a (1) means I have only barely skimmed it, while a (5) means
 I feel confident that I understand almost everything about the paper. Within a
@@ -12,8 +14,6 @@ likely to try and summarize here.
 
 
 # Deep Learning
-(Not counting Deep *Reinforcement* Learning; see the "Reinforcement Learning"
-category)
 
 ### 2017
 
@@ -41,7 +41,7 @@ category)
 
 
 # Reinforcement Learning
-(Mostly of the *deep* variety)
+(Also includes imitation learning)
 
 ### 2017
 
@@ -67,7 +67,7 @@ category)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Benchmarking_Deep_Reinforcement_Learning_for_Continuous_Control.md), ICML 2016 (4)
 - [Model-Free Imitation Learning with Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Free_Imitation_Learning_with_Policy_Optimization.md), ICML 2016 (4)
-- [Graying the Black Box: Understanding DQNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Graying_the_Black_Box_Understanding_DQNs.md), ICML 2016 (2)
+- [Graying the Black Box: Understanding DQNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Graying_the_Black_Box_Understanding_DQNs.md), ICML 2016 (4)
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
@@ -78,8 +78,6 @@ category)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
 
 ### 2015 and Earlier
-
-Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md
 
 - Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs.md), AAAI-SDMIA 2015 (5)
@@ -131,3 +129,7 @@ These don't quite fit in some of the other sections.
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards, ICRA 2016 (5)
 - [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Transactions on Parallel and Distributed Systems 2014 (4)
+
+
+[1]:https://blog.acolyer.org/about/
+[2]:https://github.com/dennybritz/deeplearning-papernotes
