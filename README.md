@@ -105,6 +105,10 @@ Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md
 
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2016 (I think?) (3)
 
+### 2015
+
+- [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
+
 ### 2014
 
 - Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (3)
