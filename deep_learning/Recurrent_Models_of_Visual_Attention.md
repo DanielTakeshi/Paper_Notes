@@ -24,8 +24,8 @@ important parts of the input image. Now, how do we do that? Read on ...
 
 ## Their Algorithm 
 
-The purpose of their algorithm **Recurrent Attention Model (RAM)** (see Figure
-1) is, given a sequence of images so far (which might be video frames, for
+The purpose of their algorithm **Recurrent Attention Model (RAM)** (see Figure 1) is, 
+given a sequence of images so far (which might be video frames, for
 instance, or just randomly selected MNIST images), their algorithm gradually
 builds up an internal state which models the environment.  The next image seen
 will have "attention" applied to it based on this internal model, as well as
