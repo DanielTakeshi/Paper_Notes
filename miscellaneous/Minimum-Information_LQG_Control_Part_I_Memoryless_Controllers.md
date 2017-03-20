@@ -22,6 +22,45 @@ environment). They
   a simple form.
 - Study it!
 
+
+## Technical Details
+
 **Section II** defines the problem setting. Thankfully, it's clear: linear,
 Gaussians, etc.  Look back at this if I get confused, or look up some reference,
-since there's nothing new here.
+since there's nothing new here. We assume LTI controllers and LTI plants,
+resulting in a Gaussian stochastic process. This means each time step t is
+itself a Gaussian random variable.
+
+**Figure 3** provides some helpful intuition on *controller complexity*, along
+with their explanation:
+
+> For example, we can consider a noiseless binary channel and measure the
+> controller complexity by the number r of bits per time step that it transmits
+> from its sensor to its actuator.
+
+Intuitively, the more complex the controller, the more strength it should have
+to preserve the original information, i.e. more bits. (It's like neural networks
+vs less powerful models.) This "channel" is their main area of concern in this
+paper, and actually they now assume a *Gaussian* channel, not binary.
+
+See **Problem 1** for their main formulation. If our channel is very powerful,
+then x_t is "more informative" (since we can better utilize it) and so
+I(y_t;x_t) goes down (good) but the costs go up. Their solution appears to
+transform the problem into a type of Bayesian network, and then ... boom,
+**Lemma 2** comes up with the solution.
+
+Question: what is accomplished by transforming the Bayesian network from Figure
+2 into the one in Figure 4? It introduces two extra states which are MMSE's. I
+think they do this because the y_t cannot be directly used to get the control
+u_t. We have a limited channel so we can't use the entire data. They also argue
+Figure 4 by saying that x-hat for u is a "sufficient statistic of u_t for x_t."
+I may need to look at this again.
+
+Wait, **Theorem 1** is their main contribution, not Lemma 1. Oops. I will need
+to look at this again because it's a lot to process.
+
+
+## Appendices
+
+Appendix II is probably the easiest for me to understand. I'm not sure if this
+was needed for the paper (even for an appendix)? These could just be assumed.
