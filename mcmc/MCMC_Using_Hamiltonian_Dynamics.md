@@ -143,6 +143,10 @@ steps. I think that makes sense. Is this related to what I think of as MCMC
 sampling \theta points? TODO find out! Also, how related are these updates to
 the momentum SGD?
 
+- **Section 5** is about variations of HMC, involving splitting of the
+  Hamiltonian (not what I'd like to do) and others such as the Langevin Method
+  and partial momentum refresh (interesting!).
+
 
 ## Takeaways
 

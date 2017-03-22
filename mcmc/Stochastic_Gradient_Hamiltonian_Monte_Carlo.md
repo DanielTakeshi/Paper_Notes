@@ -11,14 +11,31 @@ proposals. They **DO NOT** want to rely on random walks!!
 
 Oh, and what's key to their paper is that the *naive* way to stochastic gradient
 (because, hey, why not just use Hamiltonian Monte Carlo with using n << N data
-points?) can be **arbitrarily bad** so they have to correct for that. Their
-"correction" is the heart of this paper. They use "Second-Order Langevin
-Dynamics" along with a "friction" term. Yeah, it's probably easier to grasp this
-with physics intuition.
+points, and potentially multiplying by N/n if an unbiased estimate is needed?)
+can be **arbitrarily bad** so they have to correct for that. Their "correction"
+is the heart of this paper. They use "Second-Order Langevin Dynamics" along with
+a "friction" term. Yeah, it's probably easier to grasp this with physics
+intuition.
 
 (Note: distant proposals are generally the best kind since they give us rapid
 exploration of the state space and don't get stuck in modes, but they can be low
 probability, which of course this paper is trying to *avoid*.)
+
+
+## Notation
+
+Make sure I refer back to this if I have questions on HMC. Section II is
+presented nicely. I also read a lot of Neal's paper. A few points:
+
+- Always remember the problem setting: sampling \theta values from some
+  distribution, and in our case we will pick it to be p(\theta | D) where D is
+  the dataset. This is proportional to exp(-U(\theta)) because, as discussed in
+  Neal 2010, we have U(\theta) = -\log p(\theta | D) as a convention. So the
+  exponential kills the log, negatives cancel, and we get the p(\theta | D) as
+  our distribution we're trying to sample from.
+
+- Also remember that in our setting, we'll be using H(q,p) = U(q)+K(p). Just
+  remember that.
 
 
 ## Algorithms and Theory
