@@ -30,7 +30,7 @@ likely to try and summarize here.
 ### 2015
 
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, ICML 2015 (4)
-- DRAW: A Recurrent Neural Network For Image Generation, ICML 2015 (2)
+- [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
 - The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
 
