@@ -94,7 +94,7 @@ likely to try and summarize here.
 
 
 
-# Markov Chain Monte Carlo
+# Markov Chain Monte Carlo, Bayesian Stuff, and Sampling Methods
 
 ### 2017
 
@@ -102,11 +102,13 @@ likely to try and summarize here.
 
 ### 2016
 
+- [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2016 (I think?) (3)
 
 ### 2015
 
 - [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
+- [Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Large-Scale_Distributed_Bayesian_Matrix_Factorization_using_Stochastic_Gradient_MCMC.md), KDD 2015 (1)
 
 ### 2014
 
