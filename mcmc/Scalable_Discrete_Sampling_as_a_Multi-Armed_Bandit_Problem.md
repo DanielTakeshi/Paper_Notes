@@ -12,6 +12,9 @@ uniform random variable, and find the interval where that r.v. lies in, and that
 corresponds to the *realization* (or more accurately, the realization *index*)
 of the r.v. of interest.
 
+(The alternative to this --- which I don't know about --- is a technique using
+the *Gumbel* distribution.)
+
 There might be some useful techniques in this paper that I can use in other
 areas. After all, they say:
 
