@@ -83,6 +83,7 @@ likely to try and summarize here.
 ### 2015 and Earlier
 
 - Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
+- [Deep Attention Recurrent Q-Network](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Attention_Recurrent_Q-Network.md), NIPS Workshop 2015 (3)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs.md), AAAI-SDMIA 2015 (5)
 - Trust Region Policy Optimization, ICML 2015 (2)
 - [Probabilistic Inference for Determining Options in Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Probabilistic_Inference_for_Determining_Options_in_Reinforcement_Learning.md), ICML Workshop 2015 (3)
