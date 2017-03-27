@@ -25,6 +25,7 @@ likely to try and summarize here.
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
 - Deep Learning without Poor Local Minima, NIPS 2016 (1)
+- [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 
 ### 2015
