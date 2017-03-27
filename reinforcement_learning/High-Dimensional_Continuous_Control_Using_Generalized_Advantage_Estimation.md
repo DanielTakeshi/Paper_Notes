@@ -6,8 +6,10 @@ pixels to *torques*, which are continuously-valued variables applied by the
 agent.
 
 **Main contribution**: a *family* of *policy gradient* estimators, called
-"Generalized Advantage Estimators." I interpret this as a subset of policy
-gradient algorithms. 
+"Generalized Advantage Estimators," with an emphasis on analysis (and
+experimental results!) in the online and batch setting (this isn't the first
+time GAEs have been used)I interpret this as a subset of policy gradient
+algorithms. 
 
 To be clear, what are the different policy gradient methods?
 
@@ -31,4 +33,13 @@ they state in their conclusion:
 Using the **advantage function** yields the best (i.e. smallest) variance among
 the estimators for the policy gradient. However, the advantage function itself
 has to be estimated first, so they introduce \gamma-just estimators which are
-unbiased for the advantage function.
+unbiased for the advantage function. However, I don't think GAEs are all
+\gamma-just, just for the two special cases they describe. The bias-variance
+tradeoff is with respect to the *policy gradient*, but unbiased advantage
+function estimators should result in unbiased policy gradient estimators,
+according to Definition 1.
+
+TODO do the proofs! I really should write this up sometime.
+
+I think one needs to make a distinction between the policy *update* (TRPO, prior
+work) and the *policy gradient estimate* (GAEs, this work).
