@@ -78,7 +78,7 @@ likely to try and summarize here.
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
-- [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (2)
+- [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (3)
 - Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
 - Deep Reinforcement Learning with Double Q-learning, AAAI 2016 (2)

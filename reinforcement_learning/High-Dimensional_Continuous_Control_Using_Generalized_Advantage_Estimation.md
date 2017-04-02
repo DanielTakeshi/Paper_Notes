@@ -1,5 +1,8 @@
 # High-Dimensional Continuous Control Using Generalized Advantage Estimation
 
+Update: see [this blog post][1] and (especially) [this blog post][2] for
+details. I don't plan to update these notes much.
+
 This is about high dimensional control, which usually means the state space x is
 of high dimension, and continuous control, which usually means mapping from raw
 pixels to *torques*, which are continuously-valued variables applied by the
@@ -7,9 +10,8 @@ agent.
 
 **Main contribution**: a *family* of *policy gradient* estimators, called
 "Generalized Advantage Estimators," with an emphasis on analysis (and
-experimental results!) in the online and batch setting (this isn't the first
-time GAEs have been used)I interpret this as a subset of policy gradient
-algorithms. 
+experimental results!) in the online and batch setting. I interpret this as a
+subset of policy gradient algorithms. 
 
 To be clear, what are the different policy gradient methods?
 
@@ -43,3 +45,6 @@ TODO do the proofs! I really should write this up sometime.
 
 I think one needs to make a distinction between the policy *update* (TRPO, prior
 work) and the *policy gradient estimate* (GAEs, this work).
+
+[1]:https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/
+[2]:https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/
