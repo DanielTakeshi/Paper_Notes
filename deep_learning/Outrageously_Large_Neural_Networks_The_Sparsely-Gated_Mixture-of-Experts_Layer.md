@@ -40,7 +40,11 @@ network components.
 
 ## Experiments
 
-TODO
+Here are the experiments:
+
+- **Language Modeling**: ...
+
+- **Machine Translation**: ...
 
 
 [1]:http://www.cs.toronto.edu/~ilya/pubs/
