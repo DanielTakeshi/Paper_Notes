@@ -18,7 +18,7 @@ likely to try and summarize here.
 ### 2017
 
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
-- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (1)
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (3)
 
 ### 2016
@@ -35,6 +35,7 @@ likely to try and summarize here.
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Deep Learning, Nature 2015 (1)
 - The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
+- ADAM: A Method for Stochastic Optimization, ICLR 2015 (2)
 - Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
 
 ### 2014
