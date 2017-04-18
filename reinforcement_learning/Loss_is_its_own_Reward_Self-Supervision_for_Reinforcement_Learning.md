@@ -51,11 +51,14 @@ this might be the way that people analyze "efficiency" in RL.
 Takeaways:
 
 - I need to understand self-supervision better, and how agents can annotate
-
   unlabeled data.
-- I also want to know what work has been done in *transfer learning* in the RL
-  domain. Transfer learning is prevalent in computer vision, but where was the
-  first of this for RL?
+
+- I also want to know what work has been done in transfer learning and
+  pre-training in the RL domain. They're prevalent in computer vision, but when
+  did people start using them for RL? I'm curious.
+
+- I need to see a precise definition and precise example of using an auxiliary
+  loss, with clear mathematical equations.
 
 Side note: this was originally an ICLR 2017 workshop paper. [See the reviews
 here][1].  However, the paper seems like it's gone through lots of changes so I
