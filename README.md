@@ -20,6 +20,7 @@ likely to try and summarize here.
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (3)
+- On the Origin of Deep Learning, arXiv (1)
 
 ### 2016
 
@@ -55,6 +56,8 @@ likely to try and summarize here.
 
 - Multi-Level Discovery of Deep Options, arXiv (2)
 - Iterative Noise Injection for Scalable Imitation Learning, arXiv (1)
+- Bridging the Gap Between Value and Policy Based Reinforcement Learning, arXiv (1)
+- Loss is its own Reward: Self-Supervision for Reinforcement Learning, arXiv (1)
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (4)
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), arXiv (2)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
@@ -145,6 +148,7 @@ likely to try and summarize here.
 
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (2)
+- Active Perception: Interactive Manipulation for Improving Object Detection, Technical Report 2010 (1)
 
 
 
