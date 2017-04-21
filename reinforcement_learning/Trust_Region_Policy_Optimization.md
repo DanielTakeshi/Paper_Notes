@@ -35,7 +35,12 @@ blog where it's easier to write math.)
 One key detail is to understand why they guarantee monotonic improvements. They
 require a **surrogate loss function**.
 
-Two variants of TRPO: **single-path** and **vine**, see Figure 1 for a visual.
+It looks like TRPO is defined in **Equation 12**. It looks deceptively simple.
+
+For actual implementation details, see **Section 5** where they discuss how to
+approximate expectations with samples, etc. Also: two variants of TRPO:
+**single-path** and **vine**, see Figure 1 for a visual. I'm more familiar with
+the single-path variant, of course.
 
 
 ## Experiments
