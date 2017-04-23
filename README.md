@@ -86,6 +86,7 @@ likely to try and summarize here.
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Benchmarking_Deep_Reinforcement_Learning_for_Continuous_Control.md), ICML 2016 (4)
 - [Model-Free Imitation Learning with Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Free_Imitation_Learning_with_Policy_Optimization.md), ICML 2016 (4)
 - [Graying the Black Box: Understanding DQNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Graying_the_Black_Box_Understanding_DQNs.md), ICML 2016 (4)
+- [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Control_of_Memory_Active_Perception_and_Action_in_Minecraft.md), ICML 2016 (2)
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
