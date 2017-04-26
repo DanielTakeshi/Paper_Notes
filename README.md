@@ -59,7 +59,7 @@ likely to try and summarize here.
 
 ### 2011 and Earlier
 
-- [Deep Learning via Hessian-Free Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/), ICML 2010 (2)
+- [Deep Learning via Hessian-Free Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Deep_Learning_via_Hessian-Free_Optimization.md), ICML 2010 (2)
 
 
 
