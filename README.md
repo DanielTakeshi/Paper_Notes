@@ -45,6 +45,21 @@ likely to try and summarize here.
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - Deep Learning in Neural Networks: An Overview, arXiv (1)
+- Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
+
+### 2013
+
+- On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
+- On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
+
+### 2012
+
+- ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 (5)
+- Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
+
+### 2011 and Earlier
+
+- [Deep Learning via Hessian-Free Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/), ICML 2010 (2)
 
 
 
@@ -57,6 +72,7 @@ likely to try and summarize here.
 - Multi-Level Discovery of Deep Options, arXiv (2)
 - Iterative Noise Injection for Scalable Imitation Learning, arXiv (1)
 - Reinforcement Learning with Deep Energy-Based Policies, arXiv (1)
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, arXiv (1)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), arXiv (2)
 - [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (4)
@@ -109,6 +125,7 @@ likely to try and summarize here.
 ### 2014 and Earlier
 
 - Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
+- Deterministic Policy Gradient Algorithms, ICML 2014 (1)
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
@@ -133,6 +150,7 @@ likely to try and summarize here.
 - [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
 - Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards, ICRA 2016 (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2016 (I think?) (3)
+- Revisiting Active Perception, arXiv (1)
 
 ### 2015
 
@@ -147,11 +165,12 @@ likely to try and summarize here.
 - [Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Towards_Scaling_up_Markov_Chain_Monte_Carlo:_An_Adaptive_Subsampling_Approach.md), ICML 2014 (4)
 - [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Transactions on Parallel and Distributed Systems 2014 (4)
 
-### 2011 and Earlier
+### 2013 and Earlier
 
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (2)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
+- Active Perception, Proceedings of the IEEE 1988 (1)
 
 
 
