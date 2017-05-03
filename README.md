@@ -81,6 +81,7 @@ likely to try and summarize here.
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
 - Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
+- Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening, ICLR 2017 (1)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic%20Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
@@ -117,7 +118,7 @@ likely to try and summarize here.
 - Learning Continuous Control Policies by Stochastic Value Gradients, NIPS 2015 (1)
 - [Deep Attention Recurrent Q-Network](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Attention_Recurrent_Q-Network.md), NIPS Workshop 2015 (3)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs.md), AAAI-SDMIA 2015 (5)
-- [Trust Region Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Trust_Region_Policy_Optimization.md), ICML 2015 (2)
+- [Trust Region Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Trust_Region_Policy_Optimization.md), ICML 2015 (4)
 - [Probabilistic Inference for Determining Options in Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Probabilistic_Inference_for_Determining_Options_in_Reinforcement_Learning.md), ICML Workshop 2015 (3)
 - [Massively Parallel Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md), ICML Workshop 2015 (2)
 - [Human-Level Control Through Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), Nature 2015 (5)
@@ -170,6 +171,7 @@ likely to try and summarize here.
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (2)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
+- [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Introduction_to_the_Conjugate_Gradient_Method_Without_the_Agonizing_Pain.md), Technical Report, 1994 (3)
 - [Active Perception](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception.md), Proceedings of the IEEE 1988 (2)
 
 
