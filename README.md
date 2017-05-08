@@ -86,6 +86,7 @@ likely to try and summarize here.
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
+- [Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Comparing_Human-Centric_and_Robot-Centric_Sampling_for_Robot_Deep_Learning_from_Demonstrations.md), ICRA 2017 (1)
 - Deep Reinforcement Learning: An Overview, arXiv (1)
 
 ### 2016
@@ -98,6 +99,7 @@ likely to try and summarize here.
 - Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
 - A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, NIPS Workshop 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
+- [Robot Grasping in Clutter: Using a Hierarchy of Supervisors for Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robot_Grasping_in_Clutter_Using_a_Hierarchy_of_Supervisors_for_Learning_from_Demonstrations.md), CASE 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Benchmarking_Deep_Reinforcement_Learning_for_Continuous_Control.md), ICML 2016 (4)
@@ -139,8 +141,7 @@ likely to try and summarize here.
 
 ### 2017
 
-- Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics, arXiv (3)
-- Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations, ICRA 2017 (1)
+- Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics, RSS 2017 (3)
 - A Conceptual Introduction to Hamiltonian Monte Carlo, arXiv (1)
 
 ### 2016
