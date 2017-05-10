@@ -26,13 +26,14 @@ likely to try and summarize here.
 
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
+- [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (1)
 - Deep Learning without Poor Local Minima, NIPS 2016 (1)
 - [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 
 ### 2015
 
-- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, ICML 2015 (4)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Deep Learning, Nature 2015 (1)
 - The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
@@ -55,6 +56,7 @@ likely to try and summarize here.
 ### 2012
 
 - ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 (5)
+- Large Scale Distributed Deep Networks, NIPS 2012 (1)
 - Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
 
 ### 2011 and Earlier
