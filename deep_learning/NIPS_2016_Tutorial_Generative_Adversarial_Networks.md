@@ -132,6 +132,8 @@ I hope I can use some of these.
 - I was originally wondering about the "balance" between G and D so it is good
   that Ian brings this up here.
 
+- One-sided label smoothing. Yes, I've tried it and I like it.
+
 There are lots of other tricks online.
 
 
