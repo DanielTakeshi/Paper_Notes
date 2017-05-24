@@ -3,6 +3,12 @@
 This is the famous DCGAN paper, which is I assume the default architecture we
 assume for GANs, at least in computer vision applications for image generation.
 
+See also the [OpenAI blog post][4], among other things. They clearly describe
+the **input code**:
+
+> This network takes as input 100 random numbers drawn from a uniform
+> distribution (we refer to these as a code, or latent variables, in red)
+
 
 ## Main Idea
 
@@ -52,3 +58,4 @@ As the first repository states:
 [1]:https://github.com/Newmu/dcgan_code
 [2]:https://github.com/soumith/dcgan.torch
 [3]:https://github.com/carpedm20/DCGAN-tensorflow
+[4]:https://blog.openai.com/generative-models/
