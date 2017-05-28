@@ -62,8 +62,7 @@ likely to try and summarize here.
 
 ### 2012
 
-- [ImageNet Classification with Deep Convolutional Neural
-  Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/.md), NIPS 2012 (5)
+- [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md.md), NIPS 2012 (5)
 - Large Scale Distributed Deep Networks, NIPS 2012 (1)
 - Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
 
