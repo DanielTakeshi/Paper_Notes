@@ -17,6 +17,7 @@ likely to try and summarize here.
 
 ### 2017
 
+- FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
@@ -28,16 +29,20 @@ likely to try and summarize here.
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
 - [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (3)
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NIPS 2016 (2)
+- Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
-- Deep Learning without Poor Local Minima, NIPS 2016 (1)
 - [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 
 ### 2015
 
+- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
+- Training Very Deep Networks, NIPS 2015 (2)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
+- Going Deeper with Convolutions, CVPR 2015 (1)
 - The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
+- Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
 - ADAM: A Method for Stochastic Optimization, ICLR 2015 (2)
 - Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
 
@@ -47,6 +52,7 @@ likely to try and summarize here.
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - Deep Learning in Neural Networks: An Overview, arXiv (1)
+- Visualizing and Understanding Convolutional Networks, ECCV 2014 (1)
 - Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
 
 ### 2013
@@ -56,7 +62,8 @@ likely to try and summarize here.
 
 ### 2012
 
-- ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 (5)
+- [ImageNet Classification with Deep Convolutional Neural
+  Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/.md), NIPS 2012 (5)
 - Large Scale Distributed Deep Networks, NIPS 2012 (1)
 - Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
 
