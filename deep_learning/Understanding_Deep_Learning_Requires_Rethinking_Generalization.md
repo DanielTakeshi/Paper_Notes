@@ -1,4 +1,4 @@
-# Understanding_Deep_Learning_Requires_Rethinking_Generalization
+# Understanding Deep Learning Requires Rethinking Generalization
 
 **TL;DR: Deep neural networks easily fit random labels, and we need better ways
 to analyze generalization error.**

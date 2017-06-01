@@ -52,7 +52,7 @@ likely to try and summarize here.
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - Deep Learning in Neural Networks: An Overview, arXiv (1)
-- Visualizing and Understanding Convolutional Networks, ECCV 2014 (1)
+- [Visualizing and Understanding Convolutional Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
 - Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
 
 ### 2013
@@ -82,8 +82,10 @@ likely to try and summarize here.
 - Iterative Noise Injection for Scalable Imitation Learning, arXiv (1)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), arXiv (2)
 - [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
-- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (4)
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), arXiv (2)
+- The Off-Switch Game, IJCAI 2017 (1)
+- Constrained Policy Optimization, ICML 2017 (1)
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (1)
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017 (1)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
