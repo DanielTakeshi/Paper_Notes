@@ -78,12 +78,14 @@ likely to try and summarize here.
 
 ### 2017
 
+- Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
 - Multi-Level Discovery of Deep Options, arXiv (2)
 - Iterative Noise Injection for Scalable Imitation Learning, arXiv (1)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), arXiv (2)
 - [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), arXiv (2)
+- [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), arXiv (3)
 - The Off-Switch Game, IJCAI 2017 (1)
 - Constrained Policy Optimization, ICML 2017 (1)
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (1)
@@ -163,6 +165,7 @@ likely to try and summarize here.
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
 - Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards, ICRA 2016 (5)
+- [Automating Multi-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Automating_Multi-Throw_Multilateral_Surgical_Suturing_with_a_Mechanical_Needle_Guide_and_Sequential_Convex_Optimization.md), ICRA 2016 (4)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2016 (I think?) (3)
 - Revisiting Active Perception, arXiv (1)
 
