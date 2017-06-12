@@ -78,6 +78,7 @@ likely to try and summarize here.
 
 ### 2017
 
+- UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
 - Multi-Level Discovery of Deep Options, arXiv (2)
@@ -167,6 +168,7 @@ likely to try and summarize here.
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
 - Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards, ICRA 2016 (5)
+- [TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/TSC-DL_Unsupervised_Trajectory_Segmentation_of_Multi-Modal_Surgical_Demonstrations_with_Deep_Learning.md), ICRA 2016 (3)
 - [Automating Multi-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Automating_Multi-Throw_Multilateral_Surgical_Suturing_with_a_Mechanical_Needle_Guide_and_Sequential_Convex_Optimization.md), ICRA 2016 (4)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2016 (I think?) (3)
 - Revisiting Active Perception, arXiv (1)
