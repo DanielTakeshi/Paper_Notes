@@ -180,14 +180,19 @@ likely to try and summarize here.
 
 ### 2014
 
+- Motion Planning with Sequential Convex Optimization and Convex Collision Checking, IJRR 2014 (1)
 - Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (3)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
 - [Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Towards_Scaling_up_Markov_Chain_Monte_Carlo:_An_Adaptive_Subsampling_Approach.md), ICML 2014 (4)
+- Planning Locally Optimal, Curvature-Constrained Trajectories in 3D Using Sequential Convex Optimization , ICRA 2014 (1)
+- [Autonomous Multilateral Debridement with the Raven Surgical Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Autonomous_Multilateral_Debridement_with_the_Raven_Surgical_Robot.md), ICRA 2014 (3)
 - [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Transactions on Parallel and Distributed Systems 2014 (4)
 
 ### 2013 and Earlier
 
+- A Case Study of Trajectory Transfer Through Non-Rigid Registration for a Simplified Suturing Scenario, IROS 2013 (1)
+- Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization, RSS 2013 (2)
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (2)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
