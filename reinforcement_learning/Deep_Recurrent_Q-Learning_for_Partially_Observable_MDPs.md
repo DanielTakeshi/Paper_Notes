@@ -7,6 +7,10 @@ where information from Atari 2600 games is removed from the agent. This is
 important because normal DQN can only have a memory of the past four non-skipped
 frames, which is extremely limiting.
 
+**Update**: after re-reading this paper with some more LSTM experience, it now
+makes sense to just put one 84x84 frame as input to the LSTM. That's OK. I may
+have not had the right intuition before.
+
 
 ## Algorithm and Experiments
 
