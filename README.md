@@ -124,6 +124,7 @@ likely to try and summarize here.
 - [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Control_of_Memory_Active_Perception_and_Action_in_Minecraft.md), ICML 2016 (2)
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
 - Dueling Network Architectures for Deep Reinforcement Learning, ICML 2016 (1)
+- [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
 - Continuous Control with Deep Reinforcement Learning, ICLR 2016 (1)
@@ -144,6 +145,7 @@ likely to try and summarize here.
 ### 2014 and Earlier
 
 - Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
+- Learning Neural Network Policies with Guided Policy Search Under Unknown Dynamics, NIPS 2014 (1)
 - Deterministic Policy Gradient Algorithms, ICML 2014 (1)
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
@@ -181,7 +183,7 @@ likely to try and summarize here.
 ### 2014
 
 - Motion Planning with Sequential Convex Optimization and Convex Collision Checking, IJRR 2014 (1)
-- Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (3)
+- Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (2)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
 - [Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Towards_Scaling_up_Markov_Chain_Monte_Carlo:_An_Adaptive_Subsampling_Approach.md), ICML 2014 (4)
@@ -191,8 +193,9 @@ likely to try and summarize here.
 
 ### 2013 and Earlier
 
-- A Case Study of Trajectory Transfer Through Non-Rigid Registration for a Simplified Suturing Scenario, IROS 2013 (1)
-- Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization, RSS 2013 (2)
+- Generalization in Robotic Manipulation Through the Use of Non-Rigid Registration, ISRR 2013 (1)
+- [A Case Study of Trajectory Transfer Through Non-Rigid Registration for a Simplified Suturing Scenario](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Case_Study_of_Trajectory_Transfer_Through_Non-Rigid_Registration_for_a_Simplified_Suturing_Scenario.md), IROS 2013 (2)
+- [Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Finding_Locally_Optimal_Collision-Free_Trajectories_with_Sequential_Convex_Optimization.md), RSS 2013 (3)
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (2)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
