@@ -183,6 +183,7 @@ likely to try and summarize here.
 ### 2014
 
 - Motion Planning with Sequential Convex Optimization and Convex Collision Checking, IJRR 2014 (1)
+- [Learning Accurate Kinematic Control of Cable-Driven Surgical Robots Using Data Cleaning and Gaussian Process Regression](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Accurate_Kinematic_Control_of_Cable-Driven_Surgical_Robots_Using_Data_Cleaning_and_Gaussian_Process_Regression.md), CASE 2014 (2)
 - Firefly Monte Carlo: Exact MCMC with Subsets of Data, UAI 2014 (2)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
