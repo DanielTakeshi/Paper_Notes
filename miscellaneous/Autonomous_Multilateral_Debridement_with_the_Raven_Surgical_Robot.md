@@ -19,9 +19,10 @@ there is more than one arm. Coordination between the two (or more!) arms is very
 important.
 
 As would be expected, there is a spectrum of difficulty for debridement tasks,
-and they can start easy and gradually build up to more challenging tasks. For
-this paper, they seem to designate damaged fragments on a planar workspace, so
-the robot must detect and remove/pull those out.
+and they can start easy and gradually build up to more challenging tasks.
+(Sanjay suggests that this paper creates a slightly too-easy debridement
+scenario) For this paper, they seem to designate damaged fragments on a planar
+workspace, so the robot must detect and remove/pull those out.
 
 Their system uses:
 

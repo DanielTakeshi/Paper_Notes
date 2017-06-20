@@ -179,6 +179,7 @@ likely to try and summarize here.
 
 - [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
 - [Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mcmc/Large-Scale_Distributed_Bayesian_Matrix_Factorization_using_Stochastic_Gradient_MCMC.md), KDD 2015 (1)
+- [Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md ), ICRA 2015 (4)
 
 ### 2014
 
