@@ -142,15 +142,19 @@ likely to try and summarize here.
 - [Massively Parallel Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Massively_Parallel_Methods_for_Deep_Reinforcement_Learning.md), ICML Workshop 2015 (2)
 - [Human-Level Control Through Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), Nature 2015 (5)
 
-### 2014 and Earlier
+### 2014
 
 - Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
 - Learning Neural Network Policies with Guided Policy Search Under Unknown Dynamics, NIPS 2014 (1)
-- Deterministic Policy Gradient Algorithms, ICML 2014 (1)
+- [Deterministic Policy Gradient Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deterministic_Policy_Gradient_Algorithms.md), ICML 2014 (2)
+
+### 2013 and Earlier
+
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
+- Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (1)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
 
 
