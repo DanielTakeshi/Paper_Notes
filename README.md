@@ -1,17 +1,12 @@
 Inspired by [Adrian Colyer][1] and [Denny Britz][2].
 
-This contains my notes for research papers that I've read. The papers are
-arranged according to four broad categories and then further numbered on a (1)
-to (5) scale where a (1) means I have only barely skimmed it, while a (5) means
-I feel confident that I understand almost everything about the paper. Within a
-single year, these papers should be organized according to publication date,
-which gives an idea of how these contributions were organized.
-
-The links here go to my paper summaries (if I have them), otherwise I probably
-have put that task somewhere in my long TODO list for papers to read/write
-about. I won't be listing all relevant papers, just the ones that I'm mostly
-likely to try and summarize here.
-
+This contains my notes for research papers that I've read. Papers are arranged
+according to three broad categories and then further numbered on a (1) to (5)
+scale where a (1) means I have only barely skimmed it, while a (5) means I feel
+confident that I understand almost everything about the paper. Within a single
+year, these papers should be organized according to publication date.  The links
+here go to my paper summaries if I have them, otherwise those papers are on my
+**TODO** list.
 
 # Deep Learning
 
@@ -92,6 +87,7 @@ likely to try and summarize here.
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (1)
 - Modular Multitask Reinforcement Learning with Policy Sketches, ICML 2017 (1)
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017 (1)
+- [Curiosity-Driven Exploration by Self-Supervised Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Curiosity-Driven_Exploration_by_Self-Supervised_Prediction.md), ICML 2017 (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
@@ -108,7 +104,7 @@ likely to try and summarize here.
 
 - [Value Iteration Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md), NIPS 2016 (4)
 - [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (3)
-- [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (2)
+- [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (3)
 - Deep Exploration via Bootstrapped DQN, NIPS 2016 (1)
 - Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
 - Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
