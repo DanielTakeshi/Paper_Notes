@@ -23,10 +23,33 @@ To be clear:
   GAE).
 - State of the art for **off-policy** is *Deep Deterministic Policy Gradients*.
 
-Huh, interesting ... that must be why people like DDPG so much. Well, I'm glad I
+Huh, interesting ... that must be why people like DDPG so much. It's the best
+(well, former?) off-policy method (it's also an actor-critic). Well, I'm glad I
 read that paper! Now I just need to implement it in my `rl_algorithms`
 repository.
 
 **The Title**: I wonder, why does it say an "off-policy critic"? Most critics
 are Q(s,a) values, and the value function is often separate from the policy,
 right? For instance, with normal Q-Learning, the Q-values are off-policy anyway?
+
+Their **Q-Prop** estimator is in Equation 8, with two parts: an analytic
+gradient of the objective (which uses a value function, just like vanilla policy
+gradients) and a second part that tell show to compute the estimated advantage.
+Again, the emphasize that they can use **off-policy data** to improve the
+critic, which is not the case with on-policy policy gradient methods. A better
+critic means better performance!
+
+**TODO go through the derivation?**
+
+To be honest, this paper is hard to read fully. I will have to go through the
+math at some point in the Appendix.
+
+**Experimental Results**:
+
+- They build on top of TRPO and GAE
+
+- Their code is open-source and based on rllab. OK, I'll check it later if
+  needed.
+
+- Yeah, their curves look good, their curves "rise higher and faster" than the
+  others.
