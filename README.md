@@ -118,7 +118,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Graying the Black Box: Understanding DQNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Graying_the_Black_Box_Understanding_DQNs.md), ICML 2016 (4)
 - [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Control_of_Memory_Active_Perception_and_Action_in_Minecraft.md), ICML 2016 (2)
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dueling_Network_Architectures_for_Deep_Reinforcement_Learning.md), ICML 2016 (3)
-- Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016 (1)
+- [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Guided_Cost_Learning_Deep_Inverse_Optimal_Control_via_Policy_Optimization.md), ICML 2016 (2)
 - [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
