@@ -10,7 +10,7 @@ they use two components in their overall architecture:
 - **Action advantage estimator**: one scalar `A(s,a)` for each action, so it's a
   vector.
 
-These two estimators are combined into one Q-Network which predicts Q(s,a)
+These two estimators are combined into one Q-Network which predicts `Q(s,a)`
 values like in normal DQN, with s as the input and the output an |A|-dimensional
 vector with the softmax-ed probabilities for each action a in A. The two
 components of Dueling DQN actually share a lot of the same structure, most
@@ -45,3 +45,5 @@ The other key innovation here is not to simply sum `V(s)+A(s,a)` to get the
 `Q(s,a)` final output layer (with V "broadcasting" as in Python code), but to
 force zero advantage to gain identifiability, so given a Q-value, we can obtain
 the V and A values.
+
+**Thought Question: why is it called "dueling"**? ...
