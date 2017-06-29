@@ -44,6 +44,25 @@ I agree.
 The other key innovation here is not to simply sum `V(s)+A(s,a)` to get the
 `Q(s,a)` final output layer (with V "broadcasting" as in Python code), but to
 force zero advantage to gain identifiability, so given a Q-value, we can obtain
-the V and A values.
+the V and A values. See Section 3 for the details on this. They say the ideal
+way is to force zero advantage ... but I think they're assuming we are always
+choosing the max value (so no epsilon greedy). Then they say to take an
+*average* instead of the max. This part kind of makes sense but it's still
+confusing.
 
-**Thought Question: why is it called "dueling"**? ...
+**Thought Question: why is it called "dueling"**? Not sure ... the point here
+seems to be that if actions don't matter, then the value function will be
+"general enough" and shared among different actions. That seems misleading,
+though, isn't it just better to say that the advantages will be zero? We still
+have to compute a dense value function, and it's just that the *advantages* are
+trained to be zero (i.e. be a sparse function) most of the time. See the bottom
+of Section 4.1 for this discussion, which seems to hit at the main architectural
+benefit.
+
+They also emphasize in the conclusion that the *value function is updated more
+frequently*. I can kind of see why, with `V(s) = max_a Q(s,a)`, if we update
+some `Q(s,a')` value based on some action `a'`, that may often not change `V(s)`
+at all, and this grows increasingly likely as the number of actions increases.
+
+Then they had experiments, I liked the discussion here, but for the most part
+it's pretty easy reading so no need to take notes on it.
