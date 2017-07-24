@@ -1,8 +1,19 @@
 # Learning Accurate Kinematic Control of Cable-Driven Surgical Robots Using Data Cleaning and Gaussian Process Regression
 
-TL;DR: this paper performs automated debridement (not suturing!) with extra
+TL;DR: this paper performs automated debridement (not suturing!) with extra 
 features of data cleaning and GPR for learning mappings from observed to desired
-states.
+states. It helps tackle the problem of calibration, which I know by now to be a
+huge problem. :-) Or no, :-( that's better. This is the case with the dvrk as
+well, I think because they say:
+
+> We consider a problem in which we have sensors external to the system that
+> measure the state, however we can only control the system in its native
+> coordinate frame with its imprecise native controller.
+
+With the dvrk, I think I can measure stuff "external" to the dvrk (e.g.
+measuring through camera location?) but I can only control it by telling it to
+move in the x-y-z and yaw-pitch-roll coordinates (or the more un-intuitive joint
+coordinates). BTW they do say the dvrk is "cable-driven" like the Raven.
 
 What are the key aspects/features of this paper?
 
@@ -54,5 +65,11 @@ What are the key aspects/features of this paper?
 
 There are a lot of surgical robotics papers. I need to get a diagram which
 shows a relation mapping between the papers.
+
+Questions:
+
+- What kind of motion planning did they use? Or is it just open-loop?
+
+- Or did humans guide the trajectories?
 
 Also, Ken Goldberg really likes long paper titles.

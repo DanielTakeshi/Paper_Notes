@@ -12,6 +12,8 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- Improved Training of Wasserstein GANs, arXiv 2017 (1)
+- Wasserstein GAN, arXiv 2017 (1)
 - FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
@@ -48,9 +50,9 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - Deep Learning in Neural Networks: An Overview, arXiv (1)
-- [Visualizing and Understanding Convolutional Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
+- [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
 - Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
-- Auto-Encoding Variational Bayes, ICLR 2014 (2)
+- [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (2)
 
 ### 2013
 
