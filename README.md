@@ -18,6 +18,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
 - Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
+- [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md, ICLR 2017 (1)
 - [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
@@ -30,8 +31,9 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NIPS 2016 (2)
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
-- [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
+- A Note on the Evaluation of Generative Models, ICLR 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
+- [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
 
 ### 2015
 

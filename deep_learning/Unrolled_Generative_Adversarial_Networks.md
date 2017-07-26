@@ -54,8 +54,8 @@ point, let's get to the technical details:
 
 ## Experiments
 
-- Another contribution of their paper is to present a different evaluation
-  metric. They correctly point out that with normal GANs, mode collapse might
+- Another contribution of their paper is to present alternative evaluation
+  metrics. They correctly point out that with normal GANs, mode collapse might
   actually make images more *realistic* to humans and thus by the human
   evaluation metric we actually **overrate** this GAN. 
 
