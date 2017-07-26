@@ -54,6 +54,7 @@ They modify four standard RL algorithms:
   what **actor-critic** means. It looks like they're also putting in some n-step
   learning in the pseudocode. Why?? It looks just like vanilla policy gradients?
   And I still don't know what they mean by thread-specific parameters.
+  **UPDATE**: OK, I understand what actor-critic means now. :-)
 
 They apply two major changes to all of them.
 

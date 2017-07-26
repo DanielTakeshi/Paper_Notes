@@ -18,6 +18,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
 - Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
+- [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 
@@ -127,7 +128,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
-- [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (3)
+- [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (4)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
 - [Deep Reinforcement Learning with Double Q-learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_with_Double_Q-learning.md), AAAI 2016 (3)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
