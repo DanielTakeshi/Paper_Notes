@@ -18,7 +18,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
 - Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
-- [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md, ICLR 2017 (1)
+- [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md), ICLR 2017 (1)
 - [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
