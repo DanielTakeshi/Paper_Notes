@@ -80,6 +80,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
@@ -156,6 +157,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
+- On a Connection Between Importance Sampling and the Likelihood Ratio Policy Gradient, NIPS 2010 (1)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
 - Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (1)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
