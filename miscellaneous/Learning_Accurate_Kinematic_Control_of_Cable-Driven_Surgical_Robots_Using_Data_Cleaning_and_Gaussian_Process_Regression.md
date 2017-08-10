@@ -20,7 +20,7 @@ the Raven since they are designed for teleoperation and not for automation.
 
 **(A second TL;DR)**: We get observed states and desired states. We want the
 robot to go to the desired state, so to do that we'll run command **F(x_d) =
-x_C** where **F** is learned from training data using constrained least squares
+x_c** where **F** is learned from training data using constrained least squares
 and Gaussian Process Regression. The GPR can be thought of as **learning the
 residuals** since the rigid transformation won't capture everything.
 
@@ -55,7 +55,7 @@ Gaussian Process Regression but the rigid transformation! `H` is the GPR.
   look like for debridement. 
 
 - It can be a bit confusing to reason about `x_c, x_d, x_o`. I think of it as
-  ``x_o -> F(x_d) -> x_d` where `F(x_d) \approx x_c` and `x_c` is the command we
+  `x_o -> F(x_d) -> x_d` where `F(x_d) \approx x_c` and `x_c` is the command we
   "send" when we see `x_o` and really want to be in `x_d`.
 
 There are a lot of surgical robotics papers. I need to get a diagram which
