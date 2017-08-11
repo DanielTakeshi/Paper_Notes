@@ -90,7 +90,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), arXiv (3)
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
-- [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (1)
+- [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (1)
 - Modular Multitask Reinforcement Learning with Policy Sketches, ICML 2017 (1)
 - [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (2)
