@@ -32,6 +32,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
 - A Note on the Evaluation of Generative Models, ICLR 2016 (1)
+- Neural Programmer-Interpreters, ICLR 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
 - [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
 
@@ -92,8 +93,8 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
 - Importance Sampling for Fair Policy Selection, UAI 2017 (1)
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
-- Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (1)
-- Modular Multitask Reinforcement Learning with Policy Sketches, ICML 2017 (1)
+- Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (2)
+- [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (2)
 - [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (2)
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Agnostic_Meta-Learning_for_Fast_Adaptation_of_Deep_Networks.md), ICML 2017 (4)
@@ -162,7 +163,9 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
 - On a Connection Between Importance Sampling and the Likelihood Ratio Policy Gradient, NIPS 2010 (1)
+- Curriculum Learning, ICML 2009 (1)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
+- Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning, JMLR 2004 (1)
 - Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (1)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
 
@@ -174,7 +177,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
-- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (3)
+- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2017 (3)
 - A Conceptual Introduction to Hamiltonian Monte Carlo, arXiv (1)
 
@@ -182,7 +185,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
-- [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (1)
+- [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (3)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
 - [Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), ICRA 2016 (4)
@@ -194,7 +197,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
 - [Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Large-Scale_Distributed_Bayesian_Matrix_Factorization_using_Stochastic_Gradient_MCMC.md), KDD 2015 (1)
 - The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling, ICML 2015 (1)
-- [Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md ), ICRA 2015 (4)
+- [Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md), ICRA 2015 (4)
 
 ### 2014
 
@@ -209,7 +212,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 - [A Case Study of Trajectory Transfer Through Non-Rigid Registration for a Simplified Suturing Scenario](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Case_Study_of_Trajectory_Transfer_Through_Non-Rigid_Registration_for_a_Simplified_Suturing_Scenario.md), IROS 2013 (2)
 - [Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Finding_Locally_Optimal_Collision-Free_Trajectories_with_Sequential_Convex_Optimization.md), RSS 2013 (3)
-- [Learning Task Error Models for Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Task_Error_Models_for_Manipulation.md), ICRA 2013 (1)
+- [Learning Task Error Models for Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Task_Error_Models_for_Manipulation.md), ICRA 2013 (4)
 
 ### 2012 and Earlier
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
