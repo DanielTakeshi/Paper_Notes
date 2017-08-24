@@ -8,75 +8,6 @@ year, these papers should be organized according to publication date.  The links
 here go to my paper summaries if I have them, otherwise those papers are on my
 **TODO** list.
 
-# Deep Learning
-
-### 2017
-
-- Improved Training of Wasserstein GANs, arXiv 2017 (1)
-- Wasserstein GAN, ICML 2017 (1)
-- FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
-- Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
-- The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
-- Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
-- [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md), ICLR 2017 (1)
-- [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
-- [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
-- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
-
-### 2016
-
-- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
-- [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
-- [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (3)
-- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NIPS 2016 (2)
-- Deep Residual Learning for Image Recognition, CVPR 2016 (1)
-- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
-- A Note on the Evaluation of Generative Models, ICLR 2016 (1)
-- Neural Programmer-Interpreters, ICLR 2016 (1)
-- Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
-- [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
-
-### 2015
-
-- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
-- Training Very Deep Networks, NIPS 2015 (2)
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
-- [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
-- Going Deeper with Convolutions, CVPR 2015 (1)
-- The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
-- Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
-- ADAM: A Method for Stochastic Optimization, ICLR 2015 (2)
-- Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
-
-### 2014
-
-- [Recurrent Neural Network Regularization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Neural_Network_Regularization.md), arXiv 2014 (1)
-- [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
-- [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
-- Deep Learning in Neural Networks: An Overview, arXiv (1)
-- [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
-- Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
-- [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (2)
-
-### 2013
-
-- On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
-- On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
-
-### 2012
-
-- [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md), NIPS 2012 (5)
-- Large Scale Distributed Deep Networks, NIPS 2012 (1)
-- Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
-
-### 2011 and Earlier
-
-- [Deep Learning via Hessian-Free Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Deep_Learning_via_Hessian-Free_Optimization.md), ICML 2010 (2)
-- [Curriculum Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Curriculum_Learning.md), ICML 2009 (2)
-- A Fast Learning Algorithm for Deep Belief Nets, Neural Computation 2006 (1)
-
-
-
 
 # Reinforcement Learning
 (Also includes imitation learning)
@@ -84,7 +15,10 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 ### 2017
 
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
-- Robust Imitation of Diverse Behaviors, arXiv (1)
+- [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), arXiv (3)
+- Learning Human Behaviors From Motion Capture by Adversarial Imitation, arXiv (1)
+- Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets, arXiv (1)
+- Meta-Learning with Temporal Convolutions, arXiv (1)
 - UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
@@ -169,6 +103,85 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning, JMLR 2004 (1)
 - Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (1)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
+
+
+
+
+# Deep Learning
+
+### 2017
+
+- Improved Training of Wasserstein GANs, arXiv 2017 (1)
+- Wasserstein GAN, ICML 2017 (1)
+- PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications, ICLR 2017 (1)
+- FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
+- Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
+- The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
+- Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
+- [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md), ICLR 2017 (1)
+- [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
+- [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
+- Least Squares Generative Adversarial Networks, arXiv (1)
+
+### 2016
+
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
+- Improving Variational Autoencoders with Inverse Autoregressive Flow, NIPS 2016 (1)
+- Conditional Image Generation with PixelCNN Decoders, NIPS 2016 (2)
+- [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
+- [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (3)
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NIPS 2016 (2)
+- WaveNet: A Generative Model for Raw Audio, arXiv (1)
+- Deep Residual Learning for Image Recognition, CVPR 2016 (1)
+- Pixel Recurrent Neural Networks, ICML 2016 (2)
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
+- A Note on the Evaluation of Generative Models, ICLR 2016 (1)
+- Neural Programmer-Interpreters, ICLR 2016 (1)
+- Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
+- [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
+
+### 2015
+
+- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
+- Training Very Deep Networks, NIPS 2015 (2)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
+- [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
+- Going Deeper with Convolutions, CVPR 2015 (1)
+- The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
+- Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
+- ADAM: A Method for Stochastic Optimization, ICLR 2015 (2)
+- Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
+
+### 2014
+
+- [Conditional Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Conditional_Generative_Adversarial_Nets.md), arXiv 2014 (1)
+- [Recurrent Neural Network Regularization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Neural_Network_Regularization.md), arXiv 2014 (1)
+- [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
+- [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
+- Deep Learning in Neural Networks: An Overview, arXiv (1)
+- [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
+- Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
+- [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (2)
+
+### 2013
+
+- On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
+- On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
+
+### 2012
+
+- [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md), NIPS 2012 (5)
+- Large Scale Distributed Deep Networks, NIPS 2012 (1)
+- Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
+
+### 2011 and Earlier
+
+- [Deep Learning via Hessian-Free Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Deep_Learning_via_Hessian-Free_Optimization.md), ICML 2010 (2)
+- [Curriculum Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Curriculum_Learning.md), ICML 2009 (2)
+- A Fast Learning Algorithm for Deep Belief Nets, Neural Computation 2006 (1)
+
+
 
 
 
