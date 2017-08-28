@@ -111,6 +111,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
 - Improved Training of Wasserstein GANs, arXiv 2017 (1)
 - Wasserstein GAN, ICML 2017 (1)
 - PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications, ICLR 2017 (1)
