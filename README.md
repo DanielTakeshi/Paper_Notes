@@ -156,7 +156,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2014
 
-- [Conditional Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Conditional_Generative_Adversarial_Nets.md), arXiv 2014 (1)
+- [Conditional Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Conditional_Generative_Adversarial_Nets.md), arXiv 2014 (5)
 - [Recurrent Neural Network Regularization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Neural_Network_Regularization.md), arXiv 2014 (1)
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
@@ -169,6 +169,8 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 - On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
 - On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
+- Better Mixing via Deep Representations, ICML 2013 (1)
+- Maxout Networks, ICML 2013 (1)
 
 ### 2012
 
