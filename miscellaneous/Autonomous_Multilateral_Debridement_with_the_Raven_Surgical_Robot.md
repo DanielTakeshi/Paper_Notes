@@ -6,12 +6,14 @@ First, what *is* debridement? They say:
 > damaged tissue fragments to allow the remaining healthy tissue to heal.
 
 OK, got it. In fact, the actual introduction of "debridement" (for robot
-surgery, that is!) seems to be novel. Note that as the title implies, this is
+surgery, that is) seems to be novel. Note that as the title implies, this is
 *not* with the dVRK, but with another robot. However, it looks quite similar in
-design ... what is the difference? They say that Raven's main challenge is
-*state estimation*, which I interpret as "does the robot really know where its
-arms/joints/grippers are located?" I assume dVRK has the same problem. Yeah,
-it's all about uncertainty. 
+design ... and I've been told that they're similar (and that the dVRK is in some
+way better). They say that Raven's main challenge is *state estimation*, which I
+interpret as "does the robot really know where its arms/joints/grippers are
+located?" I assume dVRK has the same problem. Yeah, it's all about uncertainty.
+See Mahler et al (2014) about another paper which tries to accurately calibrate
+the Raven robot, like what I'm trying to do for the dVRK.
 
 Their contributions also include the first reliable autonomous robot performance
 using Raven. Another thing to know is that Raven is "multilateral" meaning that
@@ -40,8 +42,8 @@ Their system uses:
 
 - **Optimization-Based Motion Planning**, this uses **Model-Predictive
   Control**. I'm going to have to review this at some point, but fortunately it
-  looks like Stephen Boyd (that guy again!) has his slides online. Man, I wish
-  more professors were like him. Anyway, MPC is needed to keep replanning the
+  looks like Stephen Boyd (that guy again!) has his slides online. I wish more
+  professors were like him. Anyway, MPC is needed to keep replanning the
   trajectory using optimization-based procedures (using the "trajopt" software,
   BTW) to avoid collisions. They allow each arm to move at most 2.5cm before
   replanning.
@@ -49,12 +51,18 @@ Their system uses:
 - **A Centralized Planner**, a single 12 DOF planner controls two 6 DOF arms,
   rather than having a decentralized plan.
 
-As far as experiments go, they used a baseline with a medical student (a human
-obviously, must be that guy from UCSF not named Walter Doug Boyd). This is for
-speed comparisons. Results are in Table I, though I wish it were designed and
-presented in a cleaner way. (Actually, there are fewer experiments than I
-expected.) One thing that *was* expected, though: planning and perception took a
-lot of time; they said 50%.
+**Experiments**: they used a baseline with a medical student (a human obviously,
+and it's definitely not Walter Doug Boyd). This is for speed comparisons.
+Results are in Table I, though I wish it were designed and presented in a
+cleaner way. (Actually, there are fewer experiments than I expected.) One thing
+that *was* expected, though: planning and perception took a lot of time; they
+said 50%.
+
+Similarities to what I do: They simplify the vision aspect of it by using a
+white background. They use HSV, presumably from OpenCV. They also have colored
+markers on the end-effector --- interesting! I used red tape. For tracking
+centroid of fragments, they use left and right camera points and the disparity
+to get the position of the fragment centroid in "3D space."
 
 Final thought: I keep wondering whether it's possible to apply Deep Learning or
 simulation to improve any steps of this pipeline.

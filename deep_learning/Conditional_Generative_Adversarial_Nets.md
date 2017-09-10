@@ -12,6 +12,11 @@ instance, see their frank quote:
 > further exploration of hyper-parameter space and architecture that the
 > conditional model should match or exceed the non-conditional results.
 
+**Update again**: yeah, and the original GANs paper actually said we could do
+conditional stuff. So just think of this paper as a proof of concept. There's
+another one that came later from Denton et al 2015 which contains a more
+thorough investigation of conditional GANs.
+
 This paper introduces CGANs, which are a popular kind of GAN framework, perhaps
 as common as DCGANs?  Or maybe the basic concept of conditioning is used in
 other architectures, so there's a lot of hybrid models. I mean, you can do a lot

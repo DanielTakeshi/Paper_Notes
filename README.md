@@ -14,8 +14,15 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (3)
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
+- [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), NIPS 2017 (3)
+- Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
+- Imagination-Augmented Agents for Deep Reinforcement Learning, NIPS 2017 (1)
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, NIPS 2017 (1)
+- Hindsight Experience Replay, NIPS 2017 (1)
+- Scalable Trust-Region Method for Deep Reinforcement Learning Using Kronecker-Factored Approximation, arXiv (1)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
-- [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), arXiv (3)
 - Learning Human Behaviors From Motion Capture by Adversarial Imitation, arXiv (1)
 - Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets, arXiv (1)
 - Meta-Learning with Temporal Convolutions, arXiv (1)
@@ -25,7 +32,6 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), arXiv (2)
 - [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
-- [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), arXiv (3)
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
 - Importance Sampling for Fair Policy Selection, UAI 2017 (1)
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
@@ -35,12 +41,12 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Agnostic_Meta-Learning_for_Fast_Adaptation_of_Deep_Networks.md), ICML 2017 (4)
 - [Curiosity-Driven Exploration by Self-Supervised Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Curiosity-Driven_Exploration_by_Self-Supervised_Prediction.md), ICML 2017 (3)
-- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), arXiv (4)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
 - Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
 - Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening, ICLR 2017 (1)
+- [Reinforcement Learning Through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/), ICLR 2017 (1)
 - [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Servoing_with_Deep_Features_and_Fitted_Q-Iteration.md), ICLR 2017 (2)
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic_Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
@@ -119,6 +125,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
 - Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
+- Energy-Based Generative Adversarial Networks, ICLR 2017 (1)
 - [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md), ICLR 2017 (1)
 - [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
@@ -145,6 +152,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 ### 2015
 
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
+- Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks, NIPS 2015 (1)
 - Training Very Deep Networks, NIPS 2015 (2)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
@@ -222,7 +230,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
 - [Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Towards_Scaling_up_Markov_Chain_Monte_Carlo:_An_Adaptive_Subsampling_Approach.md), ICML 2014 (4)
-- [Autonomous Multilateral Debridement with the Raven Surgical Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Autonomous_Multilateral_Debridement_with_the_Raven_Surgical_Robot.md), ICRA 2014 (3)
+- [Autonomous Multilateral Debridement with the Raven Surgical Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Autonomous_Multilateral_Debridement_with_the_Raven_Surgical_Robot.md), ICRA 2014 (5)
 - [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Transactions on Parallel and Distributed Systems 2014 (4)
 
 ### 2013

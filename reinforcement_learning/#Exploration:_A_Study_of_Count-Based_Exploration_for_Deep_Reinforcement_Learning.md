@@ -1,5 +1,8 @@
 # \#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning
 
+Note: I read the one under review at ICLR. I'm hoping to read the newest version
+later.
+
 General idea: try to generalize count-based exploration (i.e. which keep track of states through hash codes) to high dimensional state spaces through hash codes. They also identify what makes a good hash code for the deep reinforcement learning setting. This simple idea leads to surprisingly good performance on Atari 2600 games.
 
 ## Introductory Stuff

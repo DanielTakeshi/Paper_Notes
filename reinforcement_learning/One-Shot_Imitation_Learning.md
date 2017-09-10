@@ -1,5 +1,8 @@
 # One-Shot Imitation Learning
 
+Note: I read the version from March ... waiting to see if there's a newer
+version.
+
 ## Quick Thoughts/Observations
 
 This is a bold paper title. Recall that imitation learning (not reinforcement
