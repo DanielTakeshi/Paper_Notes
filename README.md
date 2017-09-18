@@ -12,7 +12,13 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 # Reinforcement Learning
 (Also includes imitation learning)
 
+### 2018
+
+TBD...
+
 ### 2017
+
+NIPS, CoRL, IROS, etc.
 
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
@@ -29,9 +35,9 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
-- [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), arXiv (2)
-- [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
-- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
+
+ICML, UAI, IROS, etc.
+
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
 - Importance Sampling for Fair Policy Selection, UAI 2017 (1)
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
@@ -41,8 +47,12 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Agnostic_Meta-Learning_for_Fast_Adaptation_of_Deep_Networks.md), ICML 2017 (4)
 - [Curiosity-Driven Exploration by Self-Supervised Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Curiosity-Driven_Exploration_by_Self-Supervised_Prediction.md), ICML 2017 (3)
-- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
-- [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
+- [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), arXiv (2)
+- [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
+
+ICRA, ICLR, etc.
+
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
 - Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
 - Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening, ICLR 2017 (1)
@@ -54,6 +64,8 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
 - [Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Comparing_Human-Centric_and_Robot-Centric_Sampling_for_Robot_Deep_Learning_from_Demonstrations.md), ICRA 2017 (4)
+- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
+- [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
 
 ### 2016
 
@@ -114,6 +126,10 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 
 # Deep Learning
+
+### 2018
+
+TBD...
 
 ### 2017
 
@@ -197,6 +213,11 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 
 # MCMC, Machine Learning, Robotics, and Miscellaneous Papers
+
+### 2018
+
+TBD...
+
 
 ### 2017
 
