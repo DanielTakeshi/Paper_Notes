@@ -94,7 +94,7 @@ ICRA, ICLR, etc.
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (4)
-- Deep Spatial Autoencoders for Visuomotor Learning, ICRA 2016 (1)
+- [Deep Spatial Autoencoders for Visuomotor Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Spatial_Autoencoders_for_Visuomotor_Learning.md), ICRA 2016 (3)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
 - [Deep Reinforcement Learning with Double Q-learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_with_Double_Q-learning.md), AAAI 2016 (3)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
@@ -173,6 +173,7 @@ TBD...
 ## 2015
 
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
+- Spatial Transformer Networks, NIPS 2015 (1)
 - Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks, NIPS 2015 (1)
 - Training Very Deep Networks, NIPS 2015 (2)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
