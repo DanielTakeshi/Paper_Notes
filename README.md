@@ -162,6 +162,7 @@ TBD...
 - [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (3)
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NIPS 2016 (2)
 - WaveNet: A Generative Model for Raw Audio, arXiv (1)
+- Tutorial on Variational Autoencoders, arXiv (1)
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - Pixel Recurrent Neural Networks, ICML 2016 (2)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
@@ -173,7 +174,7 @@ TBD...
 ## 2015
 
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
-- Spatial Transformer Networks, NIPS 2015 (1)
+- [Spatial Transformer Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Spatial_Transformer_Networks.md), NIPS 2015 (4)
 - Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks, NIPS 2015 (1)
 - Training Very Deep Networks, NIPS 2015 (2)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
@@ -188,7 +189,7 @@ TBD...
 
 - [Conditional Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Conditional_Generative_Adversarial_Nets.md), arXiv 2014 (5)
 - [Recurrent Neural Network Regularization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Neural_Network_Regularization.md), arXiv 2014 (1)
-- [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (4)
+- [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (5)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - Deep Learning in Neural Networks: An Overview, arXiv (1)
 - [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)

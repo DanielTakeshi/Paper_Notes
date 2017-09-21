@@ -119,4 +119,7 @@ models.
 
 Overall thought: Wow. Very creative. Very impactful. Theoretical results
 are appreciated though they obviously assume very impractical things. Paper is
-surprisingly straightforward to read compared to other NIPS papers.
+surprisingly straightforward to read compared to other NIPS papers. My main
+complaint is that this paper never describes the architectures of the networks
+(!!) in the experiments, but plenty of others have been able to play with GANs
+since then to mitigate this.
