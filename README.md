@@ -46,6 +46,7 @@ ICML, UAI, IROS, etc.
 - Importance Sampling for Fair Policy Selection, UAI 2017 (1)
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (2)
+- FeUdal Networks for Hierarchical Reinforcement Learning, ICML 2017 (1)
 - [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (2)
 - [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (2)
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
@@ -76,6 +77,7 @@ ICRA, ICLR, etc.
 - [Value Iteration Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md), NIPS 2016 (4)
 - [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (3)
 - [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (3)
+- [Unsupervised Learning for Physical Interaction through Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md), NIPS 2016 (1)
 - Deep Exploration via Bootstrapped DQN, NIPS 2016 (1)
 - Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
 - Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
@@ -138,6 +140,7 @@ TBD...
 
 ## 2017
 
+- Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
 - Improved Training of Wasserstein GANs, arXiv 2017 (1)
 - Wasserstein GAN, ICML 2017 (1)
@@ -162,7 +165,7 @@ TBD...
 - [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (3)
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NIPS 2016 (2)
 - WaveNet: A Generative Model for Raw Audio, arXiv (1)
-- Tutorial on Variational Autoencoders, arXiv (1)
+- [Tutorial on Variational Autoencoders](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tutorial_on_Variational_Autoencoders.md), arXiv (3)
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - Pixel Recurrent Neural Networks, ICML 2016 (2)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
@@ -194,7 +197,7 @@ TBD...
 - Deep Learning in Neural Networks: An Overview, arXiv (1)
 - [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
 - Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
-- [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (2)
+- [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (3)
 
 ## 2013
 
