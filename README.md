@@ -24,7 +24,7 @@ NIPS, CoRL, IROS, etc.
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
 - [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), NIPS 2017 (3)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), NIPS 2017 (2)
-- [Inferring The Latent Structure of Human Decision-Making from Raw Visual Inputs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inferring_The_Latent_Structure_of_Human_Decision-Making_from_Raw_Visual_Inputs.md), NIPS 2017 (4)
+- [Inferring The Latent Structure of Human Decision-Making from Raw Visual Inputs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inferring_The_Latent_Structure_of_Human_Decision-Making_from_Raw_Visual_Inputs.md), NIPS 2017 (5)
 - Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
 - Imagination-Augmented Agents for Deep Reinforcement Learning, NIPS 2017 (1)
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, NIPS 2017 (1)
