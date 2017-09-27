@@ -44,12 +44,11 @@ ICML, UAI, IROS, etc.
 
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
 - [ReasoNet: Learning to Stop Reading in Machine Comprehension](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/ReasoNet_Learning_to_Stop_Reading_in_Machine_Comprehension.md), KDD 2017 (3)
-- Importance Sampling for Fair Policy Selection, UAI 2017 (1)
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (2)
 - FeUdal Networks for Hierarchical Reinforcement Learning, ICML 2017 (1)
 - [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (2)
-- [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (2)
+- [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (4)
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Agnostic_Meta-Learning_for_Fast_Adaptation_of_Deep_Networks.md), ICML 2017 (4)
 - [Curiosity-Driven Exploration by Self-Supervised Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Curiosity-Driven_Exploration_by_Self-Supervised_Prediction.md), ICML 2017 (3)
