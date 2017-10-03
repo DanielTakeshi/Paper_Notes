@@ -60,9 +60,10 @@ ICRA, ICLR, etc.
 
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
 - Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
+- Learning to Act by Predicting the Future, ICLR 2017 (2)
 - Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening, ICLR 2017 (1)
-- [Reinforcement Learning Through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/), ICLR 2017 (1)
 - [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Servoing_with_Deep_Features_and_Fitted_Q-Iteration.md), ICLR 2017 (2)
+- [Reinforcement Learning Through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/), ICLR 2017 (1)
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic_Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
@@ -143,7 +144,7 @@ TBD...
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
 - Improved Training of Wasserstein GANs, arXiv 2017 (1)
-- Wasserstein GAN, ICML 2017 (1)
+- [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications, ICLR 2017 (1)
 - FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
@@ -231,6 +232,7 @@ TBD...
 
 ## 2017
 
+- Learning Robust Bed Making using Deep Imitation Learning with Dart, ..., (5)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
