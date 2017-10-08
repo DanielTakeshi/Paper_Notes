@@ -45,7 +45,7 @@ ICML, UAI, IROS, etc.
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
 - Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (2)
 - FeUdal Networks for Hierarchical Reinforcement Learning, ICML 2017 (1)
-- [Robust Adversarial Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement-learning/Robust_Adversarial_Reinforcement_Learning.md), ICML 2017 (5)
+- [Robust Adversarial Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Adversarial_Reinforcement_Learning.md), ICML 2017 (5)
 - [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (2)
 - [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (4)
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
@@ -98,7 +98,7 @@ ICRA, ICLR, etc.
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (4)
 - [Deep Spatial Autoencoders for Visuomotor Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Spatial_Autoencoders_for_Visuomotor_Learning.md), ICRA 2016 (3)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
-- [Learning the Variance of the Reward-To-Go](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement-learning/Robust_Adversarial_Reinforcement_Learning.md), JMLR 2016 (3)
+- [Learning the Variance of the Reward-To-Go](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_the_Variance_of_the_Reward-To-Go.md), JMLR 2016 (3)
 - [Deep Reinforcement Learning with Double Q-learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_with_Double_Q-learning.md), AAAI 2016 (3)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
 
