@@ -59,8 +59,8 @@ ICRA, ICLR, etc.
 
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
 - Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
-- Learning to Act by Predicting the Future, ICLR 2017 (2)
 - Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening, ICLR 2017 (1)
+- [Learning to Act by Predicting the Future](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Act_by_Predicting_the_Future.md), ICLR 2017 (2)
 - [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Servoing_with_Deep_Features_and_Fitted_Q-Iteration.md), ICLR 2017 (2)
 - [Reinforcement Learning Through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/), ICLR 2017 (1)
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
@@ -232,7 +232,8 @@ TBD...
 
 ## 2017
 
-- Learning Robust Bed Making using Deep Imitation Learning with Dart, ..., (5)
+- [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), ..., (4)
+- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 5
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
@@ -241,6 +242,7 @@ TBD...
 
 ## 2016
 
+- [SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/SWIRL:_A_Sequential_Windowed_Inverse_Reinforcement_Learning_Algorithm_for_Robot_Tasks_With_Delayed_Rewards.md), WAFR 2016 (2)
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
 - [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (3)
