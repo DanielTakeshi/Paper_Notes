@@ -37,3 +37,6 @@ way, the adversary learns to push in that same direction to force it to fall
 over. Nice! It would be nice, however, to show what happens if we have random
 noise instead of adversary noise. How beneficial is the jump from random noise
 to adversary noise? That would be interesting to explore.
+
+Update: read the ICML version, not the arXiv version (which is slightly out of
+date).
