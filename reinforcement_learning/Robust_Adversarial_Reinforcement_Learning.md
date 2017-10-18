@@ -38,5 +38,10 @@ over. Nice! It would be nice, however, to show what happens if we have random
 noise instead of adversary noise. How beneficial is the jump from random noise
 to adversary noise? That would be interesting to explore.
 
+Also, the way they injected noise can seem somewhat fixed or artificial. Why
+can't the adversary do this or that?
+
 Update: read the ICML version, not the arXiv version (which is slightly out of
-date).
+date). The versions are similar, except they tested with Ant-v1 for the final
+camera-ready version, but they often omitted results anyway so there isn't much
+additional content.

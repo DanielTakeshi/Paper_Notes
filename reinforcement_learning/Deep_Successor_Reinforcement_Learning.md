@@ -25,8 +25,7 @@ formalism.
 
 - They use function approximation (with a deep neural network) to approximate
   the SR so that the SR and reward function can be learned from raw inputs. See
-  Figure 1 for the model architecture, which also includes a reconstruction
-  (huh, like a VAE?).
+  Figure 1 for the model architecture, which also includes a reconstruction.
 
 - Looks like a lot of stuff is similar to the DQN paper, as in the loss
   function, etc., as one would expect. Also, the reconstruction loss is L2,
@@ -34,6 +33,11 @@ formalism.
 
 - They argue that subgoals are useful for the options framework and can help
   exploration efficiency. I should talk with Roy about this.
+
+- Note: the reconstruction is like a VAE (why didn't they cite that paper?!?)
+  because the point of the latent state `\phi_s` is to capture those important
+  factors of variation, and hence be a good "discriminator" among states so we
+  can get useful successor representations.
 
 
 **Experiments**
@@ -43,3 +47,18 @@ formalism.
 
 - **Doom**: seems to be an increasingly popular environment that I better try
   out one of these days.
+
+- I'm not that pleased with their experimental results, which seem weak and
+  restricted to a few (if not one?) random seed. And they can only claim that
+  their performance is "on par" with (outdated) DQN, one of which is in a very
+  limited environment (their maze one). Yes, they can be more sensitive to
+  changes in the reward function, in their limited setup. I wonder how this
+  scales up.
+
+- Extracting subgoals is also expensive because they have to run random policies
+  throughout the environment to get states and a count of successor states. Then
+  they can do normalized cuts. They also didn't show these would be useful, but
+  just said "[these] can be ran periodically within a hierarchical reinforcement
+  learning framework to aid exploration." It would have been better if they
+  could literally show me options that they found, like (Krishnan et al. 2017)
+  did for surgical robotics.
