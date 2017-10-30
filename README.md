@@ -31,6 +31,7 @@ NIPS, CoRL, IROS, etc.
 - Hindsight Experience Replay, NIPS 2017 (1)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
 - One-Shot Visual Imitation Learning via Meta-Learning, CoRL 2017 (1)
+- [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (3)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
@@ -70,6 +71,7 @@ ICRA, ICLR, etc.
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic_Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
+- [Target-Driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Target-Driven_Visual_Navigation_in_Indoor_Scenes_using_Deep_Reinforcement_Learning.md), ICRA 2017 (4)
 - [Supervision via Competition: Robot Adversaries for Learning Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Supervision_via_Competition_Robot_Adversaries_for_Learning_Tasks.md), ICRA 2017 (4)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
@@ -83,8 +85,7 @@ ICRA, ICLR, etc.
 - [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (3)
 - [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (3)
 - [Unsupervised Learning for Physical Interaction through Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md), NIPS 2016 (1)
-- Deep Exploration via Bootstrapped DQN, NIPS 2016 (1)
-- Cooperative Inverse Reinforcement Learning, NIPS 2016 (1)
+- [Deep Exploration via Bootstrapped DQN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Exploration_via_Bootstrapped_DQNs.md), NIPS 2016 (3)
 - Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
@@ -123,14 +124,20 @@ ICRA, ICLR, etc.
 - Learning Neural Network Policies with Guided Policy Search Under Unknown Dynamics, NIPS 2014 (1)
 - [Deterministic Policy Gradient Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deterministic_Policy_Gradient_Algorithms.md), ICML 2014 (2)
 
-## 2013 and Earlier
+## 2013
 
+- (More) Efficient Reinforcement Learning via Posterior Sampling, NIPS 2013 (1)
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
+
+## 2001 to 2012
+
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
-- On a Connection Between Importance Sampling and the Likelihood Ratio Policy Gradient, NIPS 2010 (1)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
 - Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning, JMLR 2004 (1)
+
+## 2000 and Earlier
+
 - Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (1)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
 
@@ -237,10 +244,12 @@ TBD...
 
 ## 2017
 
-- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 5
+- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL (5)
+- A Vision-Guided Multi-Robot Cooperation Framework for Learning-by-Demonstration and Task Reproduction, IROS 2017 (1)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/In-Datacenter_Performance_Analysis_of_a_Tensor_Processing_Unit.md), ISCA 2017 (1)
+- Autonomous Suturing Via Surgical Robot: An Algorithm for Optimal Selection of Needle Diameter, Shape, and Path, ICRA 2017 (1)
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2017 (3)
 - A Conceptual Introduction to Hamiltonian Monte Carlo, arXiv (1)
