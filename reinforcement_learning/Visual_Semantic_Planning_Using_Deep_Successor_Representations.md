@@ -13,3 +13,19 @@ benefits, after reading the DSR paper) but they use it for cross-task
 generalization, because for different tasks, they can simply keep the successor
 predictor while re-training only the reward predictor. Though I have to confess,
 I'm still not sure I see the benefit of DSR ...
+
+To derive DSR, just remember that `r(s,a) = \phi(s,a) * w` represents the
+*immediate* reward (yeah, it's just `r(s,a)` that we use all the time) and
+`\phi` is simply some feature, think of DQNs with `\phi` the processed
+state/action features at any layer in the network.
+
+So `\phi(s,a)` is a state-action feature. Then `\psi(s,a)` represents how often
+`\phi(s,a)` is "represented" across the entire trajectory, discounting future
+occurrences. In their words:
+
+> Intuitively, the successor feature `\psi(s,a)` summarizes the environment
+> dynamics under a policy `\pi` in a state-action feature space, which can be
+> interpreted as the expected future "feature occupancy".
+
+They restate theoretical results from prior work, but it's unclear if they
+actually use it.

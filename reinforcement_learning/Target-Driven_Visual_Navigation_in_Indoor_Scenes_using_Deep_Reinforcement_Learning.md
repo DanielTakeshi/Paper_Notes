@@ -8,6 +8,8 @@ current state to an action, so the target is implicitly embedded.
 
 The target and current images are passed through a siamese network, which they
 modify to output a policy (the actor) and the value function (a critic).
+Basically it's similar to how A3C works, we have shared parameters between the
+two and then they branch out at the end.
 
 Training proceeds in a manner similar to A3C, where instead of having multiple
 threads run independent episodes, different threads can run different targets.

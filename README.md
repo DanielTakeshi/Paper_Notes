@@ -31,7 +31,7 @@ NIPS, CoRL, IROS, etc.
 - Hindsight Experience Replay, NIPS 2017 (1)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
 - One-Shot Visual Imitation Learning via Meta-Learning, CoRL 2017 (1)
-- [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (3)
+- [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
@@ -71,7 +71,7 @@ ICRA, ICLR, etc.
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic_Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
-- [Target-Driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Target-Driven_Visual_Navigation_in_Indoor_Scenes_using_Deep_Reinforcement_Learning.md), ICRA 2017 (4)
+- [Target-Driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Target-Driven_Visual_Navigation_in_Indoor_Scenes_using_Deep_Reinforcement_Learning.md), ICRA 2017 (5)
 - [Supervision via Competition: Robot Adversaries for Learning Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Supervision_via_Competition_Robot_Adversaries_for_Learning_Tasks.md), ICRA 2017 (4)
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
@@ -138,7 +138,8 @@ ICRA, ICLR, etc.
 
 ## 2000 and Earlier
 
-- Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (1)
+- [Improving Generalisation for Temporal Difference Learning the Successor Representation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Improving_Generalisation_for_Temporal_Difference_Learning_the_Successor_Representation.md), Neural Computation 1993 (2)
+- Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (2)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
 
 
