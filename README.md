@@ -14,7 +14,8 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ## 2018
 
-TBD...
+- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ... (3)
+- [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (2)
 
 ## 2017
 
@@ -29,6 +30,9 @@ NIPS, CoRL, IROS, etc.
 - Imagination-Augmented Agents for Deep Reinforcement Learning, NIPS 2017 (1)
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, NIPS 2017 (1)
 - Hindsight Experience Replay, NIPS 2017 (1)
+- [DART: Noise Injection for Robust Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/DART_Noise_Injection_for_Robust_Imitation_Learning.md), CoRL 2017 (3)
+- [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
+- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL (4)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
 - One-Shot Visual Imitation Learning via Meta-Learning, CoRL 2017 (1)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
@@ -67,7 +71,6 @@ ICRA, ICLR, etc.
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_with_Unsupervised_Auxiliary_Tasks.md), ICLR 2017 (3)
 - [Learning to Act by Predicting the Future](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Act_by_Predicting_the_Future.md), ICLR 2017 (4)
 - [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Servoing_with_Deep_Features_and_Fitted_Q-Iteration.md), ICLR 2017 (2)
-- [Reinforcement Learning Through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/), ICLR 2017 (1)
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic_Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
@@ -181,7 +184,8 @@ TBD...
 - [Tutorial on Variational Autoencoders](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tutorial_on_Variational_Autoencoders.md), arXiv (3)
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - Pixel Recurrent Neural Networks, ICML 2016 (2)
-- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
+- [Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Visualizing_Deep_Convolutional_Neural_Networks_Using_Natural_Pre-Images.md), IJCV 2016 (1)
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
 - A Note on the Evaluation of Generative Models, ICLR 2016 (1)
 - Neural Programmer-Interpreters, ICLR 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
@@ -245,8 +249,8 @@ TBD...
 
 ## 2017
 
-- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL (5)
 - A Vision-Guided Multi-Robot Cooperation Framework for Learning-by-Demonstration and Task Reproduction, IROS 2017 (1)
+- [Mini-batch Tempered MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Mini-batch_Tempered_MCMC.md), arXiv 2017 (3)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/In-Datacenter_Performance_Analysis_of_a_Tensor_Processing_Unit.md), ISCA 2017 (1)
@@ -260,6 +264,7 @@ TBD...
 - [SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/SWIRL:_A_Sequential_Windowed_Inverse_Reinforcement_Learning_Algorithm_for_Robot_Tasks_With_Delayed_Rewards.md), WAFR 2016 (2)
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
+- [Bayesian Optimization with Robust Bayesian Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mmiscellaneous/Bayesian_Optimization_with_Robust_Bayesian_Neural_Networks.md), NIPS 2016 (2)
 - [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (3)
 - [Robot Grasping in Clutter: Using a Hierarchy of Supervisors for Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robot_Grasping_in_Clutter_Using_a_Hierarchy_of_Supervisors_for_Learning_from_Demonstrations.md), CASE 2016 (4)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
@@ -272,7 +277,7 @@ TBD...
 
 - [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
 - [Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Large-Scale_Distributed_Bayesian_Matrix_Factorization_using_Stochastic_Gradient_MCMC.md), KDD 2015 (1)
-- The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling, ICML 2015 (1)
+- [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/The_Fundamental_Incompatibility_of_Scalable_Hamiltonian_Monte_Carlo_and_Naive_Data_Subsampling.md), ICML 2015 (2)
 - [Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md), ICRA 2015 (4)
 
 ## 2014
