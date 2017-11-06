@@ -8,9 +8,12 @@ year, these papers should be organized according to publication date.  The links
 here go to my paper summaries if I have them, otherwise those papers are on my
 **TODO** list.
 
+- [Reinforcement and Imitation Learning](#reinforcement-learning-and-imitation-learning)
+- [Deep Learning](#deep-learning)
+- [Miscellaneous](#miscellaneous)
 
-# Reinforcement Learning
-(Also includes imitation learning)
+
+# Reinforcement Learning and Imitation Learning
 
 ## 2018
 
@@ -149,6 +152,7 @@ ICRA, ICLR, etc.
 
 
 # Deep Learning
+(Not counting deep RL and deep IL.)
 
 ## 2018
 
@@ -239,7 +243,8 @@ TBD...
 
 
 
-# MCMC, Machine Learning, Robotics, and Miscellaneous Papers
+# Miscellaneous 
+(Mostly about MCMC, Machine Learning, and/or Robotics.)
 
 ## 2018
 
@@ -264,7 +269,7 @@ TBD...
 - [SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/SWIRL:_A_Sequential_Windowed_Inverse_Reinforcement_Learning_Algorithm_for_Robot_Tasks_With_Delayed_Rewards.md), WAFR 2016 (2)
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
-- [Bayesian Optimization with Robust Bayesian Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/mmiscellaneous/Bayesian_Optimization_with_Robust_Bayesian_Neural_Networks.md), NIPS 2016 (2)
+- [Bayesian Optimization with Robust Bayesian Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Optimization_with_Robust_Bayesian_Neural_Networks.md), NIPS 2016 (2)
 - [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (3)
 - [Robot Grasping in Clutter: Using a Hierarchy of Supervisors for Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robot_Grasping_in_Clutter_Using_a_Hierarchy_of_Supervisors_for_Learning_from_Demonstrations.md), CASE 2016 (4)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
