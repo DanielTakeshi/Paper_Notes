@@ -42,6 +42,7 @@ NIPS, CoRL, IROS, etc.
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
+- [Multi-Level Discovery of Deep Options](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-Level_Discovery_of_Deep_Options.md), arXiv (4)
 - Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets, arXiv (1)
 - UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
