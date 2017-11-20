@@ -19,9 +19,11 @@
 
 **Could I implement this?**
 
-- Almost there ... still slightly confused on multiple (more than two)
-  hierarchies and how to do normal RL and then augment it with options after a
-  certain point. But I will work on the GridWorld stuff soon^TM.
+- Update: I know how the EG update works at the lowest level now, since I
+  derived the math. Now to blog about it. :-)
+- Almost there ... still slightly confused on (a) how to augment it with options
+  after a certain point, but I will work on the GridWorld stuff soon^TM, and (b)
+  how does the Baum-Welch update works? (I know B-W but I forgot it.)
 
 **Possible drawbacks?**
 
