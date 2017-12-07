@@ -1,5 +1,7 @@
 # Multi-Level Discovery of Deep Options
 
+Update: [notes available here][1].
+
 **What is the main idea?**
 
 - Using the (assumed) hierarchical structure of demonstrations (in an RL/IL
@@ -35,3 +37,6 @@
   three, not an arbitrary amount?).
 - Some conjectures are stated but not fully investigated.
 - Little analysis of how the quality of the supervisor matters.
+
+
+[1]:https://danieltakeshi.github.io/2017/11/24/ddo/
