@@ -1,5 +1,8 @@
 # MCMC Using Hamiltonian Dynamics
 
+**Update December 2017**: Check out [my MCMC code][1], where I implement the
+figures from this writeup and get a *lot* of understanding.
+
 This is a long paper (50 pages) and I won't be able to read it all. I'm just
 hoping to understand enough of the Hamiltonian Dynamics part and to get
 intuition. Remember that MCMC originally came out of trying to simulate
@@ -155,3 +158,6 @@ to use Hamiltonian Dynamics in some way. I'm not sure what the alternative is
 (and don't say random walk proposals!). BTW it looks like the author has already
 been using Hamiltonian Dynamics for neural network models. These probably
 weren't deep networks, though; is there a way to scale it up?
+
+
+[1]:https://github.com/DanielTakeshi/MCMC_and_Dynamics

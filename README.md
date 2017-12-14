@@ -17,8 +17,8 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ## 2018
 
-- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ... (3)
-- [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (2)
+- [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
+- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
 
 ## 2017
 
@@ -260,12 +260,13 @@ TBD...
 - A Vision-Guided Multi-Robot Cooperation Framework for Learning-by-Demonstration and Task Reproduction, IROS 2017 (1)
 - [Mini-batch Tempered MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Mini-batch_Tempered_MCMC.md), arXiv 2017 (3)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
+- [Magnetic Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Magnetic_Hamiltonian_Monte_Carlo.md), ICML 2017 (1)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/In-Datacenter_Performance_Analysis_of_a_Tensor_Processing_Unit.md), ISCA 2017 (1)
 - Autonomous Suturing Via Surgical Robot: An Algorithm for Optimal Selection of Needle Diameter, Shape, and Path, ICRA 2017 (1)
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2017 (3)
-- A Conceptual Introduction to Hamiltonian Monte Carlo, arXiv (1)
+- [A Conceptual Introduction to Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Conceptual_Introduction_to_Hamiltonian_Monte_Carlo.md), arXiv (1)
 
 ## 2016
 
@@ -292,7 +293,7 @@ TBD...
 
 - [Learning Accurate Kinematic Control of Cable-Driven Surgical Robots Using Data Cleaning and Gaussian Process Regression](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Accurate_Kinematic_Control_of_Cable-Driven_Surgical_Robots_Using_Data_Cleaning_and_Gaussian_Process_Regression.md), CASE 2014 (5)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
-- [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (3)
+- [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (4)
 - [Hamiltonian Monte Carlo Without Detailed Balance](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Hamiltonian_Monte_Carlo_Without_Detailed_Balance.md), ICML 2014 (2)
 - [Towards Scaling up Markov Chain Monte Carlo: An Adaptive Subsampling Approach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Towards_Scaling_up_Markov_Chain_Monte_Carlo:_An_Adaptive_Subsampling_Approach.md), ICML 2014 (4)
 - [Autonomous Multilateral Debridement with the Raven Surgical Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Autonomous_Multilateral_Debridement_with_the_Raven_Surgical_Robot.md), ICRA 2014 (5)
@@ -306,7 +307,7 @@ TBD...
 
 ## 2012 and Earlier
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
-- [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (2)
+- [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (4)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
 - [Superhuman Performance of Surgical Tasks by Robots using Iterative Learning from Human-Guided Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Superhuman_Performance_of_Surgical_Tasks_by_Robots_using_Iterative_Learning_from_Human-Guided_Demonstrations.md), ICRA 2010 (2)
 - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Introduction_to_the_Conjugate_Gradient_Method_Without_the_Agonizing_Pain.md), Technical Report, 1994 (3)
