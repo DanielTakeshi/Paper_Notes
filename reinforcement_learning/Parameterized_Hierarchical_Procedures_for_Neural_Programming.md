@@ -85,25 +85,40 @@ For both of these, I wish there were more examples of execution traces.
 **Questions**:
 
 - Is the overall policy learned a *set* of PHPs? If so, how many are there?
-  Answer: yes.
+  Answer: yes, the policy overall is a set of PHPs, with the actual amount
+  probably up to the user (maybe do cross-validation to determine a good
+  number?).
 
 - Does each PHP have its own neural network? Answer: Not quite, they actually
   need *two* networks for each, one for the operation and another for the
   termination. The counter (just a real number) is concatenated with the
-  observation as input. Got it.
+  observation as input. Got it. Their state spaces are small enough that 1 extra
+  addition can make a difference; I wonder how it generalizes to MNIST (784
+  dimensions).
 
 - Does each PHP have its own program counter, or do statements within a PHP have
-  their own program counters? I see some conflicting language. Answer: TODO.
+  their own program counters? I see some conflicting language. Answer: each PHP
+  that is called has its own program counter, *which indicates the number of
+  time steps that the PHP has been executed for elementary actions*. When we add
+  PHPs to the memory stack, they start at counter 0. 
+
+  (There may be multiple instances of the PHPs being called, just like how
+  functions can be called many times, and for each of those calls, we have one
+  copy of that PHP on the call stack.)
+
+- How is the full memory state encoded? Answer: it's the entire stack of PHPs
+  and their program counters.
 
 - What's the difference between the input-output pairs and execution traces?
   Moreover, how exactly is the data formatted for demonstrations? I assume
   execution traces are more specific to the neural programming problem, but I
   still don't know the details. Answer: TODO.
 
-- Why does the naive approach to generalizing to multi-level PHPs result in an
-  exponential-blowup?
+- Approximate the root PHP with an LSTM? How does this work? Answer: TODO.
 
-- Approximate the root PHP with an LSTM ?!? How does this work?
+- Why does the naive approach to generalizing to multi-level PHPs result in an
+  exponential-blowup? (The answer to this should be obvious but I just want to
+  see it in math form.)
 
 
 [1]:https://danieltakeshi.github.io/2017/11/24/ddo/
