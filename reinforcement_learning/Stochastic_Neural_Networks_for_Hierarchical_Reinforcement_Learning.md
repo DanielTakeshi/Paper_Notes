@@ -13,10 +13,9 @@ This paper *again* fits in the overall theme lately of "reinforcement learning
 at a higher level" that I've been seeing a lot lately and have reviewed here on
 this github repository, e.g. with the RL^2 paper, also the option learning
 paper, actually even the end-to-end stuff (video prediction paper, etc.) is the
-same because we abstract away specific models and just *learn* them. *And* Ken
-Goldberg's recent lab papers as well! Also, there's information theory here like
-in lots of other papers. I should keep this in mind; all these papers are
-connected in some way. =)
+same because we abstract away specific models and just *learn* them. Also,
+there's information theory here like in lots of other papers. I should keep this
+in mind; all these papers are connected in some way.
 
 
 ## Introductory Material
@@ -95,7 +94,7 @@ questions. It looks like for the swimming plot, they're using six different
 skills, with each one corresponding to a swimming direction. OK, fair enough,
 this wasn't quite what I had in mind when I thought of "skills", though.
 **UPDATE**: talked to Carlos. He clarified a bit, the swimmer should be facing
-the same direction. Got it. =)
+the same direction. Got it.
 
 Figure 5 shows evidence that SNNs can cause the swimmer to go in more directions
 than the hierarchy multi-policy, which is their strong baseline with
