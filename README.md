@@ -8,6 +8,8 @@ year, these papers should be organized according to publication date.  The links
 here go to my paper summaries if I have them, otherwise those papers are on my
 **TODO** list.
 
+Contents:
+
 - [Reinforcement and Imitation Learning](#reinforcement-learning-and-imitation-learning)
 - [Deep Learning](#deep-learning)
 - [Miscellaneous](#miscellaneous)
@@ -19,6 +21,9 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
+- Rainbow: Combining Improvements in Deep Reinforcement Learning, AAAI 2018 (1)
+- Deep Q-learning from Demonstrations, AAAI 2018 (1)
+
 
 ## 2017
 
@@ -29,13 +34,13 @@ NIPS, CoRL, IROS, etc.
 - [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), NIPS 2017 (3)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), NIPS 2017 (2)
 - [Inferring The Latent Structure of Human Decision-Making from Raw Visual Inputs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inferring_The_Latent_Structure_of_Human_Decision-Making_from_Raw_Visual_Inputs.md), NIPS 2017 (5)
+- [Hindsight Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Hindsight_Experience_Replay.md), NIPS 2017 (4)
 - Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
 - Imagination-Augmented Agents for Deep Reinforcement Learning, NIPS 2017 (1)
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, NIPS 2017 (1)
-- Hindsight Experience Replay, NIPS 2017 (1)
 - [DART: Noise Injection for Robust Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/DART_Noise_Injection_for_Robust_Imitation_Learning.md), CoRL 2017 (3)
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
-- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL (4)
+- [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (4)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
 - One-Shot Visual Imitation Learning via Meta-Learning, CoRL 2017 (1)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
@@ -44,8 +49,6 @@ NIPS, CoRL, IROS, etc.
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
 - [Multi-Level Discovery of Deep Options](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-Level_Discovery_of_Deep_Options.md), arXiv (5)
 - Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets, arXiv (1)
-- UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
-- Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
 
 ICML, UAI, IROS, etc.
@@ -94,6 +97,8 @@ ICRA, ICLR, etc.
 - [Unsupervised Learning for Physical Interaction through Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md), NIPS 2016 (1)
 - [Deep Exploration via Bootstrapped DQN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Exploration_via_Bootstrapped_DQNs.md), NIPS 2016 (3)
 - Unifying Count-Based Exploration and Intrinsic Motivation, NIPS 2016 (1)
+- Learning to Poke by Poking: Experiential Learning of Intuitive Physics, NIPS 2016 (1)
+- Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, NIPS 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
 - [Deep Successor Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Successor_Reinforcement_Learning.md), arXiv 2016 (4)
@@ -165,6 +170,7 @@ TBD...
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
 - Improved Training of Wasserstein GANs, arXiv 2017 (1)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
+- [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
 - [Adversarial Discriminative Domain Adaptation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Adversarial_Discriminative_Domain_Adaptation.md), CVPR 2017 (4)
 - PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications, ICLR 2017 (1)
 - FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
@@ -218,7 +224,6 @@ TBD...
 - [Recurrent Neural Network Regularization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Neural_Network_Regularization.md), arXiv 2014 (1)
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (5)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
-- Deep Learning in Neural Networks: An Overview, arXiv (1)
 - [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
 - Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
 - [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (3)
