@@ -41,6 +41,7 @@ NIPS, CoRL, IROS, etc.
 - [DART: Noise Injection for Robust Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/DART_Noise_Injection_for_Robust_Imitation_Learning.md), CoRL 2017 (3)
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
 - [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (4)
+- [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (3)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
 - One-Shot Visual Imitation Learning via Meta-Learning, CoRL 2017 (1)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
@@ -142,14 +143,12 @@ ICRA, ICLR, etc.
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 
-## 2001 to 2012
+## 2012 and Earlier
 
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
 - Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning, JMLR 2004 (1)
-
-## 2000 and Earlier
-
+- Policy Invariance Under Reward Transformations: Theory and Application to Reward Shaping, ICML 1999 (1)
 - [Improving Generalisation for Temporal Difference Learning the Successor Representation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Improving_Generalisation_for_Temporal_Difference_Learning_the_Successor_Representation.md), Neural Computation 1993 (2)
 - Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (2)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
