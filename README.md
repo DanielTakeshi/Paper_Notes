@@ -27,7 +27,7 @@ Contents:
 
 ## 2017
 
-NIPS, CoRL, IROS, etc.
+NIPS, CoRL, etc.
 
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
@@ -42,8 +42,8 @@ NIPS, CoRL, IROS, etc.
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
 - [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (4)
 - [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (3)
+- [One-Shot Visual Imitation Learning via Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Visual_Imitation_Learning_via_Meta-Learning.md), CoRL 2017 (3)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
-- One-Shot Visual Imitation Learning via Meta-Learning, CoRL 2017 (1)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
@@ -52,7 +52,7 @@ NIPS, CoRL, IROS, etc.
 - Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
 
-ICML, UAI, IROS, etc.
+ICML, UAI/KDD/IROS, etc.
 
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
 - [Virtual to Real Reinforcement Learning for Autonomous Driving](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Virtual_to_Real_Reinforcement_Learning_for_Autonomous_Driving.md), BMVC 2017 (3)
