@@ -19,6 +19,8 @@ Contents:
 
 ## 2018
 
+- Divide-and-Conquer Reinforcement Learning, arXiv (1)
+- Overcoming Exploration in Reinforcement Learning with Demonstrations, arXiv (1)
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
@@ -35,9 +37,6 @@ NIPS, CoRL, etc.
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), NIPS 2017 (2)
 - [Inferring The Latent Structure of Human Decision-Making from Raw Visual Inputs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inferring_The_Latent_Structure_of_Human_Decision-Making_from_Raw_Visual_Inputs.md), NIPS 2017 (5)
 - [Hindsight Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Hindsight_Experience_Replay.md), NIPS 2017 (4)
-- Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
-- Imagination-Augmented Agents for Deep Reinforcement Learning, NIPS 2017 (1)
-- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, NIPS 2017 (1)
 - [DART: Noise Injection for Robust Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/DART_Noise_Injection_for_Robust_Imitation_Learning.md), CoRL 2017 (3)
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
 - [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (4)
@@ -49,8 +48,7 @@ NIPS, CoRL, etc.
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
 - [Multi-Level Discovery of Deep Options](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-Level_Discovery_of_Deep_Options.md), arXiv (5)
-- Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets, arXiv (1)
-- Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
+- [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), arXiv (2)
 
 ICML, UAI/KDD/IROS, etc.
 
@@ -145,12 +143,9 @@ ICRA, ICLR, etc.
 
 ## 2012 and Earlier
 
-- A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning, AISTATS 2011 (3)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
-- Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning, JMLR 2004 (1)
-- Policy Invariance Under Reward Transformations: Theory and Application to Reward Shaping, ICML 1999 (1)
 - [Improving Generalisation for Temporal Difference Learning the Successor Representation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Improving_Generalisation_for_Temporal_Difference_Learning_the_Successor_Representation.md), Neural Computation 1993 (2)
-- Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning, Machine Learning 1992 (2)
+- [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Statistical_Gradient-Following_Algorithms_for_Connectionist_Reinforcement_Learning.md), Machine Learning 1992 (2)
 - [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
 
 
