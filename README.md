@@ -20,7 +20,7 @@ Contents:
 ## 2018
 
 - Divide-and-Conquer Reinforcement Learning, arXiv (1)
-- Overcoming Exploration in Reinforcement Learning with Demonstrations, arXiv (1)
+- [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), arXiv (3)
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
@@ -49,6 +49,7 @@ NIPS, CoRL, etc.
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
 - [Multi-Level Discovery of Deep Options](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-Level_Discovery_of_Deep_Options.md), arXiv (5)
 - [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), arXiv (2)
+- Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards, arXiv (1)
 
 ICML, UAI/KDD/IROS, etc.
 
@@ -162,12 +163,9 @@ TBD...
 
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
-- Improved Training of Wasserstein GANs, arXiv 2017 (1)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
 - [Adversarial Discriminative Domain Adaptation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Adversarial_Discriminative_Domain_Adaptation.md), CVPR 2017 (4)
-- PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications, ICLR 2017 (1)
-- FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
 - Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
@@ -209,7 +207,7 @@ TBD...
 - Going Deeper with Convolutions, CVPR 2015 (1)
 - The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
 - Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
-- ADAM: A Method for Stochastic Optimization, ICLR 2015 (2)
+- [ADAM: A Method for Stochastic Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ADAM_A_Method_for_Stochastic_Optimization.md), ICLR 2015 (2)
 - Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
 
 ## 2014
@@ -219,7 +217,6 @@ TBD...
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (5)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
-- Revisiting Natural Gradient for Deep Networks, ICLR 2014 (1)
 - [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (3)
 
 ## 2013
@@ -256,13 +253,13 @@ TBD...
 
 ## 2017
 
-- A Vision-Guided Multi-Robot Cooperation Framework for Learning-by-Demonstration and Task Reproduction, IROS 2017 (1)
+- [A Vision-Guided Multi-Robot Cooperation Framework for Learning-by-Demonstration and Task Reproduction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Vision-Guided_Multi-Robot_Cooperation_Framework_for_Learning-by-Demonstration_and_Task_Reproduction.md), IROS 2017 (1)
 - [Mini-batch Tempered MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Mini-batch_Tempered_MCMC.md), arXiv 2017 (3)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - [Magnetic Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Magnetic_Hamiltonian_Monte_Carlo.md), ICML 2017 (1)
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/In-Datacenter_Performance_Analysis_of_a_Tensor_Processing_Unit.md), ISCA 2017 (1)
-- Autonomous Suturing Via Surgical Robot: An Algorithm for Optimal Selection of Needle Diameter, Shape, and Path, ICRA 2017 (1)
+- [Autonomous Suturing Via Surgical Robot: An Algorithm for Optimal Selection of Needle Diameter, Shape, and Path](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Autonomous_Suturing_Via_Surgical_Robot_An_Algorithm_for_Optimal_Selection_of_Needle_Diameter_Shape_and_Path.md), ICRA 2017 (4)
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2017 (3)
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Conceptual_Introduction_to_Hamiltonian_Monte_Carlo.md), arXiv (4)
