@@ -19,12 +19,12 @@ Contents:
 
 ## 2018
 
-- Divide-and-Conquer Reinforcement Learning, arXiv (1)
 - [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), arXiv (3)
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
-- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
-- Deep Q-learning from Demonstrations, AAAI 2018 (1)
+- [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (1)
+- Divide-and-Conquer Reinforcement Learning, arXiv (4)
+- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
 
 
 ## 2017
@@ -73,8 +73,6 @@ ICML, UAI/KDD/IROS, etc.
 ICRA, ICLR, etc.
 
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
-- Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR 2017 (1)
-- Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening, ICLR 2017 (1)
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_with_Unsupervised_Auxiliary_Tasks.md), ICLR 2017 (3)
 - [Learning to Act by Predicting the Future](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Act_by_Predicting_the_Future.md), ICLR 2017 (4)
 - [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Servoing_with_Deep_Features_and_Fitted_Q-Iteration.md), ICLR 2017 (2)

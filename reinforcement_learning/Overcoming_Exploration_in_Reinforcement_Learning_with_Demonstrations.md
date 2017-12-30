@@ -45,4 +45,5 @@
 
 **Could I implement this?**
 
-- I *think* so.
+- I *think* so. Well, I'd need the code, obviously. It's too bad that this robot
+  simulator is stuck with OpenAI's internal code.
