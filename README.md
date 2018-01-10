@@ -19,12 +19,13 @@ Contents:
 
 ## 2018
 
-- [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), arXiv (3)
+- [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), arXiv (5)
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (1)
-- Divide-and-Conquer Reinforcement Learning, arXiv (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
+- Divide-and-Conquer Reinforcement Learning, arXiv (4)
+- Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, arXiv (1)
 
 
 ## 2017
@@ -40,7 +41,7 @@ NIPS, CoRL, etc.
 - [DART: Noise Injection for Robust Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/DART_Noise_Injection_for_Robust_Imitation_Learning.md), CoRL 2017 (3)
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
 - [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (4)
-- [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (3)
+- [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (5)
 - [One-Shot Visual Imitation Learning via Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Visual_Imitation_Learning_via_Meta-Learning.md), CoRL 2017 (3)
 - End-to-End Learning of Semantic Grasping, CoRL 2017 (1)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
