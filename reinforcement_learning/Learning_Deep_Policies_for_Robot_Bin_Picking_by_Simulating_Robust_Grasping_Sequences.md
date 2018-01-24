@@ -23,6 +23,12 @@ Quick highlights:
   top-ranked grasp from the set of sampled grasps after applying the Cross
   Entropy Method.
 
+- The actions are not "move up, move down ..." nor are they continuous control
+  in the technical sense like MuJoCo actions, but the actions instead first
+  identify where to grasp and at what angle, and then once that's chosen the
+  robot moves in a straight line there. I guess it's technically continuous
+  control, though?
+
 The major downside of this paper is that, as usual, it's hard to get good
 intuition without having actual experience with Dex-Net and/or the YuMi robot.
 The physics model isn't completely clear to me. I don't know how much

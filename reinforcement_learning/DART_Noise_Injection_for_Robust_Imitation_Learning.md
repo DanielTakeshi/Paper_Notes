@@ -20,6 +20,8 @@ And intuitively it seems like it should work, so long as the added noise is
 small enough, and that it's done in a principled way (this is why I need to know
 the theory).
 
+Note that this isn't good enough to exceed the expert supervisor performance.
+
 See the blog post for more details:
 
 http://bair.berkeley.edu/blog/2017/10/26/dart/
