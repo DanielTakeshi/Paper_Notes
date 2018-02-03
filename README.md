@@ -19,14 +19,16 @@ Contents:
 
 ## 2018
 
-- [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ... (4)
 - Learning Deep Composable Maximum-Entropy Policies for Real-World Robotic Manipulation, ICRA 2018 (1)
 - [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), ICRA 2018 (5)
+- [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ICLR 2018 (4)
+- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ICLR 2018 (3)
+- Zero-Shot Visual Imitation, ICLR 2018 (1)
+- Model-Ensemble Trust Region Policy Optimization, ICLR 2018 (1)
+- Divide-and-Conquer Reinforcement Learning, ICLR 2018 (4)
+- Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
-- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), arXiv 2017 (3)
-- Divide-and-Conquer Reinforcement Learning, arXiv (4)
-- Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, arXiv (1)
 
 
 ## 2017
@@ -186,12 +188,13 @@ TBD...
 - WaveNet: A Generative Model for Raw Audio, arXiv (1)
 - [Tutorial on Variational Autoencoders](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tutorial_on_Variational_Autoencoders.md), arXiv (3)
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
-- Pixel Recurrent Neural Networks, ICML 2016 (2)
+- [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Dropout_as_a_Bayesian_Approximation_Representing_Model_Uncertainty_in_Deep_Learning.md), ICML 2016 (2)
 - [Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Visualizing_Deep_Convolutional_Neural_Networks_Using_Natural_Pre-Images.md), IJCV 2016 (1)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md), ICLR 2016 (2)
-- A Note on the Evaluation of Generative Models, ICLR 2016 (1)
+- [A Note on the Evaluation of Generative Models](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/A_Note_on_the_Evaluation_of_Generative_Models.md), ICLR 2016 (3)
 - Neural Programmer-Interpreters, ICLR 2016 (1)
 - Visualizing and Understanding Recurrent Networks, ICLR Workshop 2016 (1)
+- [Preconditioned Stochastic Gradient Langevin Dynamics for Deep Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Preconditioned_Stochastic_Gradient_Langevin_Dynamics_for_Deep_Neural_Networks.md), AAAI 2016 (3)
 - [Attention and Augmented Recurrent Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_and_Augmented_Recurrent_Neural_Networks.md), Distill (3)
 
 ## 2015
@@ -199,7 +202,6 @@ TBD...
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
 - [Spatial Transformer Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Spatial_Transformer_Networks.md), NIPS 2015 (4)
 - Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks, NIPS 2015 (1)
-- Training Very Deep Networks, NIPS 2015 (2)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Going Deeper with Convolutions, CVPR 2015 (1)
@@ -221,8 +223,6 @@ TBD...
 
 - On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
 - On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
-- Better Mixing via Deep Representations, ICML 2013 (1)
-- Maxout Networks, ICML 2013 (1)
 
 ## 2012
 
@@ -279,6 +279,7 @@ TBD...
 
 ## 2015
 
+- [Bayesian Dark Knowledge](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Dark_Knowledge.md), NIPS 2015 (2)
 - [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
 - [Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Large-Scale_Distributed_Bayesian_Matrix_Factorization_using_Stochastic_Gradient_MCMC.md), KDD 2015 (1)
 - [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/The_Fundamental_Incompatibility_of_Scalable_Hamiltonian_Monte_Carlo_and_Naive_Data_Subsampling.md), ICML 2015 (2)
@@ -301,6 +302,8 @@ TBD...
 - [Learning Task Error Models for Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Task_Error_Models_for_Manipulation.md), ICRA 2013 (4)
 
 ## 2012 and Earlier
+
+- [Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Posterior_Sampling_via_Stochastic_Gradient_Fisher_Scoring.md), ICML 2012 (2)
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (4)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
