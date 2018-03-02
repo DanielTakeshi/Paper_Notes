@@ -1,5 +1,7 @@
 # Overcoming Exploration in Reinforcement Learning with Demonstrations
 
+See: https://danieltakeshi.github.io/2018/02/28/sample-efficient-rl/
+
 **What is the paper contribution/novelty?**
 
 - Present a method to solve RL environments with sparse rewards by using a small

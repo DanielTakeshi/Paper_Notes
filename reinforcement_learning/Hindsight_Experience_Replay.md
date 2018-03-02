@@ -1,5 +1,7 @@
 # Hindsight Experience Replay
 
+See: https://danieltakeshi.github.io/2018/02/28/sample-efficient-rl/
+
 **What problem are they trying to solve?**
 
 Issues with normal/default model-free (deep)RL:
