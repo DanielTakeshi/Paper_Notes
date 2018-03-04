@@ -1,5 +1,11 @@
 # DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations
 
+**Update**: wow, this summary is out of date. I've read the paper in far more
+detail since then, and feel like I understand almost everything. It's some great
+work, especially with how unstable the dVRK is, from personal experience. I also
+like how Sanjay got to show the different options visually by looking at the
+network output.
+
 This paper builds upon the earlier TSC and SWIRL papers to generalize the LfD
 algorithm to be DDCO (which additionally generalizes their DDO paper!).
 
