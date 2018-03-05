@@ -11,22 +11,39 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 Contents:
 
 - [Reinforcement and Imitation Learning](#reinforcement-learning-and-imitation-learning)
+    - [2018](#2018-rlil-papers)
+    - [2017](#2017-rlil-papers)
+    - [2016](#2016-rlil-papers)
+    - [2015](#2015-rlil-papers)
+    - [2014 and Earlier](#2014-and-earlier-rlil-papers)
 - [Deep Learning](#deep-learning)
+    - [2018](#2018-dl-papers)
+    - [2017](#2017-dl-papers)
+    - [2016](#2016-dl-papers)
+    - [2015](#2015-dl-papers)
+    - [2014 and Earlier](#2014-and-earlier-dl-papers)
 - [Miscellaneous](#miscellaneous)
+    - [2018](#2018-misc-papers)
+    - [2017](#2017-misc-papers)
+    - [2016](#2016-misc-papers)
+    - [2015](#2015-misc-papers)
+    - [2014 and Earlier](#2014-and-earlier-misc-papers)
 
 
 # Reinforcement Learning and Imitation Learning
 
 ## 2018 RL/IL Papers
 
+- [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (3)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
 - Learning Deep Composable Maximum-Entropy Policies for Real-World Robotic Manipulation, ICRA 2018 (1)
 - [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Neural_Task_Programming_Learning_to_Generalize_Across_Hierarchical_Tasks.md), ICRA 2018 (2)
 - [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), ICRA 2018 (5)
+- [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitation_from_Observation_Learning_to_Imitate_Behaviors_from_Raw_Video_via_Context_Translation.md), ICRA 2018 (3)
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ICLR 2018 (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ICLR 2018 (3)
+- [Divide-and-Conquer Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Divide-and-Conquer_Reinforcement_Learning.md), ICLR 2018 (3)
 - Zero-Shot Visual Imitation, ICLR 2018 (1)
-- Divide-and-Conquer Reinforcement Learning, ICLR 2018 (4)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
@@ -164,15 +181,10 @@ TBD...
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
 - [Adversarial Discriminative Domain Adaptation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Adversarial_Discriminative_Domain_Adaptation.md), CVPR 2017 (4)
-- Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
-- The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR 2017 (1)
-- Categorical Reparameterization with Gumbel-Softmax, ICLR 2017 (1)
-- Energy-Based Generative Adversarial Networks, ICLR 2017 (1)
 - [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md), ICLR 2017 (1)
 - [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
-- Least Squares Generative Adversarial Networks, arXiv (1)
 
 ## 2016 DL Papers
 
@@ -199,7 +211,6 @@ TBD...
 
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
 - [Spatial Transformer Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Spatial_Transformer_Networks.md), NIPS 2015 (4)
-- Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks, NIPS 2015 (1)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Going Deeper with Convolutions, CVPR 2015 (1)
@@ -216,7 +227,6 @@ TBD...
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
 - [Auto-Encoding Variational Bayes](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Auto-Encoding_Variational_Bayes.md), ICLR 2014 (3)
-- On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
 - On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
 - [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md), NIPS 2012 (5)
 - Large Scale Distributed Deep Networks, NIPS 2012 (1)
