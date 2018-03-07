@@ -43,9 +43,9 @@ Contents:
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ICLR 2018 (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ICLR 2018 (3)
 - [Divide-and-Conquer Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Divide-and-Conquer_Reinforcement_Learning.md), ICLR 2018 (3)
-- Zero-Shot Visual Imitation, ICLR 2018 (1)
+- [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (2)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
-- [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (3)
+- [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
 
 
@@ -108,12 +108,14 @@ ICRA, ICLR, etc.
 - [Deep Visual Foresight for Planning Robot Motion](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Visual_Foresight_for_Planning_Robot_Motion.md), ICRA 2017 (3)
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
 - [Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Comparing_Human-Centric_and_Robot-Centric_Sampling_for_Robot_Deep_Learning_from_Demonstrations.md), ICRA 2017 (4)
+- [Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Combining_Self-Supervised_Learning_and_Imitation_for_Vision-Based_Rope_Manipulation.md), ICRA 2017 (5)
 - [Dynamic Action Repetition for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dynamic_Action_Repetition_for_Deep_Reinforcement_Learning.md), AAAI 2017 (5)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
 
 ## 2016 RL/IL Papers
 
+- [Learning to Poke by Poking: Experiential Learning of Intuitive Physics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Poke_by_Poking_Experiential_Learning_of_Intuitive_Physics.md), NIPS 2016 (5)
 - [Value Iteration Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md), NIPS 2016 (4)
 - [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (3)
 - [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (3)
@@ -266,7 +268,6 @@ TBD...
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
 - [Bayesian Optimization with Robust Bayesian Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Optimization_with_Robust_Bayesian_Neural_Networks.md), NIPS 2016 (2)
-- [Learning to Poke by Poking: Experiential Learning of Intuitive Physics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Poke_by_Poking_Experiential_Learning_of_Intuitive_Physics.md), NIPS 2016 (5)
 - [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (3)
 - [Robot Grasping in Clutter: Using a Hierarchy of Supervisors for Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robot_Grasping_in_Clutter_Using_a_Hierarchy_of_Supervisors_for_Learning_from_Demonstrations.md), CASE 2016 (4)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
