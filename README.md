@@ -11,22 +11,22 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 Contents:
 
 - [Reinforcement and Imitation Learning](#reinforcement-learning-and-imitation-learning)
-    - [2018](#2018-rlil-papers)
-    - [2017](#2017-rlil-papers)
-    - [2016](#2016-rlil-papers)
-    - [2015](#2015-rlil-papers)
+    - [2018 Papers](#2018-rlil-papers)
+    - [2017 Papers](#2017-rlil-papers)
+    - [2016 Papers](#2016-rlil-papers)
+    - [2015 Papers](#2015-rlil-papers)
     - [2014 and Earlier](#2014-and-earlier-rlil-papers)
 - [Deep Learning](#deep-learning)
-    - [2018](#2018-dl-papers)
-    - [2017](#2017-dl-papers)
-    - [2016](#2016-dl-papers)
-    - [2015](#2015-dl-papers)
+    - [2018 Papers](#2018-dl-papers)
+    - [2017 Papers](#2017-dl-papers)
+    - [2016 Papers](#2016-dl-papers)
+    - [2015 Papers](#2015-dl-papers)
     - [2014 and Earlier](#2014-and-earlier-dl-papers)
 - [Miscellaneous](#miscellaneous)
-    - [2018](#2018-misc-papers)
-    - [2017](#2017-misc-papers)
-    - [2016](#2016-misc-papers)
-    - [2015](#2015-misc-papers)
+    - [2018 Papers](#2018-misc-papers)
+    - [2017 Papers](#2017-misc-papers)
+    - [2016 Papers](#2016-misc-papers)
+    - [2015 Papers](#2015-misc-papers)
     - [2014 and Earlier](#2014-and-earlier-misc-papers)
 
 
@@ -34,7 +34,9 @@ Contents:
 
 ## 2018 RL/IL Papers
 
-- [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (3)
+- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, arXiv (1)
+- Learning by Playing –- Solving Sparse Reward Tasks from Scratch, arXiv (1)
+- [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
 - Learning Deep Composable Maximum-Entropy Policies for Real-World Robotic Manipulation, ICRA 2018 (1)
 - [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Neural_Task_Programming_Learning_to_Generalize_Across_Hierarchical_Tasks.md), ICRA 2018 (2)
@@ -95,6 +97,7 @@ ICML, UAI/KDD/IROS, etc.
 ICRA, ICLR, etc.
 
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
+- Learning to Perform Physics Experiments via Deep Reinforcement Learning, ICLR 2017 (1)
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_with_Unsupervised_Auxiliary_Tasks.md), ICLR 2017 (3)
 - [Learning to Repeat: Fine-Grained Action Repetition for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Repeat_Fine_Grained_Action_Repetition_for_Deep_Reinforcement_Learning.md), ICLR 2017 (4)
 - [Learning to Act by Predicting the Future](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Act_by_Predicting_the_Future.md), ICLR 2017 (4)
@@ -132,11 +135,12 @@ ICRA, ICLR, etc.
 - [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Control_of_Memory_Active_Perception_and_Action_in_Minecraft.md), ICML 2016 (2)
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dueling_Network_Architectures_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Guided_Cost_Learning_Deep_Inverse_Optimal_Control_via_Policy_Optimization.md), ICML 2016 (2)
-- [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
+- Learning Visual Predictive Models of Physics for Playing Billiards, ICLR 2016 (1)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (4)
 - [Deep Spatial Autoencoders for Visuomotor Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Spatial_Autoencoders_for_Visuomotor_Learning.md), ICRA 2016 (3)
+- [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
 - [Learning the Variance of the Reward-To-Go](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_the_Variance_of_the_Reward-To-Go.md), JMLR 2016 (3)
 - [Deep Reinforcement Learning with Double Q-learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_with_Double_Q-learning.md), AAAI 2016 (3)
@@ -246,7 +250,7 @@ TBD...
 
 ## 2018 Misc Papers
 
-- [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), ICRA 2018 (4)
+- [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), arXiv (5)
 
 
 ## 2017 Misc Papers
