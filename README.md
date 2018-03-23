@@ -34,6 +34,7 @@ Contents:
 
 ## 2018 RL/IL Papers
 
+- Hierarchical Imitation and Reinforcement Learning, arXiv (1)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, arXiv (1)
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, arXiv (1)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (2)
@@ -45,10 +46,11 @@ Contents:
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ICLR 2018 (4)
 - [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ICLR 2018 (3)
 - [Divide-and-Conquer Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Divide-and-Conquer_Reinforcement_Learning.md), ICLR 2018 (3)
-- [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (2)
+- [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (4)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
+- Generative Models for Learning Robot Manipulation Skills from Humans, PhD Thesis (1)
 
 
 ## 2017 RL/IL Papers
@@ -135,7 +137,7 @@ ICRA, ICLR, etc.
 - [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Control_of_Memory_Active_Perception_and_Action_in_Minecraft.md), ICML 2016 (2)
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dueling_Network_Architectures_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Guided_Cost_Learning_Deep_Inverse_Optimal_Control_via_Policy_Optimization.md), ICML 2016 (2)
-- Learning Visual Predictive Models of Physics for Playing Billiards, ICLR 2016 (1)
+- [Learning Visual Predictive Models of Physics for Playing Billiards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Predictive_Models_of_Physics_for_Playing_Billiards.md), ICLR 2016 (4)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (4)

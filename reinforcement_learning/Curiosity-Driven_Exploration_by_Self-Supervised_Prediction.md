@@ -1,5 +1,7 @@
 # Curiosity-Drive Exploration by Self-Supervised Prediction
 
+https://danieltakeshi.github.io/2018/03/23/self-supervision-part-1/
+
 I am interested in this paper because it deals with reward types that are sparse
 and/or missing. Despite missing/sparse rewards, their proposed agent can still
 explore.

@@ -1,5 +1,7 @@
 # Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation
 
+https://danieltakeshi.github.io/2018/03/23/self-supervision-part-1/
+
 A nice, niche self-supervised robot learning paper about rope manipulation.
 Main contribution is on self-supervised learning of a predictive model
 specifically for rope manipulation, and being able to do tasks at test time when
