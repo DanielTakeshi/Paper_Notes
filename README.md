@@ -34,6 +34,7 @@ Contents:
 
 ## 2018 RL/IL Papers
 
+- [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), arXiv (5)
 - Hierarchical Imitation and Reinforcement Learning, arXiv (1)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, arXiv (1)
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, arXiv (1)
@@ -87,7 +88,7 @@ ICML, UAI/KDD/IROS, etc.
 - FeUdal Networks for Hierarchical Reinforcement Learning, ICML 2017 (1)
 - [A Distributional Perspective on Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Distributional_Perspective_on_Reinforcement_Learning.md), ICML 2017 (2)
 - [Robust Adversarial Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Adversarial_Reinforcement_Learning.md), ICML 2017 (5)
-- [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (2)
+- [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (4)
 - [End-to-End Differentiable Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Differentiable_Adversarial_Imitation_Learning.md), ICML 2017 (4)
 - [Constrained Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Constrained_Policy_Optimization.md), ICML 2017 (2)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Agnostic_Meta-Learning_for_Fast_Adaptation_of_Deep_Networks.md), ICML 2017 (4)
