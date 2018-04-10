@@ -35,12 +35,13 @@ Contents:
 ## 2018 RL/IL Papers
 
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), arXiv (5)
+- [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), arXiv (4)
 - Hierarchical Imitation and Reinforcement Learning, arXiv (1)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, arXiv (1)
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, arXiv (1)
+- [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) arXiv (2)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
-- Learning Deep Composable Maximum-Entropy Policies for Real-World Robotic Manipulation, ICRA 2018 (1)
 - [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Neural_Task_Programming_Learning_to_Generalize_Across_Hierarchical_Tasks.md), ICRA 2018 (2)
 - [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), ICRA 2018 (5)
 - [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitation_from_Observation_Learning_to_Imitate_Behaviors_from_Raw_Video_via_Context_Translation.md), ICRA 2018 (3)
@@ -68,7 +69,7 @@ NIPS, CoRL, etc.
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
 - [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (5)
 - [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (5)
-- [One-Shot Visual Imitation Learning via Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Visual_Imitation_Learning_via_Meta-Learning.md), CoRL 2017 (3)
+- [One-Shot Visual Imitation Learning via Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Visual_Imitation_Learning_via_Meta-Learning.md), CoRL 2017 (5)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Complex_Dexterous_Manipulation_with_Deep_Reinforcement_Learning_and_Demonstrations.md), arXiv (4)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)

@@ -1,5 +1,7 @@
 # One-Shot Visual Imitation Learning via Meta-Learning
 
+Update: see my blog post.
+
 **Main idea of the paper**: show that MAML can be extended to real robotic tasks
 so that robots can learn a task given only one demonstration (hence, the
 "one-shot" part) and where the demonstration is done using videos, so simple
