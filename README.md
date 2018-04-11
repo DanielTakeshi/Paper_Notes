@@ -50,7 +50,7 @@ Contents:
 - [Divide-and-Conquer Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Divide-and-Conquer_Reinforcement_Learning.md), ICLR 2018 (3)
 - [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (4)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
-- Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play, ICLR 2018 (1)
+- [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Intrinsic_Motivation_and_Automatic_Curricula_via_Asymmetric_Self-Play.md), ICLR 2018 (3)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
 
@@ -168,9 +168,9 @@ ICRA, ICLR, etc.
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), Foundations and Trends in Machine Learning 2013 (4)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
-- [Improving Generalisation for Temporal Difference Learning the Successor Representation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Improving_Generalisation_for_Temporal_Difference_Learning_the_Successor_Representation.md), Neural Computation 1993 (2)
-- [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Statistical_Gradient-Following_Algorithms_for_Connectionist_Reinforcement_Learning.md), Machine Learning 1992 (2)
-- [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), Neural Computation 1990 (3)
+- [Improving Generalisation for Temporal Difference Learning the Successor Representation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Improving_Generalisation_for_Temporal_Difference_Learning_the_Successor_Representation.md), N. Computation 1993 (2)
+- [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Statistical_Gradient-Following_Algorithms_for_Connectionist_Reinforcement_Learning.md), M. Learning 1992 (2)
+- [Active Perception and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Active_Perception_and_Reinforcement_Learning.md), N. Computation 1990 (3)
 
 
 
@@ -240,7 +240,7 @@ TBD...
 - Large Scale Distributed Deep Networks, NIPS 2012 (1)
 - Training Deep and Recurrent Networks With Hessian-Free Optimization, Neural Networks: Tricks of the Trade, 2012 (1)
 - [Deep Learning via Hessian-Free Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Deep_Learning_via_Hessian-Free_Optimization.md), ICML 2010 (2)
-- [Curriculum Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Curriculum_Learning.md), ICML 2009 (2)
+- [Curriculum Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Curriculum_Learning.md), ICML 2009 (5)
 - A Fast Learning Algorithm for Deep Belief Nets, Neural Computation 2006 (1)
 
 
