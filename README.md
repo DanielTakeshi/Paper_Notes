@@ -50,9 +50,9 @@ Contents:
 - [Divide-and-Conquer Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Divide-and-Conquer_Reinforcement_Learning.md), ICLR 2018 (3)
 - [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (4)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
+- Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
-- Generative Models for Learning Robot Manipulation Skills from Humans, PhD Thesis (1)
 
 
 ## 2017 RL/IL Papers
@@ -76,7 +76,7 @@ NIPS, CoRL, etc.
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
 - [Multi-Level Discovery of Deep Options](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-Level_Discovery_of_Deep_Options.md), arXiv (5)
-- [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), arXiv (2)
+- [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), arXiv (4)
 - [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Leveraging_Demonstrations_for_Deep_Reinforcement_Learning_on_Robotics_Problems_with_Sparse_Rewards.md), arXiv (1)
 
 ICML, UAI/KDD/IROS, etc.
@@ -85,8 +85,6 @@ ICML, UAI/KDD/IROS, etc.
 - [Virtual to Real Reinforcement Learning for Autonomous Driving](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Virtual_to_Real_Reinforcement_Learning_for_Autonomous_Driving.md), BMVC 2017 (3)
 - [ReasoNet: Learning to Stop Reading in Machine Comprehension](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/ReasoNet_Learning_to_Stop_Reading_in_Machine_Comprehension.md), KDD 2017 (3)
 - [Inverse Reinforcement Learning via Deep Gaussian Process](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inverse_Reinforcement_Learning_via_Deep_Gaussian_Process.md), UAI 2017 (2)
-- Reinforcement Learning with Deep Energy-Based Policies, ICML 2017 (2)
-- FeUdal Networks for Hierarchical Reinforcement Learning, ICML 2017 (1)
 - [A Distributional Perspective on Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Distributional_Perspective_on_Reinforcement_Learning.md), ICML 2017 (2)
 - [Robust Adversarial Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Adversarial_Reinforcement_Learning.md), ICML 2017 (5)
 - [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), ICML 2017 (4)

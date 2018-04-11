@@ -21,3 +21,11 @@ success rate with Monte Carlo estimates based on rollouts. Yes, this makes
 sense.
 
 Experiments are on simulated mazes, which are a good test-bed for this.
+ 
+Update: read this paper again. Understand it well. The difference between this
+and reverse curriculum is that this one starts and tries to generate goals using
+a GAN, whereas the reverse curriculum one starts near the goal and generates
+starting states via random actions (or more formally, "Brownian" motion). Also,
+I now think the experiments would need to be more extensive for this to be
+accepted in a future conference (though it's arguably good enough now). The
+reverse curriculum one used some more impressive experiments, in my opinion.
