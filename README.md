@@ -42,11 +42,15 @@ Contents:
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) arXiv (2)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
+
+ICRA, ICLR, etc.
+
+- [CASSL: Curriculum Accelerated Self-Supervised Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/CASSL:_Curriculum_Accelerated_Self-Supervised_Learning.md), ICRA 2018 (5)
 - [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Neural_Task_Programming_Learning_to_Generalize_Across_Hierarchical_Tasks.md), ICRA 2018 (2)
 - [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Overcoming_Exploration_in_Reinforcement_Learning_with_Demonstrations.md), ICRA 2018 (5)
 - [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitation_from_Observation_Learning_to_Imitate_Behaviors_from_Raw_Video_via_Context_Translation.md), ICRA 2018 (3)
 - [Parameterized Hierarchical Procedures for Neural Programming](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Parameterized_Hierarchical_Procedures_for_Neural_Programming.md), ICLR 2018 (4)
-- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ICLR 2018 (3)
+- [Meta Learning Shared Hierarchies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Meta_Learning_Shared_Hierarchies.md), ICLR 2018 (5)
 - [Divide-and-Conquer Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Divide-and-Conquer_Reinforcement_Learning.md), ICLR 2018 (3)
 - [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (4)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
@@ -114,6 +118,7 @@ ICRA, ICLR, etc.
 - [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
 - [Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Comparing_Human-Centric_and_Robot-Centric_Sampling_for_Robot_Deep_Learning_from_Demonstrations.md), ICRA 2017 (4)
 - [Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Combining_Self-Supervised_Learning_and_Imitation_for_Vision-Based_Rope_Manipulation.md), ICRA 2017 (5)
+- [Learning to Push by Grasping: Using Multiple Tasks for Effective Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_to_Push_by_Grasping_Using_Multiple_Tasks_for_Effective_Learning.md), ICRA 2018 (4)
 - [Dynamic Action Repetition for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dynamic_Action_Repetition_for_Deep_Reinforcement_Learning.md), AAAI 2017 (5)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
@@ -186,6 +191,7 @@ TBD...
 
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
+- [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
 - [Adversarial Discriminative Domain Adaptation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Adversarial_Discriminative_Domain_Adaptation.md), CVPR 2017 (4)
@@ -278,6 +284,7 @@ TBD...
 - [Robot Grasping in Clutter: Using a Hierarchy of Supervisors for Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robot_Grasping_in_Clutter_Using_a_Hierarchy_of_Supervisors_for_Learning_from_Demonstrations.md), CASE 2016 (4)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
+- [Supersizing Self-Supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Supersizing_Self-supervision:_Learning_to_Grasp_from_50K_Tries_and_700_Robot_Hours.md), ICRA 2016 (5)
 - [Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), ICRA 2016 (4)
 - [TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/TSC-DL_Unsupervised_Trajectory_Segmentation_of_Multi-Modal_Surgical_Demonstrations_with_Deep_Learning.md), ICRA 2016 (3)
 - [Automating Multi-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Automating_Multi-Throw_Multilateral_Surgical_Suturing_with_a_Mechanical_Needle_Guide_and_Sequential_Convex_Optimization.md), ICRA 2016 (4)
