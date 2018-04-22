@@ -34,14 +34,16 @@ Contents:
 
 ## 2018 RL/IL Papers
 
+- Universal Planning Networks, arXiv (1)
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), arXiv (5)
-- [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), arXiv (4)
 - Hierarchical Imitation and Reinforcement Learning, arXiv (1)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, arXiv (1)
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, arXiv (1)
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) arXiv (2)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), arXiv 2018 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
+- [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), RSS 2018 (4)
+- [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Complex_Dexterous_Manipulation_with_Deep_Reinforcement_Learning_and_Demonstrations.md), RSS 2018 (4)
 
 ICRA, ICLR, etc.
 
@@ -75,7 +77,6 @@ NIPS, CoRL, etc.
 - [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (5)
 - [One-Shot Visual Imitation Learning via Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Visual_Imitation_Learning_via_Meta-Learning.md), CoRL 2017 (5)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
-- [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Complex_Dexterous_Manipulation_with_Deep_Reinforcement_Learning_and_Demonstrations.md), arXiv (4)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
@@ -110,6 +111,7 @@ ICRA, ICLR, etc.
 - [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Servoing_with_Deep_Features_and_Fitted_Q-Iteration.md), ICLR 2017 (2)
 - [Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Q-Prop_Sample-Efficient_Policy_Gradient_with_an_Off-Policy_Critic.md), ICLR 2017 (2)
 - [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Stochastic_Neural_Networks_for_Hierarchical_Reinforcement_Learning.md), ICLR 2017 (4)
+- [Generalizing Skills With Semi-Supervised Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generalizing_Skills_With_Semi-Supervised_Reinforcement_Learning.md) ICLR 2017 (3)
 - [Third-Person Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Third-Person_Imitation_Learning.md), ICLR 2017 (3)
 - [Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_for_Robotic_Manipulation_with_Asynchronous_Off-Policy_Updates.md) ICRA 2017 (5)
 - [Target-Driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Target-Driven_Visual_Navigation_in_Indoor_Scenes_using_Deep_Reinforcement_Learning.md), ICRA 2017 (5)
@@ -119,6 +121,7 @@ ICRA, ICLR, etc.
 - [Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Comparing_Human-Centric_and_Robot-Centric_Sampling_for_Robot_Deep_Learning_from_Demonstrations.md), ICRA 2017 (4)
 - [Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Combining_Self-Supervised_Learning_and_Imitation_for_Vision-Based_Rope_Manipulation.md), ICRA 2017 (5)
 - [Learning to Push by Grasping: Using Multiple Tasks for Effective Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_to_Push_by_Grasping_Using_Multiple_Tasks_for_Effective_Learning.md), ICRA 2018 (4)
+- [Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Modular_Neural_Network_Policies_for_Multi-Task_and_Multi-Robot_Transfer.md), ICRA 2018 (4)
 - [Dynamic Action Repetition for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dynamic_Action_Repetition_for_Deep_Reinforcement_Learning.md), AAAI 2017 (5)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
@@ -228,7 +231,6 @@ ICRA, ICLR, etc.
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Going Deeper with Convolutions, CVPR 2015 (1)
-- The Loss Surfaces of Multilayer Networks, AISTATS 2015 (3)
 - Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
 - [ADAM: A Method for Stochastic Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ADAM_A_Method_for_Stochastic_Optimization.md), ICLR 2015 (2)
 - Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
