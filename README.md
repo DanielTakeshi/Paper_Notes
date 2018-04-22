@@ -57,6 +57,7 @@ ICRA, ICLR, etc.
 - [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (4)
 - Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning, ICLR 2018 (1)
 - [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Intrinsic_Motivation_and_Automatic_Curricula_via_Asymmetric_Self-Play.md), ICLR 2018 (3)
+- [Emergent Complexity via Multi-Agent Competition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Emergent_Complexity_via_Multi-Agent_Competition.md), ICLR 2018 (3)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
 
@@ -134,7 +135,6 @@ ICRA, ICLR, etc.
 - [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (3)
 - [Unsupervised Learning for Physical Interaction through Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md), NIPS 2016 (1)
 - [Deep Exploration via Bootstrapped DQN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Exploration_via_Bootstrapped_DQNs.md), NIPS 2016 (3)
-- Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, NIPS 2016 (1)
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
 - [Deep Successor Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Successor_Reinforcement_Learning.md), arXiv 2016 (4)
@@ -284,6 +284,7 @@ ICRA, ICLR, etc.
 - [SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/SWIRL:_A_Sequential_Windowed_Inverse_Reinforcement_Learning_Algorithm_for_Robot_Tasks_With_Delayed_Rewards.md), WAFR 2016 (2)
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
+- [Cooperative Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Cooperative_Inverse_Reinforcement_Learning.md), NIPS 2016 (3)
 - [Bayesian Optimization with Robust Bayesian Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Optimization_with_Robust_Bayesian_Neural_Networks.md), NIPS 2016 (2)
 - [Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Tumor_Localization_using_Automated_Palpation_with_Gaussian_Process_Adaptive_Sampling.md), CASE 2016 (3)
 - [Robot Grasping in Clutter: Using a Hierarchy of Supervisors for Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robot_Grasping_in_Clutter_Using_a_Hierarchy_of_Supervisors_for_Learning_from_Demonstrations.md), CASE 2016 (4)
