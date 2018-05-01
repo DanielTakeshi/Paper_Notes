@@ -1,5 +1,7 @@
 # Interpretable and Pedagogical Examples
 
+https://danieltakeshi.github.io/2018/04/30/i-and-p-examples/
+
 A very interesting paper, showing that iterative teaching (by examples) among a
 teacher and a student lets the student learn concepts quickly and which,
 moreover, are *interpretable*. See examples from the corresponding blog post.

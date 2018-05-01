@@ -1,5 +1,7 @@
 # Algorithmic and Human Teaching of Sequential Decision Tasks
 
+https://danieltakeshi.github.io/2018/04/29/algorithmic-teaching/
+
 Assumes we have an agent that runs IRL (from Abbeel et al, etc.). They present
 an algorithm for inferring the most informative demonstrations:
 
