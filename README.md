@@ -143,6 +143,7 @@ ICRA, ICLR, etc.
 - [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Control_of_Memory_Active_Perception_and_Action_in_Minecraft.md), ICML 2016 (2)
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dueling_Network_Architectures_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Guided_Cost_Learning_Deep_Inverse_Optimal_Control_via_Policy_Optimization.md), ICML 2016 (2)
+- [Policy Distillation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Policy_Distillation.md), ICLR 2016 (5)
 - [Learning Visual Predictive Models of Physics for Playing Billiards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Visual_Predictive_Models_of_Physics_for_Playing_Billiards.md), ICLR 2016 (4)
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
@@ -187,6 +188,7 @@ ICRA, ICLR, etc.
 ## 2018 DL Papers
 
 - [Interpretable and Pedagogical Examples](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Interpretable_and_Pedagogical_Examples.md) arXiv 2018 (5)
+- [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
 
 ## 2017 DL Papers
 
@@ -238,6 +240,7 @@ ICRA, ICLR, etc.
 
 - [Conditional Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Conditional_Generative_Adversarial_Nets.md), arXiv 2014 (5)
 - [Recurrent Neural Network Regularization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Neural_Network_Regularization.md), arXiv 2014 (1)
+- [Distilling the Knowledge in a Neural Network](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Distilling_the_Knowledge_in_a_Neural_Network.md), DL workshop NIPS 2014 (4)
 - [Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Generative_Adversarial_Nets.md), NIPS 2014 (5)
 - [Recurrent Models of Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Recurrent_Models_of_Visual_Attention.md), NIPS 2014 (4)
 - [Visualizing and Understanding Convolutional Networks](https://github.com/danieltakeshi/paper_notes/blob/master/deep_learning/Visualizing_and_Understanding_Convolutional_Neural_Networks.md), ECCV 2014 (3)
