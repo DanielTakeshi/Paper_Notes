@@ -192,7 +192,8 @@ ICRA, ICLR, etc.
 
 ## 2017 DL Papers
 
-- [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NIPS 2017 (1)
+- [Continual Learning with Deep Generative Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continual_Learning_with_Deep_Generative_Replay.md), NIPS 2017 (3)
+- [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NIPS 2017 (2)
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
 - [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
@@ -275,9 +276,9 @@ ICRA, ICLR, etc.
 - [Magnetic Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Magnetic_Hamiltonian_Monte_Carlo.md), ICML 2017 (1)
 - [Dex-Net 2.0: DL to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), RSS 2017 (3)
 - [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/In-Datacenter_Performance_Analysis_of_a_Tensor_Processing_Unit.md), ISCA 2017 (1)
-- [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
+- [Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze w/DeepRL Policies for Tensioning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multilateral_Surgical_Pattern_Cutting_in_2D_Orthotropic_Gauze_with_Deep_Reinforcement_Learning_Policies_for_Tensioning.md), ICRA 2017 (5)
 - [Autonomous Suturing: An Algorithm for Optimal Selection of Needle Diameter, Shape, and Path](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Autonomous_Suturing_Via_Surgical_Robot_An_Algorithm_for_Optimal_Selection_of_Needle_Diameter_Shape_and_Path.md), ICRA 2017 (4)
-- [C-LEARN: Learning Geometric Constraints from Demos for Multi-Step Manipulation in Shared Autonomy](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/C-LEARN:_Learning_Geometric_Constraints_from_Demonstrations_for_Multi-Step_Manipulation_in_Shared_Autonomy.md), ICRA 2017 (3)
+- [C-LEARN: Geometric Constraints from Demos for Multi-Step Manipulation in Shared Autonomy](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/C-LEARN:_Learning_Geometric_Constraints_from_Demonstrations_for_Multi-Step_Manipulation_in_Shared_Autonomy.md), ICRA 2017 (3)
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2017 (3)
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Conceptual_Introduction_to_Hamiltonian_Monte_Carlo.md), arXiv (4)
@@ -305,7 +306,7 @@ ICRA, ICLR, etc.
 - [A Complete Recipe for Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Complete_Recipe_for_Stochastic_Gradient_MCMC.md), NIPS 2015 (2)
 - [Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Large-Scale_Distributed_Bayesian_Matrix_Factorization_using_Stochastic_Gradient_MCMC.md), KDD 2015 (1)
 - [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/The_Fundamental_Incompatibility_of_Scalable_Hamiltonian_Monte_Carlo_and_Naive_Data_Subsampling.md), ICML 2015 (2)
-- [L-b-O of Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md), ICRA 2015 (4)
+- [LbO Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md), ICRA 2015 (4)
 
 ## 2014 and Earlier Misc Papers
 
