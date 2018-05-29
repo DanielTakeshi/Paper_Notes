@@ -34,21 +34,24 @@ Contents:
 
 ## 2018 RL/IL Papers
 
+Late-year
+
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), arXiv 2018 (5)
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) arXiv 2018 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
 
-ICML, etc.
+Mid-year
 
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, ICML 2018 (1)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, ICML 2018 (1)
 - Universal Planning Networks, ICML 2018 (1)
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
+- Progress & Compress: A scalable framework for continual learning, ICML 2018 (1)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), RSS 2018 (2)
 - [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), RSS 2018 (4)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Complex_Dexterous_Manipulation_with_Deep_Reinforcement_Learning_and_Demonstrations.md), RSS 2018 (4)
 
-ICRA, ICLR, etc.
+Early-year
 
 - [Learning Robotic Assembly from CAD](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Robotic_Assembly_from_CAD.md), ICRA 2018 (3)
 - [CASSL: Curriculum Accelerated Self-Supervised Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/CASSL:_Curriculum_Accelerated_Self-Supervised_Learning.md), ICRA 2018 (5)
@@ -61,14 +64,18 @@ ICRA, ICLR, etc.
 - [Zero-Shot Visual Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Zero-Shot_Visual_Imitation.md), ICLR 2018 (4)
 - [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Intrinsic_Motivation_and_Automatic_Curricula_via_Asymmetric_Self-Play.md), ICLR 2018 (3)
 - [Emergent Complexity via Multi-Agent Competition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Emergent_Complexity_via_Multi-Agent_Competition.md), ICLR 2018 (3)
+- Progressive Reinforcement Learning With Distillation For Multi-Skilled Motion Control, ICLR 2018 (1)
+- Learning to Multi-Task by Active Sampling, ICLR 2018 (1)
+- Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
 
 
 ## 2017 RL/IL Papers
 
-NIPS, CoRL, etc.
+Late-year
 
+- Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
 - [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), NIPS 2017 (3)
@@ -88,7 +95,7 @@ NIPS, CoRL, etc.
 - [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), arXiv (4)
 - [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Leveraging_Demonstrations_for_Deep_Reinforcement_Learning_on_Robotics_Problems_with_Sparse_Rewards.md), arXiv (1)
 
-ICML, UAI/KDD/IROS, etc.
+Mid-year
 
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Domain_Randomization_for_Transferring_Deep_Neural_Networks_from_Simulation_to_the_Real_World.md), IROS 2017 (4)
 - [Virtual to Real Reinforcement Learning for Autonomous Driving](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Virtual_to_Real_Reinforcement_Learning_for_Autonomous_Driving.md), BMVC 2017 (3)
@@ -105,7 +112,7 @@ ICML, UAI/KDD/IROS, etc.
 - [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Loss_is_its_own_Reward_Self-Supervision_for_Reinforcement_Learning.md), arXiv (2)
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Evolution_Strategies_as_a_Scalable_Alternative_to_Reinforcement_Learning.md), arXiv (5)
 
-ICRA, ICLR, etc.
+Early-year
 
 - [Imitating Driver Behavior with Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Imitating_Driver_Behavior_with_Generative_Adversarial_Networks.md), Intelligent Vehicles (IV), 2017 (4)
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_with_Unsupervised_Auxiliary_Tasks.md), ICLR 2017 (3)
@@ -125,8 +132,11 @@ ICRA, ICLR, etc.
 - [Learning to Push by Grasping: Using Multiple Tasks for Effective Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_to_Push_by_Grasping_Using_Multiple_Tasks_for_Effective_Learning.md), ICRA 2018 (4)
 - [Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Modular_Neural_Network_Policies_for_Multi-Task_and_Multi-Robot_Transfer.md), ICRA 2018 (4)
 - [Dynamic Action Repetition for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Dynamic_Action_Repetition_for_Deep_Reinforcement_Learning.md), AAAI 2017 (5)
+- Knowledge Transfer for Deep Reinforcement Learning with Hierarchical Experience Replay, AAAI 2017 (3)
+- A Deep Hierarchical Approach to Lifelong Learning in Minecraft, AAAI 2017 (1)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (3)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
+- Overcoming Catastrophic Forgetting in Neural Networks, PNAS 2017 (1)
 
 ## 2016 RL/IL Papers
 
@@ -139,6 +149,7 @@ ICRA, ICLR, etc.
 - [Principled Option Learning in Markov Decision Processes](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Principled_Option_Learning_in_Markov_Decision_Processes.md), EWRL 2016 (4)
 - [Taming the Noise in Reinforcement Learning via Soft Updates](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Taming_the_Noise_in_Reinforcement_Learning_via_Soft_Updates.md), UAI 2016 (4)
 - [Deep Successor Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Successor_Reinforcement_Learning.md), arXiv 2016 (4)
+- Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning, SIGGRAPH 2016 (1)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Asynchronous_Methods_for_Deep_Reinforcement_Learning.md), ICML 2016 (4)
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Benchmarking_Deep_Reinforcement_Learning_for_Continuous_Control.md), ICML 2016 (4)
 - [Model-Free Imitation Learning with Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Free_Imitation_Learning_with_Policy_Optimization.md), ICML 2016 (4)
@@ -192,6 +203,7 @@ ICRA, ICLR, etc.
 
 - [Interpretable and Pedagogical Examples](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Interpretable_and_Pedagogical_Examples.md) arXiv 2018 (5)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
+- Large Scale Distributed Neural Network Training Through Online Distillation, ICLR 2018 (1)
 
 ## 2017 DL Papers
 
