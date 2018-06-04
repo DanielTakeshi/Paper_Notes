@@ -47,6 +47,7 @@ Mid-year
 - Universal Planning Networks, ICML 2018 (1)
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
 - Progress & Compress: A scalable framework for continual learning, ICML 2018 (1)
+- [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), ICML 2018 (4)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), RSS 2018 (2)
 - [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), RSS 2018 (4)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Complex_Dexterous_Manipulation_with_Deep_Reinforcement_Learning_and_Demonstrations.md), RSS 2018 (4)
@@ -92,7 +93,6 @@ Late-year
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
 - [The Uncertainty Bellman Equation and Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/The_Uncertainty_Bellman_Equation_and_Exploration.md), arXiv (1)
 - [Multi-Level Discovery of Deep Options](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-Level_Discovery_of_Deep_Options.md), arXiv (5)
-- [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), arXiv (4)
 - [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Leveraging_Demonstrations_for_Deep_Reinforcement_Learning_on_Robotics_Problems_with_Sparse_Rewards.md), arXiv (1)
 
 Mid-year
