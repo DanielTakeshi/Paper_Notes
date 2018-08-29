@@ -27,7 +27,8 @@ Contents:
     - [2017 Papers](#2017-misc-papers)
     - [2016 Papers](#2016-misc-papers)
     - [2015 Papers](#2015-misc-papers)
-    - [2014 and Earlier](#2014-and-earlier-misc-papers)
+    - [2014 Papers](#2014-misc-papers)
+    - [2013 and Earlier](#2013-and-earlier-misc-papers)
 
 
 # Reinforcement Learning and Imitation Learning
@@ -329,9 +330,7 @@ Early-year
 - [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/The_Fundamental_Incompatibility_of_Scalable_Hamiltonian_Monte_Carlo_and_Naive_Data_Subsampling.md), ICML 2015 (2)
 - [LbO Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_by_Observation_for_Surgical_Subtasks_Multilateral_Cutting_of_3D_Viscoelastic_and_2D_Orthotropic_Tissue_Phantoms.md), ICRA 2015 (4)
 
-## 2014 and Earlier Misc Papers
-
-2014
+## 2014 Misc Papers
 
 - [Eliciting Good Teaching From Humans for Machine Learners](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Eliciting_Good_Teaching_From_Humans_for_Machine_Learners.md), Artificial Intelligence 2014 (4)
 - [Learning Accurate Kinematic Control of Cable-Driven Surgical Robots Using Data Cleaning and GPR](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Accurate_Kinematic_Control_of_Cable-Driven_Surgical_Robots_Using_Data_Cleaning_and_Gaussian_Process_Regression.md), CASE 2014 (5)
@@ -343,7 +342,8 @@ Early-year
 - [Teaching People How to Teach Robots](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Teaching_People_How_to_Teach_Robots.md), HRI 2014 (4)
 - [RRE: A Game-Theoretic Intrusion Response and Recovery Engine](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/RRE:_A_Game-Theoretic_Intrusion_Response_and_Recovery_Engine.md), IEEE Trans on P&D Systems 2014 (4)
 
-Before 2014
+
+## 2013 and Earlier Misc Papers
 
 - [A Case Study of Trajectory Transfer Through Non-Rigid Registration for a Simplified Suturing Scenario](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Case_Study_of_Trajectory_Transfer_Through_Non-Rigid_Registration_for_a_Simplified_Suturing_Scenario.md), IROS 2013 (2)
 - [Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Finding_Locally_Optimal_Collision-Free_Trajectories_with_Sequential_Convex_Optimization.md), RSS 2013 (3)
@@ -351,6 +351,8 @@ Before 2014
 - [Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Posterior_Sampling_via_Stochastic_Gradient_Fisher_Scoring.md), ICML 2012 (2)
 - [Algorithmic and Human Teaching of Sequential Decision Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Algorithmic_and_Human_Teaching_of_Sequential_Decision_Tasks.md), AAAI 2012 (4)
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
+- [Towards an Assistive Robot that Autonomously Performs Bed Baths](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bed_Baths.md), IROS 2010 (4)
+- [Development of a Nursing-Care Assistant Robot RIBA](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Development_of_a_Nursing-Care_Assistant_Robot.md), IROS 2010 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (4)
 - [Active Perception: Interactive Manipulation for Improving Object Detection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception_Interactive_Manipulation_for_Improving_Object_Detection.md), Technical Report 2010 (3)
 - [Superhuman Performance of Surgical Tasks by Robots using Iterative Learning from H-G Demos](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Superhuman_Performance_of_Surgical_Tasks_by_Robots_using_Iterative_Learning_from_Human-Guided_Demonstrations.md), ICRA 2010 (2)
