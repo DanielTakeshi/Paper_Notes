@@ -1,12 +1,12 @@
 # Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection
 
-Wow, this is a splendid paper that is fairly easy to read and describes another
-awesome thing that Deep Learning can do. In short, this paper shows that, if you
-train using their method, a robot arm with a gripper can grasp objects when only
-given the camera frame. It does NOT need calibration (yay!) or precise dynamics.
-All we see are the camera which contains a view of the gripper in it and then
-there is a visual servoing mechanism which will figure out the correct way to
-move the robot so that the desired stuff in a bin is grasped.
+This is a splendid paper that is easy to read and describes another awesome
+thing that Deep Learning can do. In short, this paper shows that, if you train
+using their method, a robot arm with a gripper can grasp objects when only given
+the camera frame. It does NOT need calibration (yay!) or precise dynamics.  All
+we see are the camera which contains a view of the gripper in it and then there
+is a visual servoing mechanism which will figure out the correct way to move the
+robot so that the desired stuff in a bin is grasped.
 
 Specific contributions:
 
@@ -44,6 +44,8 @@ sense). Intuition says that it's the number of trials, so hopefully that is the
 case.
 
 The other main thing I was wondering about is ... god, their network is SO DEEP.
-Did they really need all those layers?!?:2
+Did they really need all those layers?!?
 
-I will think about how to transfer this work to other robotic arms.
+Update: quick note, as I investigate whether we use RGB or depth images, I note
+that this paper uses RGB images and out-performs some depth-based baselines.
+Though, I wonder what would happen if we just trained on depth images?

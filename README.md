@@ -36,8 +36,9 @@ Contents:
 
 Late-year
 
-- [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), arXiv 2018 (5)
-- [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) arXiv 2018 (2)
+- [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), NIPS 2018 (5)
+- [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) NIPS 2018 (2)
+- Probabilistic Model-Agnostic Meta-Learning, NIPS 2018 (1)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
 
 Mid-year
@@ -46,7 +47,8 @@ Mid-year
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, ICML 2018 (1)
 - Universal Planning Networks, ICML 2018 (1)
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
-- Progress & Compress: A scalable framework for continual learning, ICML 2018 (1)
+- Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018 (1)
+- [Self-Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Self-Imitation_Learning.md), ICML 2018 (4)
 - [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), ICML 2018 (4)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), RSS 2018 (2)
 - [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), RSS 2018 (4)
@@ -203,9 +205,12 @@ Early-year
 
 ## 2018 DL Papers
 
+- Learning to Teach with Dynamic Loss Functions, NIPS 2018 (1)
+- Towards Black-box Iterative Machine Teaching, ICML 2018 (1)
 - [Interpretable and Pedagogical Examples](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Interpretable_and_Pedagogical_Examples.md) arXiv 2018 (5)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
 - Large Scale Distributed Neural Network Training Through Online Distillation, ICLR 2018 (1)
+- [Learning to Teach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach.md), ICLR 2018 (3)
 
 ## 2017 DL Papers
 
@@ -213,6 +218,7 @@ Early-year
 - [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NIPS 2017 (2)
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
+- Iterative Machine Teaching, ICML 2017 (1)
 - [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
@@ -282,6 +288,8 @@ Early-year
 
 ## 2018 Misc Papers
 
+- [Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Segmenting_Unknown_3D_Objects_from_Real_Depth_Images_using_Mask_R-CNN_Trained_on_Synthetic_Point_Clouds.md), arXiv 2018 (4)
+- [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias.md](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Robot_Learning_in_Homes:_Improving_Generalization_and_Reducing_Dataset_Bias.md), NIPS 2018 (5)
 - [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), arXiv 2018 (5)
 - [An Overview of Machine Teaching](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Overview_of_Machine_Teaching.md), arXiv 2018 (5)
 
@@ -289,6 +297,7 @@ Early-year
 ## 2017 Misc Papers
 
 - [Machine Teaching: A New Paradigm for Building Machine Learning Systems](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Machine_Teaching_A_New_Paradigm_for_Building_Machine_Learning_Systems.md), arXiv 2017 (5)
+- [Learning to Fly by Crashing](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_to_Fly_by_Crashing.md), IROS 2017 (5)
 - [A Vision-Guided Multi-Robot Cooperation Framework for L-by-Demos and Task Reproduction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Vision-Guided_Multi-Robot_Cooperation_Framework_for_Learning-by-Demonstration_and_Task_Reproduction.md), IROS 2017 (1)
 - [Mini-batch Tempered MCMC](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Mini-batch_Tempered_MCMC.md), arXiv 2017 (3)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
