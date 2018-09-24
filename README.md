@@ -206,8 +206,6 @@ Early-year
 
 ## 2018 DL Papers
 
-- Learning to Teach with Dynamic Loss Functions, NIPS 2018 (1)
-- Towards Black-box Iterative Machine Teaching, ICML 2018 (1)
 - [Interpretable and Pedagogical Examples](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Interpretable_and_Pedagogical_Examples.md) arXiv 2018 (5)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
 - Large Scale Distributed Neural Network Training Through Online Distillation, ICLR 2018 (1)
@@ -219,7 +217,6 @@ Early-year
 - [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NIPS 2017 (2)
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
-- Iterative Machine Teaching, ICML 2017 (1)
 - [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
@@ -290,7 +287,7 @@ Early-year
 ## 2018 Misc Papers
 
 - [Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Segmenting_Unknown_3D_Objects_from_Real_Depth_Images_using_Mask_R-CNN_Trained_on_Synthetic_Point_Clouds.md), arXiv 2018 (4)
-- [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias.md](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Robot_Learning_in_Homes:_Improving_Generalization_and_Reducing_Dataset_Bias.md), NIPS 2018 (5)
+- [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Robot_Learning_in_Homes:_Improving_Generalization_and_Reducing_Dataset_Bias.md), NIPS 2018 (5)
 - [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), arXiv 2018 (5)
 - [An Overview of Machine Teaching](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Overview_of_Machine_Teaching.md), arXiv 2018 (5)
 

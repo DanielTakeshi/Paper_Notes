@@ -1,5 +1,7 @@
 # Policy Distillation
 
+https://danieltakeshi.github.io/2018/06/08/papers-that-have-cited-pd/
+
 Easy-to-read paper on an important topic, using distillation (teacher ->
 student) to train students, for better regularization.
 
