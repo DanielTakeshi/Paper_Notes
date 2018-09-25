@@ -49,6 +49,7 @@ Mid-year
 - Universal Planning Networks, ICML 2018 (1)
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
 - Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018 (1)
+- [Kickstarting Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Kickstarting_Deep_Reinforcement_Learning.md), arXiv 2018 (5)
 - [Self-Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Self-Imitation_Learning.md), ICML 2018 (4)
 - [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), ICML 2018 (4)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), RSS 2018 (2)
@@ -69,10 +70,11 @@ Early-year
 - [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Intrinsic_Motivation_and_Automatic_Curricula_via_Asymmetric_Self-Play.md), ICLR 2018 (3)
 - [Emergent Complexity via Multi-Agent Competition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Emergent_Complexity_via_Multi-Agent_Competition.md), ICLR 2018 (3)
 - [Progressive Reinforcement Learning With Distillation For Multi-Skilled Motion Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Progressive_Reinforcement_Learning_With_Distillation_For_Multi-Skilled_Motion_Control.md), ICLR 2018 (4)
+- [Model-Ensemble Trust-Region Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Ensemble_Trust-Region_Policy_Optimization.md), ICLR 2018 (3)
 - Learning to Multi-Task by Active Sampling, ICLR 2018 (1)
 - Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
-- [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (4)
+- [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (5)
 
 
 ## 2017 RL/IL Papers
