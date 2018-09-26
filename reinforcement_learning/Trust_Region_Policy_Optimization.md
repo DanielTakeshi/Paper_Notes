@@ -63,6 +63,13 @@ explicitly encode balance). They said:
 > of these [Mujoco] tasks, using a generic policy search method and
 > non-engineered, general-purpose policy representations.
 
+It's a bit unclear how exactly they make the plot, though. They say:
+
+> Learning curves showing the total reward averaged across five runs of each
+> algorithm are shown in Figure 4.
+
+But what is "total reward" here? The current reward of the current episode or
+averaged across a window or held-out?
 
 ## Conclusions, Thoughts, Takeaways, Going Forward
 

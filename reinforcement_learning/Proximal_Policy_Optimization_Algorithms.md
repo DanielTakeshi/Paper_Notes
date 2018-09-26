@@ -64,3 +64,25 @@ Closing thoughts:
   DDPG, TNPG, TRPO, PPO, and obviously implement them in my RL repository.
 
 - Well ... hopefully this algorithm is the real deal!
+
+**Evaluation update**:
+
+> Each algorithm was run on all 7 environments, with 3 random seeds on each. We
+> scored each run of the algorithm by computing the average total reward of the
+> last 100 episodes.
+
+So, for the 7 MuJoCo environments (half cheetah, hopper, etc.) they use the
+average total reward over the last 100 episodes. Again, this is during training,
+so no held-out trajectories, which is consistent with what I am seeing.
+
+Now for Atari:
+
+> A table of results and learning curves for all 49 games is provided in
+> Appendix B. We consider the following two scoring metrics: (1) *average reward
+> per episode over entire training period* (which favors fast learning), and (2)
+> *average reward per episode over last 100 episodes of training* (which favors
+> fast performance).
+
+I see, so again, during training, and they also use the last 100 episode
+average. The difference here is using average reward over *entire* training
+period. Hmm ...

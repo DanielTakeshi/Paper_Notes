@@ -290,6 +290,7 @@ Early-year
 
 - [Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Segmenting_Unknown_3D_Objects_from_Real_Depth_Images_using_Mask_R-CNN_Trained_on_Synthetic_Point_Clouds.md), arXiv 2018 (4)
 - [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Robot_Learning_in_Homes:_Improving_Generalization_and_Reducing_Dataset_Bias.md), NIPS 2018 (5)
+- [Dex-Net 3.0: Computing Robust Robot Vacuum Suction Grasp Targets using Analytic Model and DL](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net_3.0:_Computing_Robust_Robot_Vacuum_Suction_Grasp_Targets_using_Analytic_Model_and_DL.md), ICRA 2018 (4)
 - [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), arXiv 2018 (5)
 - [An Overview of Machine Teaching](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Overview_of_Machine_Teaching.md), arXiv 2018 (5)
 

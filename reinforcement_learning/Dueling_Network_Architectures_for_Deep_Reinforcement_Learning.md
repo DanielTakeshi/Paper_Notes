@@ -66,3 +66,14 @@ at all, and this grows increasingly likely as the number of actions increases.
 
 Then they had experiments, I liked the discussion here, but for the most part
 it's pretty easy reading so no need to take notes on it.
+
+**Evaluation update**: how do they do evaluation? It's a relative metric that
+compares against human and baseline agent scores, and converts that to a
+percentage value.  This seems to be consistent with DeepMind's other evaluations
+since they are less about raw scores and more about comparing against humans.
+They post raw scores in the appendix, *but where are these from*?? Are they an
+average over the last 100 episodes encountered during training, or some other
+metric?
+
+Wait: upon another read they cite the Gorila paper which discusses evaluation.
+See that.
