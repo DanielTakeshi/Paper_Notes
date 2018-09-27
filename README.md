@@ -143,7 +143,6 @@ Early-year
 - [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Deep_Hierarchical_Approach_to_Lifelong_Learning_in_Minecraft.md), AAAI 2017 (4)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/RL2-Fast_Reinforcement_Learning_via_Slow_Reinforcement_Learning.md), arXiv (4)
 - [Learning to Predict Where to Look in Interactive Environments Using Deep Recurrent Q-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Predict_Where_to_Look_in_Interactive_Environments_Using_Deep_Recurrent_Q-Learning.md), arXiv (3)
-- Overcoming Catastrophic Forgetting in Neural Networks, PNAS 2017 (1)
 
 ## 2016 RL/IL Papers
 
@@ -192,7 +191,6 @@ Early-year
 - Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, NIPS 2014 (3)
 - Learning Neural Network Policies with Guided Policy Search Under Unknown Dynamics, NIPS 2014 (1)
 - [Deterministic Policy Gradient Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deterministic_Policy_Gradient_Algorithms.md), ICML 2014 (2)
-- (More) Efficient Reinforcement Learning via Posterior Sampling, NIPS 2013 (1)
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Human-Level_Control_Through_Deep_Reinforcement_Learning.md), NIPS Workshop 2013 (5)
 - [Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/A_Tutorial_on_Linear_Function_Approximators_for_Dynamic_Programming_and_Reinforcement_Learning.md), F&T ML 2013 (4)
 - [Maximum Entropy Inverse Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Maximum_Entropy_Inverse_Reinforcement_Learning.md), AAAI 2008 (4)
@@ -228,6 +226,7 @@ Early-year
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 - [Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Do_Deep_Convolutional_Nets_Really_Need_to_be_Deep_and_Convolutional.md), ICLR 2017 (3)
+- Overcoming Catastrophic Forgetting in Neural Networks, PNAS 2017 (1)
 
 ## 2016 DL Papers
 
@@ -290,6 +289,7 @@ Early-year
 
 - [Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Segmenting_Unknown_3D_Objects_from_Real_Depth_Images_using_Mask_R-CNN_Trained_on_Synthetic_Point_Clouds.md), arXiv 2018 (4)
 - [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Robot_Learning_in_Homes:_Improving_Generalization_and_Reducing_Dataset_Bias.md), NIPS 2018 (5)
+- [Learning to See Forces: Surgical Force Prediction w/RGB-Point Cloud Temporal CNNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_to_See_Forces_Surgical_Force_Prediction.md), MICCAI 2018 (3)
 - [Dex-Net 3.0: Computing Robust Robot Vacuum Suction Grasp Targets using Analytic Model and DL](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net_3.0:_Computing_Robust_Robot_Vacuum_Suction_Grasp_Targets_using_Analytic_Model_and_DL.md), ICRA 2018 (4)
 - [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), arXiv 2018 (5)
 - [An Overview of Machine Teaching](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Overview_of_Machine_Teaching.md), arXiv 2018 (5)
@@ -326,9 +326,9 @@ Early-year
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)
 - [Scalable Discrete Sampling as a Multi-Armed Bandit Problem](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Scalable_Discrete_Sampling_as_a_Multi-Armed_Bandit_Problem.md), ICML 2016 (1)
 - [Supersizing Self-Supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Supersizing_Self-supervision:_Learning_to_Grasp_from_50K_Tries_and_700_Robot_Hours.md), ICRA 2016 (5)
-- [Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), ICRA 2016 (4)
+- [Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit w/CR](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net.md), ICRA 2016 (4)
 - [TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with DL](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/TSC-DL_Unsupervised_Trajectory_Segmentation_of_Multi-Modal_Surgical_Demonstrations_with_Deep_Learning.md), ICRA 2016 (3)
-- [Automating Multi-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Automating_Multi-Throw_Multilateral_Surgical_Suturing_with_a_Mechanical_Needle_Guide_and_Sequential_Convex_Optimization.md), ICRA 2016 (4)
+- [Automating Multi-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and SCO](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Automating_Multi-Throw_Multilateral_Surgical_Suturing_with_a_Mechanical_Needle_Guide_and_Sequential_Convex_Optimization.md), ICRA 2016 (4)
 - [Supervised Autonomous Robotic Soft Tissue Surgery](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Supervised_Autonomous_Robotic_Soft_Tissue_Surgery.md), Science Translational Medicine, 2016 (3)
 
 ## 2015 Misc Papers
@@ -342,6 +342,7 @@ Early-year
 ## 2014 Misc Papers
 
 - [Eliciting Good Teaching From Humans for Machine Learners](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Eliciting_Good_Teaching_From_Humans_for_Machine_Learners.md), Artificial Intelligence 2014 (4)
+- [Bimanual Telerobotic Surgery With Asymmetric Force Feedback: a da vinci Implementation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bimanual_Telerobotic_Surgery_With_Asymmetric_Force_Feedback.md), IROS 2014 (3)
 - [Learning Accurate Kinematic Control of Cable-Driven Surgical Robots Using Data Cleaning and GPR](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Accurate_Kinematic_Control_of_Cable-Driven_Surgical_Robots_Using_Data_Cleaning_and_Gaussian_Process_Regression.md), CASE 2014 (5)
 - [Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Austerity_in_MCMC_Land:_Cutting_the_Metropolis-Hastings_Budget.md), ICML 2014 (4)
 - [Stochastic Gradient Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Stochastic_Gradient_Hamiltonian_Monte_Carlo.md), ICML 2014 (4)
@@ -359,7 +360,9 @@ Early-year
 - [Learning Task Error Models for Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Task_Error_Models_for_Manipulation.md), ICRA 2013 (4)
 - [Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Posterior_Sampling_via_Stochastic_Gradient_Fisher_Scoring.md), ICML 2012 (2)
 - [Algorithmic and Human Teaching of Sequential Decision Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Algorithmic_and_Human_Teaching_of_Sequential_Decision_Tasks.md), AAAI 2012 (4)
+- [The Jacobian Condition Number as a Dexterity Index in 6R Machining Robots](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/The_Jacobian_Condition_Number_as_a_Dexterity_Index_in_6R_Machining_Robots.md), RCIM 2012 (2)
 - [Bayesian Learning via Stochastic Gradient Langevin Dynaimcs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Learning_via_Stochastic_Gradient_Langevin_Dynamics.md), ICML 2011 (4)
+- [Visual Measurement of Suture Strain for Robotic Surgery](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Visual_Measurement_of_Suture_Strain_for_Robotic_Surgery.md), C&MM in Medicine 2011 (3)
 - [Towards an Assistive Robot that Autonomously Performs Bed Baths](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bed_Baths.md), IROS 2010 (4)
 - [Development of a Nursing-Care Assistant Robot RIBA](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Development_of_a_Nursing-Care_Assistant_Robot.md), IROS 2010 (4)
 - [MCMC Using Hamiltonian Dynamics](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/MCMC_Using_Hamiltonian_Dynamics.md), Handbook of Markov Chain Monte Carlo 2010 (4)
@@ -367,6 +370,8 @@ Early-year
 - [Superhuman Performance of Surgical Tasks by Robots using Iterative Learning from H-G Demos](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Superhuman_Performance_of_Surgical_Tasks_by_Robots_using_Iterative_Learning_from_Human-Guided_Demonstrations.md), ICRA 2010 (2)
 - [Active Learning for Real-Time Motion Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Learning_for_Real-Time_Motion_Controllers.md), SIGGRAPH 2007 (3)
 - [Core Knowledge](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Core_Knowledge.md), Developmental Science 2007 (3)
+- [Effect of Sensory Substitution on Suture-Manipulation Forces for Robot Surgery](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Effect_of_sensory_substitution_on_suture-manipulation_forces_for_robotic_surgical_systems.md), J Thorac Cardiovasc Surg 2005 (3)
+- [Analysis of Suture Manipulation Forces for Teleoperation with Force Feedback](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Analysis_of_Suture_Manipulation_Forces_for_Teleoperation_with_Force_Feedback.md), MICCAI 2002 (3)
 - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/An_Introduction_to_the_Conjugate_Gradient_Method_Without_the_Agonizing_Pain.md), Technical Report, 1994 (3)
 - [Active Perception](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Active_Perception.md), Proceedings of the IEEE 1988 (2)
 
