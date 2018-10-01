@@ -39,7 +39,11 @@ Late-year
 
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), NIPS 2018 (5)
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) NIPS 2018 (2)
+- Visual Reinforcement Learning with Imagined Goals, NIPS 2018 (1)
 - Probabilistic Model-Agnostic Meta-Learning, NIPS 2018 (1)
+- Some Considerations on Learning to Explore via Meta-Reinforcement Learning, NIPS 2018 (1)
+- Meta-Reinforcement Learning of Structured Exploration Strategies, NIPS 2018 (1)
+- Learning Instance Segmentation by Interaction, arXiv 2018 (1)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
 
 Mid-year
@@ -206,10 +210,11 @@ Early-year
 
 ## 2018 DL Papers
 
-- [Interpretable and Pedagogical Examples](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Interpretable_and_Pedagogical_Examples.md) arXiv 2018 (5)
+- Step Size Matters in Deep Learning, NIPS 2018 (1)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
 - Large Scale Distributed Neural Network Training Through Online Distillation, ICLR 2018 (1)
-- [Learning to Teach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach.md), ICLR 2018 (3)
+- [Learning to Teach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach.md), ICLR 2018 (5)
+- [Interpretable and Pedagogical Examples](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Interpretable_and_Pedagogical_Examples.md) arXiv 2018 (5)
 
 ## 2017 DL Papers
 
@@ -220,6 +225,7 @@ Early-year
 - [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
+- [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Get-To_The_Point_Summarization_with_Pointer-Generator_Networks.md), ACL 2017 (3)
 - [Adversarial Discriminative Domain Adaptation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Adversarial_Discriminative_Domain_Adaptation.md), CVPR 2017 (4)
 - [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md), ICLR 2017 (1)
 - [Unrolled Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Unrolled_Generative_Adversarial_Networks.md), ICLR 2017 (3)
