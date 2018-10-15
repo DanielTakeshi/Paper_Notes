@@ -39,6 +39,7 @@ Late-year
 
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), NIPS 2018 (5)
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) NIPS 2018 (2)
+- Improving Exploration in ES for DeepRL via a Population of Novelty-Seeking Agents, NIPS 2018 (3)
 - Visual Reinforcement Learning with Imagined Goals, NIPS 2018 (1)
 - Probabilistic Model-Agnostic Meta-Learning, NIPS 2018 (1)
 - Some Considerations on Learning to Explore via Meta-Reinforcement Learning, NIPS 2018 (1)
@@ -49,7 +50,7 @@ Late-year
 Mid-year
 
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, ICML 2018 (1)
-- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, ICML 2018 (1)
+- [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/IMPALA.md), ICML 2018 (2)
 - Universal Planning Networks, ICML 2018 (1)
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
 - Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018 (1)
@@ -172,6 +173,7 @@ Early-year
 - [Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Prioritized_Experience_Replay.md), ICLR 2016 (4)
 - [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation.md), ICLR 2016 (4)
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continuous_Control_with_Deep_Reinforcement_Learning.md), ICLR 2016 (4)
+- Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning, ICLR 2016 (2)
 - [Deep Spatial Autoencoders for Visuomotor Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Spatial_Autoencoders_for_Visuomotor_Learning.md), ICRA 2016 (3)
 - [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
@@ -211,6 +213,7 @@ Early-year
 ## 2018 DL Papers
 
 - Step Size Matters in Deep Learning, NIPS 2018 (1)
+- [Skill Rating for Generative Models](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Skill_Rating_for_Generative_Models.md), arXiv 2018 (3)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
 - Large Scale Distributed Neural Network Training Through Online Distillation, ICLR 2018 (1)
 - [Learning to Teach](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach.md), ICLR 2018 (5)
@@ -222,6 +225,7 @@ Early-year
 - [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NIPS 2017 (2)
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
+- [Population Based Training of Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Population_Based_Training_of_Neural_Networks.md), arXiv 2017 (5)
 - [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Deep_Latent_Gaussian_Models_with_Markov_Chain_Monte_Carlo.md), ICML 2017 (2)
@@ -245,7 +249,7 @@ Early-year
 - WaveNet: A Generative Model for Raw Audio, arXiv (1)
 - [Tutorial on Variational Autoencoders](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tutorial_on_Variational_Autoencoders.md), arXiv (3)
 - [Active Long Term Memory Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Active_Long_Term_Memory_Networks.md), arXiv (3)
-- Progressive Neural Networks, arXiv 2016 (2)
+- [Progressive Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Progressive_Neural_Networks.md), arXiv 2016 (4)
 - Deep Residual Learning for Image Recognition, CVPR 2016 (1)
 - [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Dropout_as_a_Bayesian_Approximation_Representing_Model_Uncertainty_in_Deep_Learning.md), ICML 2016 (2)
 - [Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Visualizing_Deep_Convolutional_Neural_Networks_Using_Natural_Pre-Images.md), IJCV 2016 (1)
