@@ -86,13 +86,14 @@ Early-year
 
 Late-year
 
-- Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
+- [Deep Reinforcement Learning from Human Preferences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_from_Human_Preferences.md), NIPS 2017 (3)
 - [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (3)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
 - [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), NIPS 2017 (3)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), NIPS 2017 (2)
 - [Inferring The Latent Structure of Human Decision-Making from Raw Visual Inputs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Inferring_The_Latent_Structure_of_Human_Decision-Making_from_Raw_Visual_Inputs.md), NIPS 2017 (5)
 - [Hindsight Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Hindsight_Experience_Replay.md), NIPS 2017 (5)
+- Distral: Robust Multitask Reinforcement Learning, NIPS 2017 (1)
 - [DART: Noise Injection for Robust Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/DART_Noise_Injection_for_Robust_Imitation_Learning.md), CoRL 2017 (3)
 - [Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Policies_for_Robot_Bin_Picking_by_Simulating_Robust_Grasping_Sequences.md), CoRL, 2017 (3)
 - [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/DDCO:_Discovery_of_Deep_Continuous_Options_for_Robot_Learning_from_Demonstrations.md), CoRL 2017 (5)
@@ -369,6 +370,7 @@ Early-year
 - [A Case Study of Trajectory Transfer Through Non-Rigid Registration for a Simplified Suturing Scenario](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Case_Study_of_Trajectory_Transfer_Through_Non-Rigid_Registration_for_a_Simplified_Suturing_Scenario.md), IROS 2013 (2)
 - [Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Finding_Locally_Optimal_Collision-Free_Trajectories_with_Sequential_Convex_Optimization.md), RSS 2013 (3)
 - [Learning Task Error Models for Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Task_Error_Models_for_Manipulation.md), ICRA 2013 (4)
+- [Training a Robot via Human Feedback: A Case Study](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Training_a_Robot_via_Human_Feedback_A_Case_Study.md), ICSR 2013 (1)
 - [Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Bayesian_Posterior_Sampling_via_Stochastic_Gradient_Fisher_Scoring.md), ICML 2012 (2)
 - [Algorithmic and Human Teaching of Sequential Decision Tasks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Algorithmic_and_Human_Teaching_of_Sequential_Decision_Tasks.md), AAAI 2012 (4)
 - [The Jacobian Condition Number as a Dexterity Index in 6R Machining Robots](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/The_Jacobian_Condition_Number_as_a_Dexterity_Index_in_6R_Machining_Robots.md), RCIM 2012 (2)
