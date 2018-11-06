@@ -11,18 +11,21 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 Contents:
 
 - [Reinforcement and Imitation Learning](#reinforcement-learning-and-imitation-learning)
+    - [2019 Papers](#2019-rlil-papers)
     - [2018 Papers](#2018-rlil-papers)
     - [2017 Papers](#2017-rlil-papers)
     - [2016 Papers](#2016-rlil-papers)
     - [2015 Papers](#2015-rlil-papers)
     - [2014 and Earlier](#2014-and-earlier-rlil-papers)
 - [Deep Learning](#deep-learning)
+    - [2019 Papers](#2019-dl-papers)
     - [2018 Papers](#2018-dl-papers)
     - [2017 Papers](#2017-dl-papers)
     - [2016 Papers](#2016-dl-papers)
     - [2015 Papers](#2015-dl-papers)
     - [2014 and Earlier](#2014-and-earlier-dl-papers)
 - [Miscellaneous](#miscellaneous)
+    - [2019 Papers](#2019-misc-papers)
     - [2018 Papers](#2018-misc-papers)
     - [2017 Papers](#2017-misc-papers)
     - [2016 Papers](#2016-misc-papers)
@@ -33,6 +36,12 @@ Contents:
 
 # Reinforcement Learning and Imitation Learning
 
+## 2019 RL/IL Papers
+
+- Large-Scale Study of Curiosity-Driven Learning, ICLR 2019 (2)
+- [Automatically Composing Representation Transformations as a Means for Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatically_Composing_Representation_Transformations_as_a_Means_for_Generalization.md), ICLR 2019 (2)
+- [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), ICLR 2019 (4)
+
 ## 2018 RL/IL Papers
 
 Late-year
@@ -42,13 +51,11 @@ Late-year
 - Improving Exploration in ES for DeepRL via a Population of Novelty-Seeking Agents, NIPS 2018 (3)
 - Visual Reinforcement Learning with Imagined Goals, NIPS 2018 (1)
 - Probabilistic Model-Agnostic Meta-Learning, NIPS 2018 (1)
-- Some Considerations on Learning to Explore via Meta-Reinforcement Learning, NIPS 2018 (1)
-- Meta-Reinforcement Learning of Structured Exploration Strategies, NIPS 2018 (1)
-- Learning Instance Segmentation by Interaction, arXiv 2018 (1)
-- [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), arXiv 2018 (4)
+- [Learning Actionable Representations from Visual Observations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Actionable_Representations_from_Visual_Observations.md), IROS 2018 (4)
 
 Mid-year
 
+- Learning Instance Segmentation by Interaction, CVPR 2018 (1)
 - Learning by Playing –- Solving Sparse Reward Tasks from Scratch, ICML 2018 (1)
 - [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/IMPALA.md), ICML 2018 (2)
 - Universal Planning Networks, ICML 2018 (1)
@@ -210,10 +217,11 @@ Early-year
 
 # Deep Learning
 
+## 2019 DL Papers
 
 ## 2018 DL Papers
 
-- Step Size Matters in Deep Learning, NIPS 2018 (1)
+- [Learning to Teach With Dynamic Loss Functions](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach_With_Dynamic_Loss_Functions.md), NIPS 2018 (2)
 - [Skill Rating for Generative Models](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Skill_Rating_for_Generative_Models.md), arXiv 2018 (3)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
 - Large Scale Distributed Neural Network Training Through Online Distillation, ICLR 2018 (1)
@@ -295,6 +303,8 @@ Early-year
 
 # Miscellaneous 
 (Mostly about MCMC, Machine Learning, and/or Robotics.)
+
+## 2019 Misc Papers
 
 ## 2018 Misc Papers
 
