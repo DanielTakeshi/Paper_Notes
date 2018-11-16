@@ -48,6 +48,7 @@ Late-year
 
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), NIPS 2018 (5)
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) NIPS 2018 (2)
+- [Reward Learning from Human Preferences and Demonstrations in Atari](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reward_Learning_from_Human_Preferences_and_Demonstrations_in_Atari.md), NIPS 2018 (3)
 - Improving Exploration in ES for DeepRL via a Population of Novelty-Seeking Agents, NIPS 2018 (3)
 - Visual Reinforcement Learning with Imagined Goals, NIPS 2018 (1)
 - Probabilistic Model-Agnostic Meta-Learning, NIPS 2018 (1)
@@ -94,7 +95,7 @@ Early-year
 Late-year
 
 - [Deep Reinforcement Learning from Human Preferences](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_from_Human_Preferences.md), NIPS 2017 (3)
-- [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (3)
+- [One-Shot Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_Learning.md), NIPS 2017 (4)
 - [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/%23Exploration:_A_Study_of_Count-Based_Exploration_for_Deep_Reinforcement_Learning.md), NIPS 2017 (4)
 - [Robust Imitation of Diverse Behaviors](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Robust_Imitation_of_Diverse_Behaviors.md), NIPS 2017 (3)
 - [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Bridging_the_Gap_Between_Value_and_Policy_Based_Reinforcement_Learning.md), NIPS 2017 (2)
@@ -219,8 +220,10 @@ Early-year
 
 ## 2019 DL Papers
 
+
 ## 2018 DL Papers
 
+- [Stochastic Adversarial Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Stochastic_Adversarial_Video_Prediction.md), arXiv 2018
 - [Learning to Teach With Dynamic Loss Functions](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach_With_Dynamic_Loss_Functions.md), NIPS 2018 (2)
 - [Skill Rating for Generative Models](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Skill_Rating_for_Generative_Models.md), arXiv 2018 (3)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
@@ -234,6 +237,7 @@ Early-year
 - [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NIPS 2017 (2)
 - Dynamic Routing Between Capsules, NIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
+- [One Model to Learn Them All](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/One_Model_to_Learn_Them_All.md), arXiv 2017 (3)
 - [Population Based Training of Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Population_Based_Training_of_Neural_Networks.md), arXiv 2017 (5)
 - [Automated Curriculum Learning for Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Automated_Curriculum_Learning_for_Neural_Networks.md), ICML 2017 (3)
 - [Wasserstein GAN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Wasserstein_GAN.md), ICML 2017 (3)
@@ -274,6 +278,7 @@ Early-year
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
 - [Spatial Transformer Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Spatial_Transformer_Networks.md), NIPS 2015 (4)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
+- [Siamese Neural Networks for One-shot Image Recognition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Siamese_Neural_Networks_for_One-shot_Image_Recognition.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
 - Going Deeper with Convolutions, CVPR 2015 (1)
 - Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
