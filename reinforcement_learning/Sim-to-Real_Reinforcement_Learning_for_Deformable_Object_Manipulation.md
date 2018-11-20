@@ -21,9 +21,10 @@ the cloth simulator. How does that work?
 
 See the website here: https://sites.google.com/view/sim-to-real-deformable
 
-Hopefully they can put some code documentation there. I found Jan Matas'
-repositories, though, so I could use those if needed. Coding PyBullet would
-require a lot of work, though...
+Hopefully they can put some code documentation there.
+
+**EDIT/UPDATE**: I found Jan Matas' repositories, though, so I could use those
+if needed. Coding PyBullet would require a lot of work, though...
 
 The real experiments involve 30 trials on the robot. And, their success rates
 look good. Again, it would be easier to see more videos of this, rather than
