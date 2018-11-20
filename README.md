@@ -53,7 +53,7 @@ Late-year
 - Improving Exploration in ES for DeepRL via a Population of Novelty-Seeking Agents, NeurIPS 2018 (3)
 - Visual Reinforcement Learning with Imagined Goals, NeurIPS 2018 (1)
 - Probabilistic Model-Agnostic Meta-Learning, NeurIPS 2018 (1)
-- Sim-to-Real Reinforcement Learning for Deformable Object Manipulation, CoRL 2018 (3)
+- [Sim-to-Real Reinforcement Learning for Deformable Object Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Sim-to-Real_Reinforcement_Learning_for_Deformable_Object_Manipulation.md ), CoRL 2018 (4)
 - [Learning Actionable Representations from Visual Observations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Actionable_Representations_from_Visual_Observations.md), IROS 2018 (4)
 
 Mid-year
