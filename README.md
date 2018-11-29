@@ -55,6 +55,7 @@ Late-year
 - Visual Reinforcement Learning with Imagined Goals, NeurIPS 2018 (1)
 - Probabilistic Model-Agnostic Meta-Learning, NeurIPS 2018 (1)
 - [Sim-to-Real Reinforcement Learning for Deformable Object Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Sim-to-Real_Reinforcement_Learning_for_Deformable_Object_Manipulation.md ), CoRL 2018 (4)
+- GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning, CoRL 2018 (1)
 - [Learning Actionable Representations from Visual Observations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Actionable_Representations_from_Visual_Observations.md), IROS 2018 (4)
 
 Mid-year
@@ -65,6 +66,7 @@ Mid-year
 - Universal Planning Networks, ICML 2018 (1)
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
 - Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018 (1)
+- [Investigating Human Priors for Playing Video Games](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Investigating_Human_Priors_for_Playing_Video_Games.md), ICML 2018 (3)
 - [Kickstarting Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Kickstarting_Deep_Reinforcement_Learning.md), arXiv 2018 (5)
 - [Self-Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Self-Imitation_Learning.md), ICML 2018 (4)
 - [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), ICML 2018 (4)
@@ -87,6 +89,7 @@ Early-year
 - [Emergent Complexity via Multi-Agent Competition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Emergent_Complexity_via_Multi-Agent_Competition.md), ICLR 2018 (3)
 - [Progressive Reinforcement Learning With Distillation For Multi-Skilled Motion Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Progressive_Reinforcement_Learning_With_Distillation_For_Multi-Skilled_Motion_Control.md), ICLR 2018 (4)
 - [Model-Ensemble Trust-Region Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Ensemble_Trust-Region_Policy_Optimization.md), ICLR 2018 (3)
+- Distributed Prioritized Experience Replay, ICLR 2018 (1)
 - Learning to Multi-Task by Active Sampling, ICLR 2018 (1)
 - Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
@@ -111,6 +114,7 @@ Late-year
 - [Reverse Curriculum Generation for Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reverse_Curriculum_Generation_for_Reinforcement_Learning.md), CoRL 2017 (5)
 - [One-Shot Visual Imitation Learning via Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Visual_Imitation_Learning_via_Meta-Learning.md), CoRL 2017 (5)
 - Sim-to-Real Robot Learning from Pixels with Progressive Nets, CoRL 2017 (1)
+- Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task, CoRL 2017 (1)
 - [Visual Semantic Planning using Deep Successor Representations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Semantic_Planning_Using_Deep_Successor_Representations.md), ICCV 2017 (4)
 - [Proximal Policy Optimization Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), arXiv (4)
 - [Learning Human Behaviors From Motion Capture by Adversarial Imitation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Human_Behaviors_from_Motion_Capture_by_Adversarial_Imitation.md), arXiv (3)
@@ -197,6 +201,7 @@ Early-year
 
 ## 2015 RL/IL Papers
 
+- [Action-Conditional Video Prediction using Deep Networks in Atari Games](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Action-Conditional_Video_Prediction_using_Deep_Networks_in_Atari_Games.md), NeurIPS2015 (4)
 - Gradient Estimation Using Stochastic Computation Graphs, NeurIPS 2015 (1)
 - Learning Continuous Control Policies by Stochastic Value Gradients, NeurIPS 2015 (1)
 - [Deep Attention Recurrent Q-Network](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Attention_Recurrent_Q-Network.md), NeurIPS Workshop 2015 (3)
@@ -263,7 +268,7 @@ Early-year
 - Conditional Image Generation with PixelCNN Decoders, NeurIPS 2016 (2)
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NeurIPS 2016 (2)
 - [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NeurIPS 2016 (3)
-- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NeurIPS 2016 (2)
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/InfoGAN_Interpretable_Representation_Learning_by_Information_Maximizing_Generative_Adversarial_Nets.md), NeurIPS 2016 (2)
 - WaveNet: A Generative Model for Raw Audio, arXiv (1)
 - [Tutorial on Variational Autoencoders](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tutorial_on_Variational_Autoencoders.md), arXiv (3)
 - [Active Long Term Memory Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Active_Long_Term_Memory_Networks.md), arXiv (3)
