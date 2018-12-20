@@ -7,6 +7,17 @@ and in fact, OpenAI baselines makes DDQN the default version of DQN.) At the
 time of publication (remember, this was AAAI, *not* ICLR, ICML, NIPS, etc.) it
 had state of the art results.
 
+**Update Dec 2018**: been a while! I re-read the discussion here and it is
+making more sense. I can also implement the algorithm. :-) Thank goodness for
+Berkeley's DeepRL course.
+
+Also, if you're still confused by why Q-Learning overestimates values, the
+simplest way is probably to write down both updates carefully, and then
+reasoning about what happens when we take the max values. In normal DQN, we take
+the max action over the target net, and in double DQN, we take a value that has
+to have a Q-value less than or equal to that quantity since the action is chosen
+by the other network.
+
 ## Main Idea
 
 **In vanilla Q-learning (including parameterized variants like DQN), values
@@ -41,6 +52,3 @@ Quick pointers:
   1 for all six actions, then it doesn't matter! We would still pick the correct
   action. Thus, uniform overestimation does not appear to be a problem. The
   issue here, of course, is that Q-learning does *not* uniformly overestimate.
-
-TODO for me when I find the time: better understand Figures 1 and 2, and
-understand theoretical results.

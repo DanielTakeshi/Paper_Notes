@@ -196,7 +196,7 @@ Early-year
 - [Learning Deep Neural Network Policies with Continuous Memory States](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Deep_Neural_Network_Policies_with_Continuous_Memory_States.md), ICRA 2016 (2)
 - [End-to-End Training of Deep Visuomotor Policies](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md), JMLR 2016 (2)
 - [Learning the Variance of the Reward-To-Go](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_the_Variance_of_the_Reward-To-Go.md), JMLR 2016 (3)
-- [Deep Reinforcement Learning with Double Q-learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_with_Double_Q-learning.md), AAAI 2016 (3)
+- [Deep Reinforcement Learning with Double Q-learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning_with_Double_Q-learning.md), AAAI 2016 (5)
 - Mastering the Game of Go with Deep Neural Networks and Tree Search, Nature 2016 (1)
 
 ## 2015 RL/IL Papers
@@ -323,9 +323,11 @@ Early-year
 
 ## 2018 Misc Papers
 
+- [Cloth Manipulation Using Random-Forest-Based Controller Parametrization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Cloth_Manipulation_Using_Random-Forest-Based_Controller_Parametrization.md), arXiv 2018 (1)
 - [Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Segmenting_Unknown_3D_Objects_from_Real_Depth_Images_using_Mask_R-CNN_Trained_on_Synthetic_Point_Clouds.md), arXiv 2018 (4)
 - [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Robot_Learning_in_Homes:_Improving_Generalization_and_Reducing_Dataset_Bias.md), NeurIPS 2018 (5)
 - [Learning to See Forces: Surgical Force Prediction w/RGB-Point Cloud Temporal CNNs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_to_See_Forces_Surgical_Force_Prediction.md), MICCAI 2018 (3)
+- [Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Manipulating_Highly_Deformable_Materials_Using_a_Visual_Feedback_Dictionary.md), ICRA 2018 (1)
 - Towards Black-box Iterative Machine Teaching, ICML 2018 (1)
 - [Dex-Net 3.0: Computing Robust Robot Vacuum Suction Grasp Targets using Analytic Model and DL](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Dex-Net_3.0:_Computing_Robust_Robot_Vacuum_Suction_Grasp_Targets_using_Analytic_Model_and_DL.md), ICRA 2018 (4)
 - [Learning Robust Bed Making using Deep Imitation Learning with Dart](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Robust_Bed_Making_using_Deep_Imitation_Learning_with_Dart.md), arXiv 2018 (5)
