@@ -38,6 +38,7 @@ Contents:
 
 ## 2019 RL/IL Papers
 
+- [Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Foresight_MPC.md), arXiv (4)
 - [Large-Scale Study of Curiosity-Driven Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Large-Scale_Study_of_Curiosity-Driven_Learning.md), ICLR 2019 (4)
 - [Exploration by Random Network Distillation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Exploration_by_Random_Network_Distillation.md), ICLR 2019 (4)
 - [Automatically Composing Representation Transformations as a Means for Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatically_Composing_Representation_Transformations_as_a_Means_for_Generalization.md), ICLR 2019 (2)
