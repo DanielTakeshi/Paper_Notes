@@ -38,18 +38,18 @@ Contents:
 
 ## 2019 RL/IL Papers
 
-- [Residual Reinforcement Learning for Robot Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Residual_Reinforcement_Learning_for_Robot_Control.md), arXiv (4)
 - [Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Foresight_MPC.md), arXiv (4)
 - [Large-Scale Study of Curiosity-Driven Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Large-Scale_Study_of_Curiosity-Driven_Learning.md), ICLR 2019 (4)
 - [Exploration by Random Network Distillation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Exploration_by_Random_Network_Distillation.md), ICLR 2019 (4)
 - [Automatically Composing Representation Transformations as a Means for Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatically_Composing_Representation_Transformations_as_a_Means_for_Generalization.md), ICLR 2019 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), ICLR 2019 (4)
+- [Multi-task Deep Reinforcement Learning with PopArt](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-task_Deep_Reinforcement_Learning_with_PopArt.md), AAAI 2019 (4)
+- [Residual Reinforcement Learning for Robot Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Residual_Reinforcement_Learning_for_Robot_Control.md), arXiv (3)
 
 ## 2018 RL/IL Papers
 
 Late-year
 
-- Natural Environment Benchmarks for Reinforcement Learning, arXiv 2018 (1)
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Simple_Random_Search_Provides_a_Competitive_Approach_to_Reinforcement_Learning.md), NeurIPS 2018 (5)
 - [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_to_Play_with_Intrinsically-Motivated_Self-Aware_Agents.md) NeurIPS 2018 (2)
 - [Reward Learning from Human Preferences and Demonstrations in Atari](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reward_Learning_from_Human_Preferences_and_Demonstrations_in_Atari.md), NeurIPS 2018 (3)
@@ -59,6 +59,7 @@ Late-year
 - [Sim-to-Real Reinforcement Learning for Deformable Object Manipulation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Sim-to-Real_Reinforcement_Learning_for_Deformable_Object_Manipulation.md ), CoRL 2018 (4)
 - GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning, CoRL 2018 (1)
 - [Learning Actionable Representations from Visual Observations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Actionable_Representations_from_Visual_Observations.md), IROS 2018 (4)
+- Natural Environment Benchmarks for Reinforcement Learning, arXiv 2018 (1)
 
 Mid-year
 
@@ -69,12 +70,13 @@ Mid-year
 - Hierarchical Imitation and Reinforcement Learning, ICML 2018 (1)
 - Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018 (1)
 - [Investigating Human Priors for Playing Video Games](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Investigating_Human_Priors_for_Playing_Video_Games.md), ICML 2018 (3)
-- [Kickstarting Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Kickstarting_Deep_Reinforcement_Learning.md), arXiv 2018 (5)
 - [Self-Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Self-Imitation_Learning.md), ICML 2018 (4)
 - [Automatic Goal Generation for Reinforcement Learning Agents](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatic_Goal_Generation_for_Reinforcement_Learning_Agents.md), ICML 2018 (4)
 - [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.md]), RSS 2018 (2)
 - [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/One-Shot_Imitation_from_Observing_Humans_via_Domain-Adaptive_Meta-Learning.md), RSS 2018 (4)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Learning_Complex_Dexterous_Manipulation_with_Deep_Reinforcement_Learning_and_Demonstrations.md), RSS 2018 (4)
+- [Kickstarting Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Kickstarting_Deep_Reinforcement_Learning.md), arXiv 2018 (5)
+- [Observe and Look Further: Achieving Consistent Performance on Atari](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Observe_and_Look_Further_Achieving_Consistent_Performance_on_Atari.md), arXiv 2018 (4)
 
 Early-year
 
@@ -96,6 +98,7 @@ Early-year
 - Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
 - [Deep Q-learning from Demonstrations](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_QLearning_From_Demonstrations.md), AAAI 2018 (5)
+- [Deep Reinforcement Learning that Matters](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Deep_Reinforcement_Learning__that_Matters.md), AAAI 2018 (4)
 
 
 ## 2017 RL/IL Papers
@@ -235,7 +238,7 @@ Early-year
 
 ## 2018 DL Papers
 
-- [Stochastic Adversarial Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Stochastic_Adversarial_Video_Prediction.md), arXiv 2018
+- [Stochastic Adversarial Video Prediction](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Stochastic_Adversarial_Video_Prediction.md), arXiv 2018 (3)
 - [Learning to Teach With Dynamic Loss Functions](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Learning_to_Teach_With_Dynamic_Loss_Functions.md), NeurIPS 2018 (2)
 - [Skill Rating for Generative Models](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Skill_Rating_for_Generative_Models.md), arXiv 2018 (3)
 - [Born Again Neural Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Born_Again_Neural_Networks.md), ICML 2018 (5)
@@ -353,6 +356,7 @@ Early-year
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection.md), IJRR (5)
 - [On Markov Chain Monte Carlo Methods for Tall Data](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/On_Markov_Chain_Monte_Carlo_Methods_for_Tall_Data.md), JMLR 2017 (3)
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/A_Conceptual_Introduction_to_Hamiltonian_Monte_Carlo.md), arXiv (4)
+- [Model-Driven Feed-Forward Prediction for Manipulation of Deformable Objects](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Model-Driven_Feed-Forward_Prediction_for_Manipulation_of_Deformable_Objects.md), IEEE TASE 2017 (3)
 
 ## 2016 Misc Papers
 
