@@ -38,6 +38,7 @@ Contents:
 
 ## 2019 RL/IL Papers
 
+- [Off-Policy Deep Reinforcement Learning Without Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Where_Off-Policy_DeepRL_Fails.md) arXiv (5)
 - [Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Foresight_MPC.md), arXiv (4)
 - [Large-Scale Study of Curiosity-Driven Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Large-Scale_Study_of_Curiosity-Driven_Learning.md), ICLR 2019 (4)
 - [Exploration by Random Network Distillation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Exploration_by_Random_Network_Distillation.md), ICLR 2019 (4)
@@ -93,7 +94,7 @@ Early-year
 - [Emergent Complexity via Multi-Agent Competition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Emergent_Complexity_via_Multi-Agent_Competition.md), ICLR 2018 (3)
 - [Progressive Reinforcement Learning With Distillation For Multi-Skilled Motion Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Progressive_Reinforcement_Learning_With_Distillation_For_Multi-Skilled_Motion_Control.md), ICLR 2018 (4)
 - [Model-Ensemble Trust-Region Policy Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Model-Ensemble_Trust-Region_Policy_Optimization.md), ICLR 2018 (3)
-- Distributed Prioritized Experience Replay, ICLR 2018 (1)
+- [Distributed Prioritized Experience Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Distributed_PER.md), ICLR 2018 (4)
 - Learning to Multi-Task by Active Sampling, ICLR 2018 (1)
 - Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning, ICLR 2018 (1)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Rainbow_Combining_Improvements_in_Deep_Reinforcement_Learning.md), AAAI 2018 (4)
