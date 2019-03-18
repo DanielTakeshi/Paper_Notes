@@ -40,12 +40,12 @@ Contents:
 
 - [Off-Policy Deep Reinforcement Learning Without Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Where_Off-Policy_DeepRL_Fails.md) arXiv (5)
 - [Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Visual_Foresight_MPC.md), arXiv (4)
+- [Residual Reinforcement Learning for Robot Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Residual_Reinforcement_Learning_for_Robot_Control.md), ICRA 2019 (3)
 - [Large-Scale Study of Curiosity-Driven Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Large-Scale_Study_of_Curiosity-Driven_Learning.md), ICLR 2019 (4)
 - [Exploration by Random Network Distillation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Exploration_by_Random_Network_Distillation.md), ICLR 2019 (4)
 - [Automatically Composing Representation Transformations as a Means for Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Automatically_Composing_Representation_Transformations_as_a_Means_for_Generalization.md), ICLR 2019 (2)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Diversity_is_All_You_Need_Learning_Skills_without_a_Reward_Function.md), ICLR 2019 (4)
 - [Multi-task Deep Reinforcement Learning with PopArt](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Multi-task_Deep_Reinforcement_Learning_with_PopArt.md), AAAI 2019 (4)
-- [Residual Reinforcement Learning for Robot Control](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Residual_Reinforcement_Learning_for_Robot_Control.md), arXiv (3)
 
 ## 2018 RL/IL Papers
 
@@ -250,7 +250,7 @@ Early-year
 ## 2017 DL Papers
 
 - [Continual Learning with Deep Generative Replay](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Continual_Learning_with_Deep_Generative_Replay.md), NeurIPS 2017 (3)
-- [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NeurIPS 2017 (2)
+- [Attention is All You Need](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Attention_is_All_You_Need.md), NeurIPS 2017 (3)
 - Dynamic Routing Between Capsules, NeurIPS 2017 (1)
 - [Tensor Regression Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Tensor_Regression_Networks.md), arXiv 2017 (2)
 - [One Model to Learn Them All](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/One_Model_to_Learn_Them_All.md), arXiv 2017 (3)
@@ -293,10 +293,13 @@ Early-year
 
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, ICCV 2015 (2)
 - [Spatial Transformer Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Spatial_Transformer_Networks.md), NeurIPS 2015 (4)
+- [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Effective_Approaches_to_Attention-based_Neural_Machine_Translation.md), EMNLP 2015 (3)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.md), ICML 2015 (4)
 - [Siamese Neural Networks for One-shot Image Recognition](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Siamese_Neural_Networks_for_One-shot_Image_Recognition.md), ICML 2015 (4)
 - [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/DRAW_A_Recurrent_Neural_Network_For_Image_Generation.md), ICML 2015 (2)
+- [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Show_Attend_and_Tell_Neural_Image_Caption_Generation_with_Visual_Attention.md), ICML 2015 (3)
 - Going Deeper with Convolutions, CVPR 2015 (1)
+- [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Deep_Visual-Semantic_Alignments_for_Generating_Image_Descriptions.md), CVPR 2015 (3)
 - Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015 (1)
 - [ADAM: A Method for Stochastic Optimization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/ADAM_A_Method_for_Stochastic_Optimization.md), ICLR 2015 (2)
 - Explaining and Harnessing Adversarial Examples, ICLR 2015 (2)
