@@ -1,5 +1,7 @@
 # Kickstarting Deep Reinforcement Learning
 
+https://danieltakeshi.github.io/2019/05/11/dqfd-followups/
+
 Similar to other teacher-student papers, e.g., DQfD from DeepMind and
 "Overcoming Exploration" by Ashvin Nair. They use different scenarios and
 agents, though, so it's not an easy comparison. (Thank goodness DeepMind is

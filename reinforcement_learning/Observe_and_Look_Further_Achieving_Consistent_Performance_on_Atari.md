@@ -1,5 +1,7 @@
 # Observe and Look Further: Achieving Consistent Performance on Atari
 
+https://danieltakeshi.github.io/2019/05/11/dqfd-followups/
+
 Two main reasons why I wanted to read this paper:
 
 - It extends the DQfD paper, and I am very interested in ways to bootstrap and

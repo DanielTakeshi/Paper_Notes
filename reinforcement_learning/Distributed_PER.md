@@ -1,5 +1,7 @@
 # Distributed Prioritized Experience Replay
 
+https://danieltakeshi.github.io/2019/05/11/dqfd-followups/
+
 AKA, the "**Ape-X**" paper.
 
 This is an empirical paper that falls under the theme of 'distributed' and/or

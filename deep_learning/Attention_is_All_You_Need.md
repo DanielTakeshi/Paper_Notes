@@ -1,7 +1,8 @@
 # Attention Is All You Need
 
-Whew ... this is one of those seminal papers, and it's dominated the field of
-NLP.
+https://danieltakeshi.github.io/2019/03/30/transformers/
+
+This is a seminal paper. It has dominated the field of NLP.
 
 The paper proposes the *Transformer* network architecture for seq2seq tasks,
 which outperforms RNNs and CNNs (convs=over time, so can be for non-image based

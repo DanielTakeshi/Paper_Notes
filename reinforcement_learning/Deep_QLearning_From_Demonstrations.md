@@ -1,5 +1,8 @@
 # Deep Q-learning from Demonstrations
 
+https://danieltakeshi.github.io/2019/04/30/il-and-rl/
+https://danieltakeshi.github.io/2019/05/11/dqfd-followups/
+
 (Note: this paper was published under an earlier title "Learning from
 Demonstrations for Real World Reinforcement Learning".)
 
